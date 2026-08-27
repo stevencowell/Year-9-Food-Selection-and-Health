@@ -1,0 +1,3818 @@
+{
+  "schema_version": "1.0",
+  "artifact_id": "year-9-food-selection-health-teacher-program",
+  "version": "1.0.0",
+  "build_id": "food-selection-health-local-2026-08-28-v1",
+  "course": {
+    "course_id": "year-9-food-selection-and-health",
+    "title": "Year 9 Food Selection and Health",
+    "classification": "Stage 5 Food Technology focus-area unit",
+    "focus_area": "Food selection for nutrition and health",
+    "scope": "Eleven-week unit; not represented as a complete 100-hour or 200-hour elective"
+  },
+  "cohort": "Year 9",
+  "delivery_year": "Teacher to confirm",
+  "source_contract": {
+    "artifact_id": "source-map-v1",
+    "version": "1.0",
+    "sha256": "aef051afa93bd9cc76c0b32ca2c3a6814f1d80b32d81941ca3522377bd00950f"
+  },
+  "integration_baseline": {
+    "artifact_id": "integration-manifest-v1",
+    "sha256": "e565bd2bc8f11006d63be763dd4de4d934e6f469ddb51e2fa8316c7c24e06a3d"
+  },
+  "syllabus_basis": {
+    "title": "NSW Food Technology 7-10 Syllabus",
+    "version": "2025",
+    "outcome_code_family": "FT5-*-01 (2025)",
+    "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview",
+    "verified_date": "2026-08-28",
+    "mandatory_from": "Year 9 from 2028; all students from 2029",
+    "implementation_status": "2026-27 planning and possible early implementation; WWHS decision Teacher to confirm",
+    "delivery_year": "Teacher to confirm"
+  },
+  "authority_state": {
+    "description": "School-developed and NESA-aligned; not NESA-approved",
+    "practical_authority": "Teacher to confirm",
+    "assessment_authority": "Published schedule mapped; HelloEats formal conditions unresolved",
+    "privacy": "Private source identifiers and student data excluded from the program package"
+  },
+  "release_state": {
+    "local": "PROGRAM_CANDIDATE",
+    "committed": false,
+    "pushed": false,
+    "deployed": false,
+    "live_verified": false
+  },
+  "outcomes": [
+    {
+      "code": "FT5-SAF-01",
+      "statement": "applies safe work and management practices through food design and production processes",
+      "source_id": "src-nesa-ft-2025",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "module_ids": [
+        "m01-ready-to-work",
+        "m06-health-guidance"
+      ]
+    },
+    {
+      "code": "FT5-COM-01",
+      "statement": "communicates ideas, concepts and solutions in food design and production contexts",
+      "source_id": "src-nesa-ft-2025",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "module_ids": [
+        "m01-ready-to-work",
+        "m02-food-body",
+        "m03-food-evidence",
+        "m04-needs-influences",
+        "m05-patterns-technology",
+        "m06-health-guidance"
+      ]
+    },
+    {
+      "code": "FT5-FPP-01",
+      "statement": "selects and justifies the use of food preparation and presentation practices",
+      "source_id": "src-nesa-ft-2025",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "module_ids": [
+        "m01-ready-to-work",
+        "m05-patterns-technology",
+        "m06-health-guidance"
+      ]
+    },
+    {
+      "code": "FT5-USE-01",
+      "statement": "selects and applies ingredients, techniques and equipment in food design and production contexts",
+      "source_id": "src-nesa-ft-2025",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "module_ids": [
+        "m01-ready-to-work"
+      ]
+    },
+    {
+      "code": "FT5-IET-01",
+      "statement": "explains industry practices and emerging technologies used in food design and production",
+      "source_id": "src-nesa-ft-2025",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "module_ids": [
+        "m02-food-body",
+        "m03-food-evidence",
+        "m04-needs-influences",
+        "m05-patterns-technology"
+      ]
+    },
+    {
+      "code": "FT5-NSA-01",
+      "statement": "assesses how nutrition, food selection and availability influence individuals and communities",
+      "source_id": "src-nesa-ft-2025",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "module_ids": [
+        "m02-food-body",
+        "m03-food-evidence",
+        "m04-needs-influences",
+        "m05-patterns-technology",
+        "m06-health-guidance"
+      ]
+    },
+    {
+      "code": "FT5-ENV-01",
+      "statement": "analyses relationships between food production systems, sustainability and society",
+      "source_id": "src-nesa-ft-2025",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "module_ids": [
+        "m03-food-evidence",
+        "m04-needs-influences",
+        "m05-patterns-technology",
+        "m06-health-guidance"
+      ]
+    }
+  ],
+  "source_register": [
+    {
+      "source_id": "src-nesa-ft-2025",
+      "title": "NSW Food Technology 7-10 Syllabus (2025)",
+      "authority": "official syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview",
+      "revision": "2025; verified 2026-08-28",
+      "use": "Course identity, focus area, outcomes and content boundary"
+    },
+    {
+      "source_id": "src-nswdoe-implementation",
+      "title": "Food Technology 7-10 (2025) syllabus information",
+      "authority": "official implementation advice",
+      "location": "https://education.nsw.gov.au/teaching-and-learning/curriculum/tas/leading-tas-7-12/food-technology-7-10-2025-syllabus-information",
+      "revision": "verified 2026-08-28",
+      "use": "Mandatory implementation and familiarisation/planning basis"
+    },
+    {
+      "source_id": "src-local-classroom-spine",
+      "title": "YEAR 9 FOOD SELECTION AND HEALTH TEACHER EDITION classwork sequence",
+      "authority": "authorised local sequence",
+      "location": "Owner system; private identifiers retained under _project only",
+      "revision": "captured 2026-08-28",
+      "sha256": "2d70f05bd602fe4d79c312334bbc5446ab5a64f87c1ccc462a30dcd13bc8276e",
+      "use": "Eleven-week concept order and local emphasis"
+    },
+    {
+      "source_id": "src-wwhs-assessment-2026",
+      "title": "Year 9 Assessment Booklet 2026 - Food Technology",
+      "authority": "current published school assessment schedule",
+      "location": "https://sites.google.com/education.nsw.gov.au/wwhsstudentparentinformation/curriculum-information/assessment-handbooks",
+      "revision": "modified 2026-01-31; verified 2026-08-28",
+      "sha256": "53a6accb75c3b88290180710a95f00a91412a79446fd0086cb2eb5f887f9846e",
+      "use": "Published schedule only; 2019 outcome family requires local translation decision"
+    },
+    {
+      "source_id": "src-helloeats-working",
+      "title": "HelloEats working set",
+      "authority": "historical local assessment intent only",
+      "location": "Owner system; not republished",
+      "revision": "conflicted working documents verified 2026-08-28",
+      "sha256": "816eae117a689cdd00115b25ba6426d7fe2b0e91e4a13effdeeb9fd23b595f35",
+      "use": "Draft research and food-solution context; formal conditions Teacher to confirm"
+    },
+    {
+      "source_id": "src-fsanz-safety",
+      "title": "FSANZ food safety",
+      "authority": "Australian government authority",
+      "location": "https://www.foodstandards.gov.au/consumer/safety",
+      "revision": "verified 2026-08-28",
+      "use": "Food-safety concepts"
+    },
+    {
+      "source_id": "src-fsanz-labels",
+      "title": "FSANZ food labelling and nutrition panels",
+      "authority": "Australian government authority",
+      "location": "https://www.foodstandards.gov.au/consumer/labelling/panels",
+      "revision": "verified 2026-08-28",
+      "use": "Ingredients, allergens, serves and panel comparison"
+    },
+    {
+      "source_id": "src-nsw-food-authority",
+      "title": "NSW Food Authority food safety",
+      "authority": "NSW government authority",
+      "location": "https://www.foodauthority.nsw.gov.au/consumer/food-at-home",
+      "revision": "verified 2026-08-28",
+      "use": "Food handling and contamination controls"
+    },
+    {
+      "source_id": "src-eat-for-health",
+      "title": "Australian Dietary Guidelines and Australian Guide to Healthy Eating",
+      "authority": "Australian government authority",
+      "location": "https://www.eatforhealth.gov.au/",
+      "revision": "verified 2026-08-28",
+      "use": "Nutrition patterns and Australian guidance"
+    },
+    {
+      "source_id": "src-health-star-rating",
+      "title": "Health Star Rating system",
+      "authority": "Australian government authority",
+      "location": "https://www.healthstarrating.gov.au/",
+      "revision": "verified 2026-08-28",
+      "use": "Contextual packaged-food comparison"
+    },
+    {
+      "source_id": "src-abs-dietary",
+      "title": "ABS dietary behaviour",
+      "authority": "Australian government statistics",
+      "location": "https://www.abs.gov.au/statistics/health/health-conditions-and-risks/dietary-behaviour",
+      "revision": "current source selected at delivery",
+      "use": "Population consumption evidence"
+    },
+    {
+      "source_id": "src-aihw-nutrition",
+      "title": "AIHW food and nutrition overview",
+      "authority": "Australian government evidence",
+      "location": "https://www.aihw.gov.au/reports-data/behaviours-risk-factors/food-nutrition/overview",
+      "revision": "current source selected at delivery",
+      "use": "Population nutrition and health context"
+    },
+    {
+      "source_id": "src-healthdirect",
+      "title": "Healthdirect Australia",
+      "authority": "Australian government health information",
+      "location": "https://www.healthdirect.gov.au/",
+      "revision": "verified 2026-08-28",
+      "use": "Digestive system, first-response and clinical boundary"
+    },
+    {
+      "source_id": "src-safework-nsw",
+      "title": "SafeWork NSW hazards",
+      "authority": "NSW government authority",
+      "location": "https://www.safework.nsw.gov.au/hazards-a-z",
+      "revision": "verified 2026-08-28",
+      "use": "Hazard identification and reporting"
+    },
+    {
+      "source_id": "src-accc-claims",
+      "title": "ACCC false or misleading claims",
+      "authority": "Australian government authority",
+      "location": "https://www.accc.gov.au/consumers/advertising-and-promotions/false-or-misleading-claims",
+      "revision": "verified 2026-08-28",
+      "use": "Ethical claim evaluation"
+    },
+    {
+      "source_id": "src-ted-ed-digestion",
+      "title": "TED-Ed: How your digestive system works",
+      "authority": "verified explanatory media",
+      "location": "https://www.youtube.com/watch?v=Og5xAdC8EUI",
+      "revision": "verified 2026-08-28",
+      "use": "Optional digestion video with equivalent non-video pathway"
+    }
+  ],
+  "modules": [
+    {
+      "module_id": "m01-ready-to-work",
+      "title": "Ready to work safely",
+      "timing": "Adaptable planned periods 1-3; local timetable Teacher to confirm",
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-COM-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "sections": [
+        {
+          "section_id": "m01-s1",
+          "title": "Personal hygiene and readiness",
+          "substantial_sequence": true,
+          "content_descriptors": [
+            "Safe personal preparation and hygiene in food design and production."
+          ],
+          "source_ids": [
+            "src-nesa-ft-2025",
+            "src-nsw-food-authority",
+            "src-fsanz-safety",
+            "src-local-classroom-spine"
+          ],
+          "learning_intention": "Explain how personal preparation interrupts contamination pathways and make a defensible readiness decision before handling food.",
+          "learning_sequence": [
+            "Use the module presentation where this is the first section in the module.",
+            "Teach the named theory with its purposeful visual and verified media or equivalent non-video pathway.",
+            "Complete the Applied Learning Activity: Contamination-chain photo audit.",
+            "Complete all ten feedback-rich MCQs and the scaffolded long response for Learning package 1.1.",
+            "Hand evidence to the folio as: M1.1 Readiness control plan."
+          ],
+          "evidence": {
+            "state": "mapped",
+            "knowledge_check_count": 10,
+            "long_response_count": 1,
+            "long_response_prompt": "Justify a five-point readiness routine for a Year 9 food practical. For each point, explain the contamination pathway or safety problem it controls and evaluate why simply looking clean is insufficient.",
+            "folio_handoff": "Save as \"M1.1 Readiness control plan\" with a labelled contamination-chain example and one question about local room procedures.",
+            "site_ids": [
+              "site-m01-s1-response",
+              "site-m01-s1-folio"
+            ]
+          },
+          "formative_checks": {
+            "mcq_count": 10,
+            "feedback": "Immediate option-specific feedback with theory-help links",
+            "long_response_count": 1,
+            "module_review": "site-m01-review"
+          },
+          "adjustments": [
+            "Chunk the theory and visual; pre-teach key vocabulary and use the equivalent non-video pathway when required.",
+            "Offer sentence stems, modelled examples and typed, scribed or oral-planning access while keeping the evidence demand.",
+            "Extend through source-limit analysis, changed constraints or a more complex design trade-off."
+          ],
+          "literacy_numeracy_digital": {
+            "literacy": "Use precise food-technology vocabulary and claim-evidence-reasoning structures.",
+            "numeracy": "Compare quantities, units, serves, time or rating evidence where the section requires it.",
+            "digital": "Use privacy-safe public sources and browser-local saving; export evidence without implying online submission."
+          },
+          "safety_workplace": {
+            "state": "Theory and decision-making only unless a teacher approves practical application",
+            "boundary": "The website does not authorise independent practical work or replace current school controls."
+          },
+          "resources": [
+            "resources/presentations/Food-Selection-Health-Module-01-Ready-to-work-safely.pptx",
+            "Purposeful section visual and equivalent non-video pathway",
+            "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview",
+            "https://www.foodstandards.gov.au/consumer/safety",
+            "https://www.foodauthority.nsw.gov.au/consumer/food-at-home"
+          ],
+          "site_destinations": {
+            "theory": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m01-s1-theory"
+              ]
+            },
+            "knowledge_check": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m01-s1-check"
+              ]
+            },
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m01-s1-response",
+                "site-m01-s1-folio"
+              ]
+            },
+            "activity": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m01-s1-activity"
+              ]
+            },
+            "media": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m01-s1-media",
+                "site-m01-presentation"
+              ]
+            }
+          }
+        },
+        {
+          "section_id": "m01-s2",
+          "title": "Contamination, temperature and food safety",
+          "substantial_sequence": true,
+          "content_descriptors": [
+            "Food hazards and controls: contamination pathways, time and temperature."
+          ],
+          "source_ids": [
+            "src-nesa-ft-2025",
+            "src-nsw-food-authority",
+            "src-fsanz-safety",
+            "src-local-classroom-spine"
+          ],
+          "learning_intention": "Classify food hazards and use separation, cleaning, temperature and cumulative-time evidence to choose safe handling actions.",
+          "learning_sequence": [
+            "Use the module presentation where this is the first section in the module.",
+            "Teach the named theory with its purposeful visual and verified media or equivalent non-video pathway.",
+            "Complete the Applied Learning Activity: Bench-route control challenge.",
+            "Complete all ten feedback-rich MCQs and the scaffolded long response for Learning package 1.2.",
+            "Hand evidence to the folio as: M1.2 Hazard-route plan."
+          ],
+          "evidence": {
+            "state": "mapped",
+            "knowledge_check_count": 10,
+            "long_response_count": 1,
+            "long_response_prompt": "Analyse a lunch-preparation scene where raw food, ready-to-eat salad and chilled filling share a bench. Identify four hazards, trace their transfer or growth pathways, and justify controls using separation, cleaning, time and temperature.",
+            "folio_handoff": "Save as \"M1.2 Hazard-route plan\" with the annotated visual, time calculation and one decision per food.",
+            "site_ids": [
+              "site-m01-s2-response",
+              "site-m01-s2-folio"
+            ]
+          },
+          "formative_checks": {
+            "mcq_count": 10,
+            "feedback": "Immediate option-specific feedback with theory-help links",
+            "long_response_count": 1,
+            "module_review": "site-m01-review"
+          },
+          "adjustments": [
+            "Chunk the theory and visual; pre-teach key vocabulary and use the equivalent non-video pathway when required.",
+            "Offer sentence stems, modelled examples and typed, scribed or oral-planning access while keeping the evidence demand.",
+            "Extend through source-limit analysis, changed constraints or a more complex design trade-off."
+          ],
+          "literacy_numeracy_digital": {
+            "literacy": "Use precise food-technology vocabulary and claim-evidence-reasoning structures.",
+            "numeracy": "Compare quantities, units, serves, time or rating evidence where the section requires it.",
+            "digital": "Use privacy-safe public sources and browser-local saving; export evidence without implying online submission."
+          },
+          "safety_workplace": {
+            "state": "Teacher to confirm for practical application",
+            "boundary": "The website does not authorise independent practical work or replace current school controls."
+          },
+          "resources": [
+            "resources/presentations/Food-Selection-Health-Module-01-Ready-to-work-safely.pptx",
+            "Purposeful section visual and equivalent non-video pathway",
+            "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview",
+            "https://www.foodstandards.gov.au/consumer/safety",
+            "https://www.foodauthority.nsw.gov.au/consumer/food-at-home"
+          ],
+          "site_destinations": {
+            "theory": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m01-s2-theory"
+              ]
+            },
+            "knowledge_check": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m01-s2-check"
+              ]
+            },
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m01-s2-response",
+                "site-m01-s2-folio"
+              ]
+            },
+            "activity": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m01-s2-activity"
+              ]
+            },
+            "media": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m01-s2-media",
+                "site-m01-presentation"
+              ]
+            }
+          }
+        },
+        {
+          "section_id": "m01-s3",
+          "title": "Safe decisions and incident response",
+          "substantial_sequence": true,
+          "content_descriptors": [
+            "Safe work decisions used to identify, report and respond to hazards."
+          ],
+          "source_ids": [
+            "src-nesa-ft-2025",
+            "src-safework-nsw",
+            "src-healthdirect",
+            "src-local-classroom-spine"
+          ],
+          "learning_intention": "Use a calm stop-isolate-tell process and evidence-based risk reasoning to prevent escalation.",
+          "learning_sequence": [
+            "Use the module presentation where this is the first section in the module.",
+            "Teach the named theory with its purposeful visual and verified media or equivalent non-video pathway.",
+            "Complete the Applied Learning Activity: First-action decision carousel.",
+            "Complete all ten feedback-rich MCQs and the scaffolded long response for Learning package 1.3.",
+            "Hand evidence to the folio as: M1.3 Near-miss redesign."
+          ],
+          "evidence": {
+            "state": "mapped",
+            "knowledge_check_count": 10,
+            "long_response_count": 1,
+            "long_response_prompt": "Evaluate a food-room near miss. Separate observed facts from assumptions, rate the risk, justify stop-isolate-tell actions and redesign the workflow to prevent a repeat.",
+            "folio_handoff": "Save as \"M1.3 Near-miss redesign\" with before-and-after workflow sketches and one measure of success.",
+            "site_ids": [
+              "site-m01-s3-response",
+              "site-m01-s3-folio"
+            ]
+          },
+          "formative_checks": {
+            "mcq_count": 10,
+            "feedback": "Immediate option-specific feedback with theory-help links",
+            "long_response_count": 1,
+            "module_review": "site-m01-review"
+          },
+          "adjustments": [
+            "Chunk the theory and visual; pre-teach key vocabulary and use the equivalent non-video pathway when required.",
+            "Offer sentence stems, modelled examples and typed, scribed or oral-planning access while keeping the evidence demand.",
+            "Extend through source-limit analysis, changed constraints or a more complex design trade-off."
+          ],
+          "literacy_numeracy_digital": {
+            "literacy": "Use precise food-technology vocabulary and claim-evidence-reasoning structures.",
+            "numeracy": "Compare quantities, units, serves, time or rating evidence where the section requires it.",
+            "digital": "Use privacy-safe public sources and browser-local saving; export evidence without implying online submission."
+          },
+          "safety_workplace": {
+            "state": "Theory and decision-making only unless a teacher approves practical application",
+            "boundary": "The website does not authorise independent practical work or replace current school controls."
+          },
+          "resources": [
+            "resources/presentations/Food-Selection-Health-Module-01-Ready-to-work-safely.pptx",
+            "Purposeful section visual and equivalent non-video pathway",
+            "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview",
+            "https://www.healthdirect.gov.au/",
+            "https://www.safework.nsw.gov.au/hazards-a-z"
+          ],
+          "site_destinations": {
+            "theory": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m01-s3-theory"
+              ]
+            },
+            "knowledge_check": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m01-s3-check"
+              ]
+            },
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m01-s3-response",
+                "site-m01-s3-folio"
+              ]
+            },
+            "activity": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m01-s3-activity"
+              ]
+            },
+            "media": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m01-s3-media",
+                "site-m01-presentation"
+              ]
+            }
+          }
+        }
+      ],
+      "module_review": {
+        "site_id": "site-m01-review",
+        "direct_package_links": [
+          "site-m01-s1-check",
+          "site-m01-s2-check",
+          "site-m01-s3-check"
+        ]
+      },
+      "primary_presentation": "site-m01-presentation"
+    },
+    {
+      "module_id": "m02-food-body",
+      "title": "Food and the body",
+      "timing": "Adaptable planned periods 4-6; local timetable Teacher to confirm",
+      "outcome_codes": [
+        "FT5-NSA-01",
+        "FT5-COM-01",
+        "FT5-IET-01"
+      ],
+      "sections": [
+        {
+          "section_id": "m02-s1",
+          "title": "Six nutrients and their roles",
+          "substantial_sequence": true,
+          "content_descriptors": [
+            "Nutrient characteristics, functions and contributions within varied food patterns."
+          ],
+          "source_ids": [
+            "src-nesa-ft-2025",
+            "src-eat-for-health",
+            "src-local-classroom-spine"
+          ],
+          "learning_intention": "Explain the main roles of carbohydrate, protein, fat, vitamins, minerals and water, and connect varied foods to complementary body functions.",
+          "learning_sequence": [
+            "Use the module presentation where this is the first section in the module.",
+            "Teach the named theory with its purposeful visual and verified media or equivalent non-video pathway.",
+            "Complete the Applied Learning Activity: More than one nutrient.",
+            "Complete all ten feedback-rich MCQs and the scaffolded long response for Learning package 2.1.",
+            "Hand evidence to the folio as: M2.1 Nutrient-team lunch."
+          ],
+          "evidence": {
+            "state": "mapped",
+            "knowledge_check_count": 10,
+            "long_response_count": 1,
+            "long_response_prompt": "Design and justify a varied lunch using at least four foods. Explain how they work together for energy, growth and repair, and regulation, and evaluate the claim that one 'superfood' could replace the variety.",
+            "folio_handoff": "Save as \"M2.1 Nutrient-team lunch\" with a labelled food image and three-function map.",
+            "site_ids": [
+              "site-m02-s1-response",
+              "site-m02-s1-folio"
+            ]
+          },
+          "formative_checks": {
+            "mcq_count": 10,
+            "feedback": "Immediate option-specific feedback with theory-help links",
+            "long_response_count": 1,
+            "module_review": "site-m02-review"
+          },
+          "adjustments": [
+            "Chunk the theory and visual; pre-teach key vocabulary and use the equivalent non-video pathway when required.",
+            "Offer sentence stems, modelled examples and typed, scribed or oral-planning access while keeping the evidence demand.",
+            "Extend through source-limit analysis, changed constraints or a more complex design trade-off."
+          ],
+          "literacy_numeracy_digital": {
+            "literacy": "Use precise food-technology vocabulary and claim-evidence-reasoning structures.",
+            "numeracy": "Compare quantities, units, serves, time or rating evidence where the section requires it.",
+            "digital": "Use privacy-safe public sources and browser-local saving; export evidence without implying online submission."
+          },
+          "safety_workplace": {
+            "state": "Theory and decision-making only unless a teacher approves practical application",
+            "boundary": "The website does not authorise independent practical work or replace current school controls."
+          },
+          "resources": [
+            "resources/presentations/Food-Selection-Health-Module-02-Food-and-the-body.pptx",
+            "Purposeful section visual and equivalent non-video pathway",
+            "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview",
+            "https://www.eatforhealth.gov.au/"
+          ],
+          "site_destinations": {
+            "theory": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m02-s1-theory"
+              ]
+            },
+            "knowledge_check": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m02-s1-check"
+              ]
+            },
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m02-s1-response",
+                "site-m02-s1-folio"
+              ]
+            },
+            "activity": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m02-s1-activity"
+              ]
+            },
+            "media": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m02-s1-media",
+                "site-m02-presentation"
+              ]
+            }
+          }
+        },
+        {
+          "section_id": "m02-s2",
+          "title": "Energy, growth and repair",
+          "substantial_sequence": true,
+          "content_descriptors": [
+            "Energy, growth, repair, nutrient density and food-selection context."
+          ],
+          "source_ids": [
+            "src-nesa-ft-2025",
+            "src-eat-for-health",
+            "src-fsanz-labels",
+            "src-local-classroom-spine"
+          ],
+          "learning_intention": "Explain energy balance and nutrient density, then apply both ideas to a realistic adolescent meal decision.",
+          "learning_sequence": [
+            "Use the module presentation where this is the first section in the module.",
+            "Teach the named theory with its purposeful visual and verified media or equivalent non-video pathway.",
+            "Complete the Applied Learning Activity: Same energy, different contribution.",
+            "Complete all ten feedback-rich MCQs and the scaffolded long response for Learning package 2.2.",
+            "Hand evidence to the folio as: M2.2 Context-based meal decision."
+          ],
+          "evidence": {
+            "state": "mapped",
+            "knowledge_check_count": 10,
+            "long_response_count": 1,
+            "long_response_prompt": "Compare two lunch options for a Year 9 student with afternoon sport or physical practical work. Justify the stronger fit using energy, nutrient density, portion and pattern, then explain what could change the decision.",
+            "folio_handoff": "Save as \"M2.2 Context-based meal decision\" with an evidence table and conditional recommendation.",
+            "site_ids": [
+              "site-m02-s2-response",
+              "site-m02-s2-folio"
+            ]
+          },
+          "formative_checks": {
+            "mcq_count": 10,
+            "feedback": "Immediate option-specific feedback with theory-help links",
+            "long_response_count": 1,
+            "module_review": "site-m02-review"
+          },
+          "adjustments": [
+            "Chunk the theory and visual; pre-teach key vocabulary and use the equivalent non-video pathway when required.",
+            "Offer sentence stems, modelled examples and typed, scribed or oral-planning access while keeping the evidence demand.",
+            "Extend through source-limit analysis, changed constraints or a more complex design trade-off."
+          ],
+          "literacy_numeracy_digital": {
+            "literacy": "Use precise food-technology vocabulary and claim-evidence-reasoning structures.",
+            "numeracy": "Compare quantities, units, serves, time or rating evidence where the section requires it.",
+            "digital": "Use privacy-safe public sources and browser-local saving; export evidence without implying online submission."
+          },
+          "safety_workplace": {
+            "state": "Theory and decision-making only unless a teacher approves practical application",
+            "boundary": "The website does not authorise independent practical work or replace current school controls."
+          },
+          "resources": [
+            "resources/presentations/Food-Selection-Health-Module-02-Food-and-the-body.pptx",
+            "Purposeful section visual and equivalent non-video pathway",
+            "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview",
+            "https://www.foodstandards.gov.au/consumer/labelling/panels",
+            "https://www.eatforhealth.gov.au/"
+          ],
+          "site_destinations": {
+            "theory": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m02-s2-theory"
+              ]
+            },
+            "knowledge_check": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m02-s2-check"
+              ]
+            },
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m02-s2-response",
+                "site-m02-s2-folio"
+              ]
+            },
+            "activity": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m02-s2-activity"
+              ]
+            },
+            "media": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m02-s2-media",
+                "site-m02-presentation"
+              ]
+            }
+          }
+        },
+        {
+          "section_id": "m02-s3",
+          "title": "Digestion and nutrient absorption",
+          "substantial_sequence": true,
+          "content_descriptors": [
+            "How digestion and absorption make nutrients available to the body."
+          ],
+          "source_ids": [
+            "src-nesa-ft-2025",
+            "src-healthdirect",
+            "src-ted-ed-digestion",
+            "src-local-classroom-spine"
+          ],
+          "learning_intention": "Trace mechanical and chemical processing through the digestive system and explain how structure supports absorption.",
+          "learning_sequence": [
+            "Use the module presentation where this is the first section in the module.",
+            "Teach the named theory with its purposeful visual and verified media or equivalent non-video pathway.",
+            "Complete the Applied Learning Activity: Digestive journey relay.",
+            "Complete all ten feedback-rich MCQs and the scaffolded long response for Learning package 2.3.",
+            "Hand evidence to the folio as: M2.3 Journey of a mixed meal."
+          ],
+          "evidence": {
+            "state": "mapped",
+            "knowledge_check_count": 10,
+            "long_response_count": 1,
+            "long_response_prompt": "Trace a meal containing carbohydrate, protein and fat from mouth to large intestine. Explain mechanical and chemical changes, identify absorption sites, and evaluate the claim that the stomach does all digestion.",
+            "folio_handoff": "Save as \"M2.3 Journey of a mixed meal\" with an organ flow and digestion-versus-absorption key.",
+            "site_ids": [
+              "site-m02-s3-response",
+              "site-m02-s3-folio"
+            ]
+          },
+          "formative_checks": {
+            "mcq_count": 10,
+            "feedback": "Immediate option-specific feedback with theory-help links",
+            "long_response_count": 1,
+            "module_review": "site-m02-review"
+          },
+          "adjustments": [
+            "Chunk the theory and visual; pre-teach key vocabulary and use the equivalent non-video pathway when required.",
+            "Offer sentence stems, modelled examples and typed, scribed or oral-planning access while keeping the evidence demand.",
+            "Extend through source-limit analysis, changed constraints or a more complex design trade-off."
+          ],
+          "literacy_numeracy_digital": {
+            "literacy": "Use precise food-technology vocabulary and claim-evidence-reasoning structures.",
+            "numeracy": "Compare quantities, units, serves, time or rating evidence where the section requires it.",
+            "digital": "Use privacy-safe public sources and browser-local saving; export evidence without implying online submission."
+          },
+          "safety_workplace": {
+            "state": "Teacher to confirm for practical application",
+            "boundary": "The website does not authorise independent practical work or replace current school controls."
+          },
+          "resources": [
+            "resources/presentations/Food-Selection-Health-Module-02-Food-and-the-body.pptx",
+            "Purposeful section visual and verified media",
+            "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview",
+            "https://www.healthdirect.gov.au/",
+            "https://www.youtube.com/watch?v=Og5xAdC8EUI"
+          ],
+          "site_destinations": {
+            "theory": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m02-s3-theory"
+              ]
+            },
+            "knowledge_check": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m02-s3-check"
+              ]
+            },
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m02-s3-response",
+                "site-m02-s3-folio"
+              ]
+            },
+            "activity": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m02-s3-activity"
+              ]
+            },
+            "media": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m02-s3-media",
+                "site-m02-presentation"
+              ]
+            }
+          }
+        }
+      ],
+      "module_review": {
+        "site_id": "site-m02-review",
+        "direct_package_links": [
+          "site-m02-s1-check",
+          "site-m02-s2-check",
+          "site-m02-s3-check"
+        ]
+      },
+      "primary_presentation": "site-m02-presentation"
+    },
+    {
+      "module_id": "m03-food-evidence",
+      "title": "Reading food evidence",
+      "timing": "Adaptable planned periods 7-9; local timetable Teacher to confirm",
+      "outcome_codes": [
+        "FT5-NSA-01",
+        "FT5-COM-01",
+        "FT5-IET-01",
+        "FT5-ENV-01"
+      ],
+      "sections": [
+        {
+          "section_id": "m03-s1",
+          "title": "Ingredients, servings and nutrition panels",
+          "substantial_sequence": true,
+          "content_descriptors": [
+            "Australian label evidence: ingredients, allergens, serves and nutrition panels."
+          ],
+          "source_ids": [
+            "src-nesa-ft-2025",
+            "src-fsanz-labels",
+            "src-local-classroom-spine"
+          ],
+          "learning_intention": "Locate and interpret Australian label evidence including ingredient order, allergens, serving information and per 100 g or 100 mL data.",
+          "learning_sequence": [
+            "Use the module presentation where this is the first section in the module.",
+            "Teach the named theory with its purposeful visual and verified media or equivalent non-video pathway.",
+            "Complete the Applied Learning Activity: Three-pass label scan.",
+            "Complete all ten feedback-rich MCQs and the scaffolded long response for Learning package 3.1.",
+            "Hand evidence to the folio as: M3.1 Label evidence pathway."
+          ],
+          "evidence": {
+            "state": "mapped",
+            "knowledge_check_count": 10,
+            "long_response_count": 1,
+            "long_response_prompt": "Create a label-reading guide for choosing between two similar snacks. Explain the order for ingredients, allergens, serves, per 100 g data, dates and storage, and justify why each answers a different question.",
+            "folio_handoff": "Save as \"M3.1 Label evidence pathway\" with an annotated package and checklist.",
+            "site_ids": [
+              "site-m03-s1-response",
+              "site-m03-s1-folio"
+            ]
+          },
+          "formative_checks": {
+            "mcq_count": 10,
+            "feedback": "Immediate option-specific feedback with theory-help links",
+            "long_response_count": 1,
+            "module_review": "site-m03-review"
+          },
+          "adjustments": [
+            "Chunk the theory and visual; pre-teach key vocabulary and use the equivalent non-video pathway when required.",
+            "Offer sentence stems, modelled examples and typed, scribed or oral-planning access while keeping the evidence demand.",
+            "Extend through source-limit analysis, changed constraints or a more complex design trade-off."
+          ],
+          "literacy_numeracy_digital": {
+            "literacy": "Use precise food-technology vocabulary and claim-evidence-reasoning structures.",
+            "numeracy": "Compare quantities, units, serves, time or rating evidence where the section requires it.",
+            "digital": "Use privacy-safe public sources and browser-local saving; export evidence without implying online submission."
+          },
+          "safety_workplace": {
+            "state": "Theory and decision-making only unless a teacher approves practical application",
+            "boundary": "The website does not authorise independent practical work or replace current school controls."
+          },
+          "resources": [
+            "resources/presentations/Food-Selection-Health-Module-03-Reading-food-evidence.pptx",
+            "Purposeful section visual and equivalent non-video pathway",
+            "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview",
+            "https://www.foodstandards.gov.au/consumer/labelling/panels"
+          ],
+          "site_destinations": {
+            "theory": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m03-s1-theory"
+              ]
+            },
+            "knowledge_check": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m03-s1-check"
+              ]
+            },
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m03-s1-response",
+                "site-m03-s1-folio"
+              ]
+            },
+            "activity": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m03-s1-activity"
+              ]
+            },
+            "media": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m03-s1-media",
+                "site-m03-presentation"
+              ]
+            }
+          }
+        },
+        {
+          "section_id": "m03-s2",
+          "title": "Comparing foods fairly",
+          "substantial_sequence": true,
+          "content_descriptors": [
+            "Fair comparison of like products using consistent units, purpose and evidence."
+          ],
+          "source_ids": [
+            "src-nesa-ft-2025",
+            "src-fsanz-labels",
+            "src-health-star-rating",
+            "src-local-classroom-spine"
+          ],
+          "learning_intention": "Use a repeatable evidence process to compare like products for a stated purpose and make a conditional recommendation.",
+          "learning_sequence": [
+            "Use the module presentation where this is the first section in the module.",
+            "Teach the named theory with its purposeful visual and verified media or equivalent non-video pathway.",
+            "Complete the Applied Learning Activity: Comparison referee.",
+            "Complete all ten feedback-rich MCQs and the scaffolded long response for Learning package 3.2.",
+            "Hand evidence to the folio as: M3.2 Fair food comparison."
+          ],
+          "evidence": {
+            "state": "mapped",
+            "knowledge_check_count": 10,
+            "long_response_count": 1,
+            "long_response_prompt": "Compare two similar packaged foods for a Year 9 context. Make a conditional recommendation using common baseline, portion, nutrients, ingredients and one non-nutrient factor, then identify missing evidence.",
+            "folio_handoff": "Save as \"M3.2 Fair food comparison\" with evidence table, calculations and conditional recommendation.",
+            "site_ids": [
+              "site-m03-s2-response",
+              "site-m03-s2-folio"
+            ]
+          },
+          "formative_checks": {
+            "mcq_count": 10,
+            "feedback": "Immediate option-specific feedback with theory-help links",
+            "long_response_count": 1,
+            "module_review": "site-m03-review"
+          },
+          "adjustments": [
+            "Chunk the theory and visual; pre-teach key vocabulary and use the equivalent non-video pathway when required.",
+            "Offer sentence stems, modelled examples and typed, scribed or oral-planning access while keeping the evidence demand.",
+            "Extend through source-limit analysis, changed constraints or a more complex design trade-off."
+          ],
+          "literacy_numeracy_digital": {
+            "literacy": "Use precise food-technology vocabulary and claim-evidence-reasoning structures.",
+            "numeracy": "Compare quantities, units, serves, time or rating evidence where the section requires it.",
+            "digital": "Use privacy-safe public sources and browser-local saving; export evidence without implying online submission."
+          },
+          "safety_workplace": {
+            "state": "Theory and decision-making only unless a teacher approves practical application",
+            "boundary": "The website does not authorise independent practical work or replace current school controls."
+          },
+          "resources": [
+            "resources/presentations/Food-Selection-Health-Module-03-Reading-food-evidence.pptx",
+            "Purposeful section visual and equivalent non-video pathway",
+            "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview",
+            "https://www.foodstandards.gov.au/consumer/labelling/panels",
+            "https://www.healthstarrating.gov.au/"
+          ],
+          "site_destinations": {
+            "theory": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m03-s2-theory"
+              ]
+            },
+            "knowledge_check": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m03-s2-check"
+              ]
+            },
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m03-s2-response",
+                "site-m03-s2-folio"
+              ]
+            },
+            "activity": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m03-s2-activity"
+              ]
+            },
+            "media": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m03-s2-media",
+                "site-m03-presentation"
+              ]
+            }
+          }
+        },
+        {
+          "section_id": "m03-s3",
+          "title": "Marketing claims, ethics and health",
+          "substantial_sequence": true,
+          "content_descriptors": [
+            "Marketing, claims and ethical responsibilities in food-selection decisions."
+          ],
+          "source_ids": [
+            "src-nesa-ft-2025",
+            "src-fsanz-labels",
+            "src-accc-claims",
+            "src-local-classroom-spine"
+          ],
+          "learning_intention": "Evaluate food marketing and front-of-pack claims against regulated evidence, audience needs and ethical responsibilities.",
+          "learning_sequence": [
+            "Use the module presentation where this is the first section in the module.",
+            "Teach the named theory with its purposeful visual and verified media or equivalent non-video pathway.",
+            "Complete the Applied Learning Activity: Thirty-second impression reset.",
+            "Complete all ten feedback-rich MCQs and the scaffolded long response for Learning package 3.3.",
+            "Hand evidence to the folio as: M3.3 Claim-evidence-omission audit."
+          ],
+          "evidence": {
+            "state": "mapped",
+            "knowledge_check_count": 10,
+            "long_response_count": 1,
+            "long_response_prompt": "Evaluate a fictional food promotion aimed at teenagers. Analyse how it frames attention, test two claims, explain one omission, and judge its health, audience and ethical responsibilities.",
+            "folio_handoff": "Save as \"M3.3 Claim-evidence-omission audit\" with annotated promotion, source links and a fairer revised message.",
+            "site_ids": [
+              "site-m03-s3-response",
+              "site-m03-s3-folio"
+            ]
+          },
+          "formative_checks": {
+            "mcq_count": 10,
+            "feedback": "Immediate option-specific feedback with theory-help links",
+            "long_response_count": 1,
+            "module_review": "site-m03-review"
+          },
+          "adjustments": [
+            "Chunk the theory and visual; pre-teach key vocabulary and use the equivalent non-video pathway when required.",
+            "Offer sentence stems, modelled examples and typed, scribed or oral-planning access while keeping the evidence demand.",
+            "Extend through source-limit analysis, changed constraints or a more complex design trade-off."
+          ],
+          "literacy_numeracy_digital": {
+            "literacy": "Use precise food-technology vocabulary and claim-evidence-reasoning structures.",
+            "numeracy": "Compare quantities, units, serves, time or rating evidence where the section requires it.",
+            "digital": "Use privacy-safe public sources and browser-local saving; export evidence without implying online submission."
+          },
+          "safety_workplace": {
+            "state": "Theory and decision-making only unless a teacher approves practical application",
+            "boundary": "The website does not authorise independent practical work or replace current school controls."
+          },
+          "resources": [
+            "resources/presentations/Food-Selection-Health-Module-03-Reading-food-evidence.pptx",
+            "Purposeful section visual and equivalent non-video pathway",
+            "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview",
+            "https://www.foodstandards.gov.au/consumer/labelling/panels",
+            "https://www.accc.gov.au/consumers/advertising-and-promotions/false-or-misleading-claims"
+          ],
+          "site_destinations": {
+            "theory": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m03-s3-theory"
+              ]
+            },
+            "knowledge_check": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m03-s3-check"
+              ]
+            },
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m03-s3-response",
+                "site-m03-s3-folio"
+              ]
+            },
+            "activity": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m03-s3-activity"
+              ]
+            },
+            "media": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m03-s3-media",
+                "site-m03-presentation"
+              ]
+            }
+          }
+        }
+      ],
+      "module_review": {
+        "site_id": "site-m03-review",
+        "direct_package_links": [
+          "site-m03-s1-check",
+          "site-m03-s2-check",
+          "site-m03-s3-check"
+        ]
+      },
+      "primary_presentation": "site-m03-presentation"
+    },
+    {
+      "module_id": "m04-needs-influences",
+      "title": "Needs, habits and influences",
+      "timing": "Adaptable planned periods 10-12; local timetable Teacher to confirm",
+      "outcome_codes": [
+        "FT5-NSA-01",
+        "FT5-IET-01",
+        "FT5-COM-01",
+        "FT5-ENV-01"
+      ],
+      "sections": [
+        {
+          "section_id": "m04-s1",
+          "title": "Active non-nutrients and food variety",
+          "substantial_sequence": true,
+          "content_descriptors": [
+            "Active non-nutrients, water, fibre, variety and food selection."
+          ],
+          "source_ids": [
+            "src-nesa-ft-2025",
+            "src-eat-for-health",
+            "src-local-classroom-spine"
+          ],
+          "learning_intention": "Investigate how fibre, water and naturally occurring plant compounds contribute to healthy eating patterns, and explain why variety matters more than chasing one supposed superfood.",
+          "learning_sequence": [
+            "Use the module presentation where this is the first section in the module.",
+            "Teach the named theory with its purposeful visual and verified media or equivalent non-video pathway.",
+            "Complete the Applied Learning Activity: Variety evidence sort.",
+            "Complete all ten feedback-rich MCQs and the scaffolded long response for Learning package 4.1.",
+            "Hand evidence to the folio as: Food-choice reasoning."
+          ],
+          "evidence": {
+            "state": "mapped",
+            "knowledge_check_count": 10,
+            "long_response_count": 1,
+            "long_response_prompt": "Evaluate a familiar lunch and justify two realistic changes that would broaden its useful food variety without using superfood, detox or cure claims.",
+            "folio_handoff": "Save the before-and-after lunch comparison and its two evidence statements as formative learning evidence under Folio > Food-choice reasoning.",
+            "site_ids": [
+              "site-m04-s1-response",
+              "site-m04-s1-folio"
+            ]
+          },
+          "formative_checks": {
+            "mcq_count": 10,
+            "feedback": "Immediate option-specific feedback with theory-help links",
+            "long_response_count": 1,
+            "module_review": "site-m04-review"
+          },
+          "adjustments": [
+            "Chunk the theory and visual; pre-teach key vocabulary and use the equivalent non-video pathway when required.",
+            "Offer sentence stems, modelled examples and typed, scribed or oral-planning access while keeping the evidence demand.",
+            "Extend through source-limit analysis, changed constraints or a more complex design trade-off."
+          ],
+          "literacy_numeracy_digital": {
+            "literacy": "Use precise food-technology vocabulary and claim-evidence-reasoning structures.",
+            "numeracy": "Compare quantities, units, serves, time or rating evidence where the section requires it.",
+            "digital": "Use privacy-safe public sources and browser-local saving; export evidence without implying online submission."
+          },
+          "safety_workplace": {
+            "state": "Theory and decision-making only unless a teacher approves practical application",
+            "boundary": "The website does not authorise independent practical work or replace current school controls."
+          },
+          "resources": [
+            "resources/presentations/Food-Selection-Health-Module-04-Needs-habits-and-influences.pptx",
+            "Purposeful section visual and equivalent non-video pathway",
+            "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview",
+            "https://www.eatforhealth.gov.au/"
+          ],
+          "site_destinations": {
+            "theory": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m04-s1-theory"
+              ]
+            },
+            "knowledge_check": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m04-s1-check"
+              ]
+            },
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m04-s1-response",
+                "site-m04-s1-folio"
+              ]
+            },
+            "activity": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m04-s1-activity"
+              ]
+            },
+            "media": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m04-s1-media",
+                "site-m04-presentation"
+              ]
+            }
+          }
+        },
+        {
+          "section_id": "m04-s2",
+          "title": "Nutrition across the lifecycle",
+          "substantial_sequence": true,
+          "content_descriptors": [
+            "Changing nutritional needs and food-selection priorities across life stages."
+          ],
+          "source_ids": [
+            "src-nesa-ft-2025",
+            "src-eat-for-health",
+            "src-local-classroom-spine"
+          ],
+          "learning_intention": "Explain why food and nutrient needs change across life stages and use context, rather than stereotypes, to adapt a food choice.",
+          "learning_sequence": [
+            "Use the module presentation where this is the first section in the module.",
+            "Teach the named theory with its purposeful visual and verified media or equivalent non-video pathway.",
+            "Complete the Applied Learning Activity: Lifecycle meal adaptation studio.",
+            "Complete all ten feedback-rich MCQs and the scaffolded long response for Learning package 4.2.",
+            "Hand evidence to the folio as: User needs and constraints."
+          ],
+          "evidence": {
+            "state": "mapped",
+            "knowledge_check_count": 10,
+            "long_response_count": 1,
+            "long_response_prompt": "Compare the needs in two lifecycle case studies and justify one food-design adaptation for each, showing which details are evidence and which still need confirmation.",
+            "folio_handoff": "Save the two-case comparison and highlighted confirm-before-design notes under Folio > User needs and constraints.",
+            "site_ids": [
+              "site-m04-s2-response",
+              "site-m04-s2-folio"
+            ]
+          },
+          "formative_checks": {
+            "mcq_count": 10,
+            "feedback": "Immediate option-specific feedback with theory-help links",
+            "long_response_count": 1,
+            "module_review": "site-m04-review"
+          },
+          "adjustments": [
+            "Chunk the theory and visual; pre-teach key vocabulary and use the equivalent non-video pathway when required.",
+            "Offer sentence stems, modelled examples and typed, scribed or oral-planning access while keeping the evidence demand.",
+            "Extend through source-limit analysis, changed constraints or a more complex design trade-off."
+          ],
+          "literacy_numeracy_digital": {
+            "literacy": "Use precise food-technology vocabulary and claim-evidence-reasoning structures.",
+            "numeracy": "Compare quantities, units, serves, time or rating evidence where the section requires it.",
+            "digital": "Use privacy-safe public sources and browser-local saving; export evidence without implying online submission."
+          },
+          "safety_workplace": {
+            "state": "Teacher to confirm for practical application",
+            "boundary": "The website does not authorise independent practical work or replace current school controls."
+          },
+          "resources": [
+            "resources/presentations/Food-Selection-Health-Module-04-Needs-habits-and-influences.pptx",
+            "Purposeful section visual and equivalent non-video pathway",
+            "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview",
+            "https://www.eatforhealth.gov.au/"
+          ],
+          "site_destinations": {
+            "theory": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m04-s2-theory"
+              ]
+            },
+            "knowledge_check": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m04-s2-check"
+              ]
+            },
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m04-s2-response",
+                "site-m04-s2-folio"
+              ]
+            },
+            "activity": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m04-s2-activity"
+              ]
+            },
+            "media": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m04-s2-media",
+                "site-m04-presentation"
+              ]
+            }
+          }
+        },
+        {
+          "section_id": "m04-s3",
+          "title": "Personal, social, cultural and digital influences",
+          "substantial_sequence": true,
+          "content_descriptors": [
+            "Personal, social, cultural, economic and digital influences on selection."
+          ],
+          "source_ids": [
+            "src-nesa-ft-2025",
+            "src-eat-for-health",
+            "src-local-classroom-spine"
+          ],
+          "learning_intention": "Analyse how interacting influences shape food selection and use a pause-check-decide process to make a reasoned choice.",
+          "learning_sequence": [
+            "Use the module presentation where this is the first section in the module.",
+            "Teach the named theory with its purposeful visual and verified media or equivalent non-video pathway.",
+            "Complete the Applied Learning Activity: Influence detective.",
+            "Complete all ten feedback-rich MCQs and the scaffolded long response for Learning package 4.3.",
+            "Hand evidence to the folio as: Influences on selection."
+          ],
+          "evidence": {
+            "state": "mapped",
+            "knowledge_check_count": 10,
+            "long_response_count": 1,
+            "long_response_prompt": "Analyse a realistic after-school food or drink choice by explaining how at least three influences interact, then justify a decision using pause-check-decide.",
+            "folio_handoff": "Save the influence map and pause-check-decide justification under Folio > Influences on selection.",
+            "site_ids": [
+              "site-m04-s3-response",
+              "site-m04-s3-folio"
+            ]
+          },
+          "formative_checks": {
+            "mcq_count": 10,
+            "feedback": "Immediate option-specific feedback with theory-help links",
+            "long_response_count": 1,
+            "module_review": "site-m04-review"
+          },
+          "adjustments": [
+            "Chunk the theory and visual; pre-teach key vocabulary and use the equivalent non-video pathway when required.",
+            "Offer sentence stems, modelled examples and typed, scribed or oral-planning access while keeping the evidence demand.",
+            "Extend through source-limit analysis, changed constraints or a more complex design trade-off."
+          ],
+          "literacy_numeracy_digital": {
+            "literacy": "Use precise food-technology vocabulary and claim-evidence-reasoning structures.",
+            "numeracy": "Compare quantities, units, serves, time or rating evidence where the section requires it.",
+            "digital": "Use privacy-safe public sources and browser-local saving; export evidence without implying online submission."
+          },
+          "safety_workplace": {
+            "state": "Theory and decision-making only unless a teacher approves practical application",
+            "boundary": "The website does not authorise independent practical work or replace current school controls."
+          },
+          "resources": [
+            "resources/presentations/Food-Selection-Health-Module-04-Needs-habits-and-influences.pptx",
+            "Purposeful section visual and equivalent non-video pathway",
+            "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview",
+            "https://www.eatforhealth.gov.au/"
+          ],
+          "site_destinations": {
+            "theory": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m04-s3-theory"
+              ]
+            },
+            "knowledge_check": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m04-s3-check"
+              ]
+            },
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m04-s3-response",
+                "site-m04-s3-folio"
+              ]
+            },
+            "activity": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m04-s3-activity"
+              ]
+            },
+            "media": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m04-s3-media",
+                "site-m04-presentation"
+              ]
+            }
+          }
+        }
+      ],
+      "module_review": {
+        "site_id": "site-m04-review",
+        "direct_package_links": [
+          "site-m04-s1-check",
+          "site-m04-s2-check",
+          "site-m04-s3-check"
+        ]
+      },
+      "primary_presentation": "site-m04-presentation"
+    },
+    {
+      "module_id": "m05-patterns-technology",
+      "title": "Patterns, technology and choice",
+      "timing": "Adaptable planned periods 13-15; local timetable Teacher to confirm",
+      "outcome_codes": [
+        "FT5-IET-01",
+        "FT5-NSA-01",
+        "FT5-ENV-01",
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "sections": [
+        {
+          "section_id": "m05-s1",
+          "title": "Australian food-consumption patterns",
+          "substantial_sequence": true,
+          "content_descriptors": [
+            "Responsible interpretation of Australian food-consumption evidence."
+          ],
+          "source_ids": [
+            "src-nesa-ft-2025",
+            "src-abs-dietary",
+            "src-aihw-nutrition",
+            "src-local-classroom-spine"
+          ],
+          "learning_intention": "Interpret food-consumption evidence as a population pattern, distinguish it from an individual judgement and propose a proportionate design response.",
+          "learning_sequence": [
+            "Use the module presentation where this is the first section in the module.",
+            "Teach the named theory with its purposeful visual and verified media or equivalent non-video pathway.",
+            "Complete the Applied Learning Activity: Pattern claim clinic.",
+            "Complete all ten feedback-rich MCQs and the scaffolded long response for Learning package 5.1.",
+            "Hand evidence to the folio as: Using population evidence."
+          ],
+          "evidence": {
+            "state": "mapped",
+            "knowledge_check_count": 10,
+            "long_response_count": 1,
+            "long_response_prompt": "Interpret a current government dietary-behaviour excerpt and evaluate what food-design response it supports for a clearly defined school audience.",
+            "folio_handoff": "Save the annotated evidence excerpt and response proposal under Folio > Using population evidence.",
+            "site_ids": [
+              "site-m05-s1-response",
+              "site-m05-s1-folio"
+            ]
+          },
+          "formative_checks": {
+            "mcq_count": 10,
+            "feedback": "Immediate option-specific feedback with theory-help links",
+            "long_response_count": 1,
+            "module_review": "site-m05-review"
+          },
+          "adjustments": [
+            "Chunk the theory and visual; pre-teach key vocabulary and use the equivalent non-video pathway when required.",
+            "Offer sentence stems, modelled examples and typed, scribed or oral-planning access while keeping the evidence demand.",
+            "Extend through source-limit analysis, changed constraints or a more complex design trade-off."
+          ],
+          "literacy_numeracy_digital": {
+            "literacy": "Use precise food-technology vocabulary and claim-evidence-reasoning structures.",
+            "numeracy": "Compare quantities, units, serves, time or rating evidence where the section requires it.",
+            "digital": "Use privacy-safe public sources and browser-local saving; export evidence without implying online submission."
+          },
+          "safety_workplace": {
+            "state": "Theory and decision-making only unless a teacher approves practical application",
+            "boundary": "The website does not authorise independent practical work or replace current school controls."
+          },
+          "resources": [
+            "resources/presentations/Food-Selection-Health-Module-05-Patterns-technology-and-choice.pptx",
+            "Purposeful section visual and equivalent non-video pathway",
+            "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview",
+            "https://www.abs.gov.au/statistics/health/health-conditions-and-risks/dietary-behaviour",
+            "https://www.aihw.gov.au/reports-data/behaviours-risk-factors/food-nutrition/overview"
+          ],
+          "site_destinations": {
+            "theory": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m05-s1-theory"
+              ]
+            },
+            "knowledge_check": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m05-s1-check"
+              ]
+            },
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m05-s1-response",
+                "site-m05-s1-folio"
+              ]
+            },
+            "activity": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m05-s1-activity"
+              ]
+            },
+            "media": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m05-s1-media",
+                "site-m05-presentation"
+              ]
+            }
+          }
+        },
+        {
+          "section_id": "m05-s2",
+          "title": "Convenience, delivery and food technology",
+          "substantial_sequence": true,
+          "content_descriptors": [
+            "Industry practices and technologies affecting access, safety, quality and trade-offs."
+          ],
+          "source_ids": [
+            "src-nesa-ft-2025",
+            "src-fsanz-safety",
+            "src-nsw-food-authority",
+            "src-local-classroom-spine"
+          ],
+          "learning_intention": "Investigate how processing, packaging, preservation and digital delivery change food access, safety, quality and choice, then evaluate a convenience option as a trade-off.",
+          "learning_sequence": [
+            "Use the module presentation where this is the first section in the module.",
+            "Teach the named theory with its purposeful visual and verified media or equivalent non-video pathway.",
+            "Complete the Applied Learning Activity: Convenience system map.",
+            "Complete all ten feedback-rich MCQs and the scaffolded long response for Learning package 5.2.",
+            "Hand evidence to the folio as: Technology and trade-offs."
+          ],
+          "evidence": {
+            "state": "mapped",
+            "knowledge_check_count": 10,
+            "long_response_count": 1,
+            "long_response_prompt": "Evaluate two ways of obtaining the same meal-one prepared from a convenience product and one ordered through delivery-and recommend the better fit for a stated user and situation.",
+            "folio_handoff": "Save the comparison matrix, delivery-chain annotation and recommendation under Folio > Technology and trade-offs.",
+            "site_ids": [
+              "site-m05-s2-response",
+              "site-m05-s2-folio"
+            ]
+          },
+          "formative_checks": {
+            "mcq_count": 10,
+            "feedback": "Immediate option-specific feedback with theory-help links",
+            "long_response_count": 1,
+            "module_review": "site-m05-review"
+          },
+          "adjustments": [
+            "Chunk the theory and visual; pre-teach key vocabulary and use the equivalent non-video pathway when required.",
+            "Offer sentence stems, modelled examples and typed, scribed or oral-planning access while keeping the evidence demand.",
+            "Extend through source-limit analysis, changed constraints or a more complex design trade-off."
+          ],
+          "literacy_numeracy_digital": {
+            "literacy": "Use precise food-technology vocabulary and claim-evidence-reasoning structures.",
+            "numeracy": "Compare quantities, units, serves, time or rating evidence where the section requires it.",
+            "digital": "Use privacy-safe public sources and browser-local saving; export evidence without implying online submission."
+          },
+          "safety_workplace": {
+            "state": "Teacher to confirm for practical application",
+            "boundary": "The website does not authorise independent practical work or replace current school controls."
+          },
+          "resources": [
+            "resources/presentations/Food-Selection-Health-Module-05-Patterns-technology-and-choice.pptx",
+            "Purposeful section visual and equivalent non-video pathway",
+            "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview",
+            "https://www.foodstandards.gov.au/consumer/safety",
+            "https://www.foodauthority.nsw.gov.au/consumer/food-at-home"
+          ],
+          "site_destinations": {
+            "theory": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m05-s2-theory"
+              ]
+            },
+            "knowledge_check": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m05-s2-check"
+              ]
+            },
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m05-s2-response",
+                "site-m05-s2-folio"
+              ]
+            },
+            "activity": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m05-s2-activity"
+              ]
+            },
+            "media": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m05-s2-media",
+                "site-m05-presentation"
+              ]
+            }
+          }
+        },
+        {
+          "section_id": "m05-s3",
+          "title": "Designing responsible food solutions",
+          "substantial_sequence": true,
+          "content_descriptors": [
+            "Food-design processes: need, criteria, solution, justification and evaluation."
+          ],
+          "source_ids": [
+            "src-nesa-ft-2025",
+            "src-eat-for-health",
+            "src-fsanz-labels",
+            "src-local-classroom-spine"
+          ],
+          "learning_intention": "Use a food-design process to turn a defined need into an evidence-based solution, manage trade-offs and evaluate the result against explicit criteria.",
+          "learning_sequence": [
+            "Use the module presentation where this is the first section in the module.",
+            "Teach the named theory with its purposeful visual and verified media or equivalent non-video pathway.",
+            "Complete the Applied Learning Activity: Design decision matrix sprint.",
+            "Complete all ten feedback-rich MCQs and the scaffolded long response for Learning package 5.3.",
+            "Hand evidence to the folio as: Responsible food design."
+          ],
+          "evidence": {
+            "state": "mapped",
+            "knowledge_check_count": 10,
+            "long_response_count": 1,
+            "long_response_prompt": "Develop and justify a responsible concept for a portable school meal using a supplied user brief, then evaluate the concept against competing criteria before any practical production.",
+            "folio_handoff": "Save the criteria matrix, two concepts, selection justification and test plan under Folio > Responsible food design.",
+            "site_ids": [
+              "site-m05-s3-response",
+              "site-m05-s3-folio"
+            ]
+          },
+          "formative_checks": {
+            "mcq_count": 10,
+            "feedback": "Immediate option-specific feedback with theory-help links",
+            "long_response_count": 1,
+            "module_review": "site-m05-review"
+          },
+          "adjustments": [
+            "Chunk the theory and visual; pre-teach key vocabulary and use the equivalent non-video pathway when required.",
+            "Offer sentence stems, modelled examples and typed, scribed or oral-planning access while keeping the evidence demand.",
+            "Extend through source-limit analysis, changed constraints or a more complex design trade-off."
+          ],
+          "literacy_numeracy_digital": {
+            "literacy": "Use precise food-technology vocabulary and claim-evidence-reasoning structures.",
+            "numeracy": "Compare quantities, units, serves, time or rating evidence where the section requires it.",
+            "digital": "Use privacy-safe public sources and browser-local saving; export evidence without implying online submission."
+          },
+          "safety_workplace": {
+            "state": "Theory and decision-making only unless a teacher approves practical application",
+            "boundary": "The website does not authorise independent practical work or replace current school controls."
+          },
+          "resources": [
+            "resources/presentations/Food-Selection-Health-Module-05-Patterns-technology-and-choice.pptx",
+            "Purposeful section visual and equivalent non-video pathway",
+            "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview",
+            "https://www.foodstandards.gov.au/consumer/labelling/panels",
+            "https://www.eatforhealth.gov.au/"
+          ],
+          "site_destinations": {
+            "theory": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m05-s3-theory"
+              ]
+            },
+            "knowledge_check": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m05-s3-check"
+              ]
+            },
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m05-s3-response",
+                "site-m05-s3-folio"
+              ]
+            },
+            "activity": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m05-s3-activity"
+              ]
+            },
+            "media": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m05-s3-media",
+                "site-m05-presentation"
+              ]
+            }
+          }
+        }
+      ],
+      "module_review": {
+        "site_id": "site-m05-review",
+        "direct_package_links": [
+          "site-m05-s1-check",
+          "site-m05-s2-check",
+          "site-m05-s3-check"
+        ]
+      },
+      "primary_presentation": "site-m05-presentation"
+    },
+    {
+      "module_id": "m06-health-guidance",
+      "title": "Health, guidance and HelloEats",
+      "timing": "Adaptable planned periods 16-18; local timetable Teacher to confirm",
+      "outcome_codes": [
+        "FT5-NSA-01",
+        "FT5-COM-01",
+        "FT5-FPP-01",
+        "FT5-ENV-01",
+        "FT5-SAF-01"
+      ],
+      "sections": [
+        {
+          "section_id": "m06-s1",
+          "title": "Under- and overnutrition",
+          "substantial_sequence": true,
+          "content_descriptors": [
+            "Undernutrition and overnutrition explained without judgement or diagnosis."
+          ],
+          "source_ids": [
+            "src-nesa-ft-2025",
+            "src-aihw-nutrition",
+            "src-eat-for-health",
+            "src-local-classroom-spine"
+          ],
+          "learning_intention": "Explain undernutrition and overnutrition as forms of malnutrition that arise from patterns and circumstances, and evaluate support responses without judging or diagnosing individuals.",
+          "learning_sequence": [
+            "Use the module presentation where this is the first section in the module.",
+            "Teach the named theory with its purposeful visual and verified media or equivalent non-video pathway.",
+            "Complete the Applied Learning Activity: Pattern-mechanism-support triads.",
+            "Complete all ten feedback-rich MCQs and the scaffolded long response for Learning package 6.1.",
+            "Hand evidence to the folio as: Nutrition patterns and support."
+          ],
+          "evidence": {
+            "state": "mapped",
+            "knowledge_check_count": 10,
+            "long_response_count": 1,
+            "long_response_prompt": "Analyse a fictional community nutrition case by explaining the possible undernutrition, overnutrition or imbalance mechanism, the interacting causes and a respectful support response without diagnosing an individual.",
+            "folio_handoff": "Save the case mechanism map and respectful response under Folio > Nutrition patterns and support.",
+            "site_ids": [
+              "site-m06-s1-response",
+              "site-m06-s1-folio"
+            ]
+          },
+          "formative_checks": {
+            "mcq_count": 10,
+            "feedback": "Immediate option-specific feedback with theory-help links",
+            "long_response_count": 1,
+            "module_review": "site-m06-review"
+          },
+          "adjustments": [
+            "Chunk the theory and visual; pre-teach key vocabulary and use the equivalent non-video pathway when required.",
+            "Offer sentence stems, modelled examples and typed, scribed or oral-planning access while keeping the evidence demand.",
+            "Extend through source-limit analysis, changed constraints or a more complex design trade-off."
+          ],
+          "literacy_numeracy_digital": {
+            "literacy": "Use precise food-technology vocabulary and claim-evidence-reasoning structures.",
+            "numeracy": "Compare quantities, units, serves, time or rating evidence where the section requires it.",
+            "digital": "Use privacy-safe public sources and browser-local saving; export evidence without implying online submission."
+          },
+          "safety_workplace": {
+            "state": "Theory and decision-making only unless a teacher approves practical application",
+            "boundary": "The website does not authorise independent practical work or replace current school controls."
+          },
+          "resources": [
+            "resources/presentations/Food-Selection-Health-Module-06-Health-guidance-and-HelloEats.pptx",
+            "Purposeful section visual and equivalent non-video pathway",
+            "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview",
+            "https://www.eatforhealth.gov.au/",
+            "https://www.aihw.gov.au/reports-data/behaviours-risk-factors/food-nutrition/overview"
+          ],
+          "site_destinations": {
+            "theory": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m06-s1-theory"
+              ]
+            },
+            "knowledge_check": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m06-s1-check"
+              ]
+            },
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m06-s1-response",
+                "site-m06-s1-folio"
+              ]
+            },
+            "activity": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m06-s1-activity"
+              ]
+            },
+            "media": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m06-s1-media",
+                "site-m06-presentation"
+              ]
+            }
+          }
+        },
+        {
+          "section_id": "m06-s2",
+          "title": "Nutrition-related conditions and prevention",
+          "substantial_sequence": true,
+          "content_descriptors": [
+            "Food patterns, multiple risk factors, conditions and proportionate prevention."
+          ],
+          "source_ids": [
+            "src-nesa-ft-2025",
+            "src-aihw-nutrition",
+            "src-healthdirect",
+            "src-local-classroom-spine"
+          ],
+          "learning_intention": "Explain how food patterns can influence risk for selected nutrition-related conditions while recognising that causes are multiple, prevention reduces risk rather than guarantees an outcome, and diagnosis belongs to health professionals.",
+          "learning_sequence": [
+            "Use the module presentation where this is the first section in the module.",
+            "Teach the named theory with its purposeful visual and verified media or equivalent non-video pathway.",
+            "Complete the Applied Learning Activity: Mechanism and claim clinic.",
+            "Complete all ten feedback-rich MCQs and the scaffolded long response for Learning package 6.2.",
+            "Hand evidence to the folio as: Nutrition-related conditions."
+          ],
+          "evidence": {
+            "state": "mapped",
+            "knowledge_check_count": 10,
+            "long_response_count": 1,
+            "long_response_prompt": "Choose one nutrition-related condition from the section and explain its mechanism, interacting risk and protective factors, and a food-design response that supports health without promising prevention or treatment.",
+            "folio_handoff": "Save the mechanism map, redesigned prevention claim and inclusive response under Folio > Nutrition-related conditions.",
+            "site_ids": [
+              "site-m06-s2-response",
+              "site-m06-s2-folio"
+            ]
+          },
+          "formative_checks": {
+            "mcq_count": 10,
+            "feedback": "Immediate option-specific feedback with theory-help links",
+            "long_response_count": 1,
+            "module_review": "site-m06-review"
+          },
+          "adjustments": [
+            "Chunk the theory and visual; pre-teach key vocabulary and use the equivalent non-video pathway when required.",
+            "Offer sentence stems, modelled examples and typed, scribed or oral-planning access while keeping the evidence demand.",
+            "Extend through source-limit analysis, changed constraints or a more complex design trade-off."
+          ],
+          "literacy_numeracy_digital": {
+            "literacy": "Use precise food-technology vocabulary and claim-evidence-reasoning structures.",
+            "numeracy": "Compare quantities, units, serves, time or rating evidence where the section requires it.",
+            "digital": "Use privacy-safe public sources and browser-local saving; export evidence without implying online submission."
+          },
+          "safety_workplace": {
+            "state": "Theory and decision-making only unless a teacher approves practical application",
+            "boundary": "The website does not authorise independent practical work or replace current school controls."
+          },
+          "resources": [
+            "resources/presentations/Food-Selection-Health-Module-06-Health-guidance-and-HelloEats.pptx",
+            "Purposeful section visual and equivalent non-video pathway",
+            "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview",
+            "https://www.aihw.gov.au/reports-data/behaviours-risk-factors/food-nutrition/overview",
+            "https://www.healthdirect.gov.au/"
+          ],
+          "site_destinations": {
+            "theory": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m06-s2-theory"
+              ]
+            },
+            "knowledge_check": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m06-s2-check"
+              ]
+            },
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m06-s2-response",
+                "site-m06-s2-folio"
+              ]
+            },
+            "activity": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m06-s2-activity"
+              ]
+            },
+            "media": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m06-s2-media",
+                "site-m06-presentation"
+              ]
+            }
+          }
+        },
+        {
+          "section_id": "m06-s3",
+          "title": "Australian guidance and the HelloEats challenge",
+          "substantial_sequence": true,
+          "content_descriptors": [
+            "Australian guidance and label evidence used to justify a food-design concept."
+          ],
+          "source_ids": [
+            "src-nesa-ft-2025",
+            "src-eat-for-health",
+            "src-fsanz-labels",
+            "src-health-star-rating",
+            "src-helloeats-working",
+            "src-local-classroom-spine"
+          ],
+          "learning_intention": "Use Australian food guidance and label evidence to justify a responsible ready-to-eat meal concept while preserving the draft-only status of the historical HelloEats context.",
+          "learning_sequence": [
+            "Use the module presentation where this is the first section in the module.",
+            "Teach the named theory with its purposeful visual and verified media or equivalent non-video pathway.",
+            "Complete the Applied Learning Activity: Draft HelloEats evidence sprint.",
+            "Complete all ten feedback-rich MCQs and the scaffolded long response for Learning package 6.3.",
+            "Hand evidence to the folio as: Draft HelloEats concept."
+          ],
+          "evidence": {
+            "state": "mapped",
+            "knowledge_check_count": 10,
+            "long_response_count": 1,
+            "long_response_prompt": "Create a draft HelloEats ready-to-eat meal concept for a fictional Year 9 user, justify it with Australian guidance and label evidence, and clearly separate formative design evidence from unconfirmed formal assessment conditions.",
+            "folio_handoff": "Save the concept board, product comparison, source list and Teacher to confirm register under Folio > Draft HelloEats concept; label it formative learning evidence, not submission.",
+            "site_ids": [
+              "site-m06-s3-response",
+              "site-m06-s3-folio"
+            ]
+          },
+          "formative_checks": {
+            "mcq_count": 10,
+            "feedback": "Immediate option-specific feedback with theory-help links",
+            "long_response_count": 1,
+            "module_review": "site-m06-review"
+          },
+          "adjustments": [
+            "Chunk the theory and visual; pre-teach key vocabulary and use the equivalent non-video pathway when required.",
+            "Offer sentence stems, modelled examples and typed, scribed or oral-planning access while keeping the evidence demand.",
+            "Extend through source-limit analysis, changed constraints or a more complex design trade-off."
+          ],
+          "literacy_numeracy_digital": {
+            "literacy": "Use precise food-technology vocabulary and claim-evidence-reasoning structures.",
+            "numeracy": "Compare quantities, units, serves, time or rating evidence where the section requires it.",
+            "digital": "Use privacy-safe public sources and browser-local saving; export evidence without implying online submission."
+          },
+          "safety_workplace": {
+            "state": "Theory and decision-making only unless a teacher approves practical application",
+            "boundary": "The website does not authorise independent practical work or replace current school controls."
+          },
+          "resources": [
+            "resources/presentations/Food-Selection-Health-Module-06-Health-guidance-and-HelloEats.pptx",
+            "Purposeful section visual and equivalent non-video pathway",
+            "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview",
+            "Owner system; not republished",
+            "https://www.foodstandards.gov.au/consumer/labelling/panels",
+            "https://www.eatforhealth.gov.au/",
+            "https://www.healthstarrating.gov.au/"
+          ],
+          "site_destinations": {
+            "theory": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m06-s3-theory"
+              ]
+            },
+            "knowledge_check": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m06-s3-check"
+              ]
+            },
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m06-s3-response",
+                "site-m06-s3-folio"
+              ]
+            },
+            "activity": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m06-s3-activity"
+              ]
+            },
+            "media": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m06-s3-media",
+                "site-m06-presentation"
+              ]
+            }
+          }
+        }
+      ],
+      "module_review": {
+        "site_id": "site-m06-review",
+        "direct_package_links": [
+          "site-m06-s1-check",
+          "site-m06-s2-check",
+          "site-m06-s3-check"
+        ]
+      },
+      "primary_presentation": "site-m06-presentation"
+    }
+  ],
+  "assessment_schedule": {
+    "authority_source_id": "src-wwhs-assessment-2026",
+    "official_hub": "https://sites.google.com/education.nsw.gov.au/wwhsstudentparentinformation/curriculum-information/assessment-handbooks",
+    "published_items": [
+      {
+        "task": "Class Practicals",
+        "timing": "Ongoing",
+        "weighting": "60%"
+      },
+      {
+        "task": "Assignment",
+        "timing": "Term 1 Week 10",
+        "weighting": "20%"
+      },
+      {
+        "task": "Yearly Examination",
+        "timing": "Term 4 Week 3",
+        "weighting": "20%"
+      }
+    ],
+    "helloeats_state": "Draft learning context only - teacher approval required",
+    "teacher_to_confirm_id": "ttc-assessment"
+  },
+  "teacher_to_confirm": [
+    {
+      "id": "ttc-adoption",
+      "status": "Teacher to confirm",
+      "owner": "Head Teacher TAS / school curriculum leadership",
+      "affected_scope": "Program control and all periods",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "due_before": "Program approval or classroom use",
+      "smallest_action": "Confirm delivery year and whether WWHS will use the 2025 syllabus before mandatory Year 9 implementation in 2028."
+    },
+    {
+      "id": "ttc-timetable",
+      "status": "Teacher to confirm",
+      "owner": "Course teacher / timetable authority",
+      "affected_scope": "Twenty-period adaptable sequence",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "due_before": "Placement into the school timetable",
+      "smallest_action": "Confirm period length, periods per cycle and reschedule this adaptable sequence; the 60-minute planning duration is not a local timetable claim."
+    },
+    {
+      "id": "ttc-practicals",
+      "status": "Teacher to confirm",
+      "owner": "Course teacher / faculty",
+      "affected_scope": "Practical periods 2, 6, 11, 14 and 19",
+      "affected_periods": [
+        2,
+        6,
+        11,
+        14,
+        19
+      ],
+      "due_before": "Each practical lesson",
+      "smallest_action": "Approve the activity or recipe and current ingredients, allergens, equipment, PPE, facility, supervision, risk controls, ordering and clean-down directions."
+    },
+    {
+      "id": "ttc-assessment",
+      "status": "Teacher to confirm",
+      "owner": "Head Teacher / assessment coordinator",
+      "affected_scope": "Periods 18-20 and any formal use of HelloEats",
+      "affected_periods": [
+        18,
+        19,
+        20
+      ],
+      "due_before": "Issuing or collecting a formal task",
+      "smallest_action": "Resolve the handbook/notice conflict and approve task number, issue and due timing, 2025-outcome alignment, task name, criteria and submission process."
+    },
+    {
+      "id": "ttc-whole-course",
+      "status": "Teacher to confirm",
+      "owner": "Head Teacher TAS",
+      "affected_scope": "Position of this 11-week focus-area unit within the wider elective",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "due_before": "Whole-course program sign-off",
+      "smallest_action": "Confirm the 100-hour or 200-hour course context, other required focus areas and how the practical-majority requirement is met across the full course."
+    }
+  ],
+  "site_mapping": [
+    {
+      "site_id": "site-m01-presentation",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-presentation",
+      "audience": "both",
+      "purpose": "Primary 8-slide presentation for Module 1",
+      "module_id": "m01-ready-to-work"
+    },
+    {
+      "site_id": "site-m01-s1-theory",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s1-theory",
+      "audience": "student",
+      "purpose": "Theory: Personal hygiene and readiness",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s1"
+    },
+    {
+      "site_id": "site-m01-s1-check",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s1-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s1"
+    },
+    {
+      "site_id": "site-m01-s1-response",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s1-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s1"
+    },
+    {
+      "site_id": "site-m01-s1-activity",
+      "route": "activities.html",
+      "anchor": "#act-m01-s1",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Contamination-chain photo audit",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s1"
+    },
+    {
+      "site_id": "site-m01-s1-media",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s1-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s1"
+    },
+    {
+      "site_id": "site-m01-s1-folio",
+      "route": "folio.html",
+      "anchor": "#f01-safe-practice",
+      "audience": "student",
+      "purpose": "Folio handoff: M1.1 Readiness control plan",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s1"
+    },
+    {
+      "site_id": "site-m01-s2-theory",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s2-theory",
+      "audience": "student",
+      "purpose": "Theory: Contamination, temperature and food safety",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s2"
+    },
+    {
+      "site_id": "site-m01-s2-check",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s2-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s2"
+    },
+    {
+      "site_id": "site-m01-s2-response",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s2-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s2"
+    },
+    {
+      "site_id": "site-m01-s2-activity",
+      "route": "activities.html",
+      "anchor": "#act-m01-s2",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Bench-route control challenge",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s2"
+    },
+    {
+      "site_id": "site-m01-s2-media",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s2-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s2"
+    },
+    {
+      "site_id": "site-m01-s2-folio",
+      "route": "folio.html",
+      "anchor": "#f01-safe-practice",
+      "audience": "student",
+      "purpose": "Folio handoff: M1.2 Hazard-route plan",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s2"
+    },
+    {
+      "site_id": "site-m01-s3-theory",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s3-theory",
+      "audience": "student",
+      "purpose": "Theory: Safe decisions and incident response",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s3"
+    },
+    {
+      "site_id": "site-m01-s3-check",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s3-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s3"
+    },
+    {
+      "site_id": "site-m01-s3-response",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s3-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s3"
+    },
+    {
+      "site_id": "site-m01-s3-activity",
+      "route": "activities.html",
+      "anchor": "#act-m01-s3",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: First-action decision carousel",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s3"
+    },
+    {
+      "site_id": "site-m01-s3-media",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s3-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s3"
+    },
+    {
+      "site_id": "site-m01-s3-folio",
+      "route": "folio.html",
+      "anchor": "#f01-safe-practice",
+      "audience": "student",
+      "purpose": "Folio handoff: M1.3 Near-miss redesign",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s3"
+    },
+    {
+      "site_id": "site-m01-review",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-ready-to-work-review",
+      "audience": "student",
+      "purpose": "Visible module review/checklist with three direct package links",
+      "module_id": "m01-ready-to-work"
+    },
+    {
+      "site_id": "site-m02-presentation",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-presentation",
+      "audience": "both",
+      "purpose": "Primary 8-slide presentation for Module 2",
+      "module_id": "m02-food-body"
+    },
+    {
+      "site_id": "site-m02-s1-theory",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s1-theory",
+      "audience": "student",
+      "purpose": "Theory: Six nutrients and their roles",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s1"
+    },
+    {
+      "site_id": "site-m02-s1-check",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s1-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s1"
+    },
+    {
+      "site_id": "site-m02-s1-response",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s1-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s1"
+    },
+    {
+      "site_id": "site-m02-s1-activity",
+      "route": "activities.html",
+      "anchor": "#act-m02-s1",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: More than one nutrient",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s1"
+    },
+    {
+      "site_id": "site-m02-s1-media",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s1-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s1"
+    },
+    {
+      "site_id": "site-m02-s1-folio",
+      "route": "folio.html",
+      "anchor": "#f02-nutrients-body",
+      "audience": "student",
+      "purpose": "Folio handoff: M2.1 Nutrient-team lunch",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s1"
+    },
+    {
+      "site_id": "site-m02-s2-theory",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s2-theory",
+      "audience": "student",
+      "purpose": "Theory: Energy, growth and repair",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s2"
+    },
+    {
+      "site_id": "site-m02-s2-check",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s2-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s2"
+    },
+    {
+      "site_id": "site-m02-s2-response",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s2-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s2"
+    },
+    {
+      "site_id": "site-m02-s2-activity",
+      "route": "activities.html",
+      "anchor": "#act-m02-s2",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Same energy, different contribution",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s2"
+    },
+    {
+      "site_id": "site-m02-s2-media",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s2-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s2"
+    },
+    {
+      "site_id": "site-m02-s2-folio",
+      "route": "folio.html",
+      "anchor": "#f02-nutrients-body",
+      "audience": "student",
+      "purpose": "Folio handoff: M2.2 Context-based meal decision",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s2"
+    },
+    {
+      "site_id": "site-m02-s3-theory",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s3-theory",
+      "audience": "student",
+      "purpose": "Theory: Digestion and nutrient absorption",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s3"
+    },
+    {
+      "site_id": "site-m02-s3-check",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s3-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s3"
+    },
+    {
+      "site_id": "site-m02-s3-response",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s3-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s3"
+    },
+    {
+      "site_id": "site-m02-s3-activity",
+      "route": "activities.html",
+      "anchor": "#act-m02-s3",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Digestive journey relay",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s3"
+    },
+    {
+      "site_id": "site-m02-s3-media",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s3-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s3"
+    },
+    {
+      "site_id": "site-m02-s3-folio",
+      "route": "folio.html",
+      "anchor": "#f02-nutrients-body",
+      "audience": "student",
+      "purpose": "Folio handoff: M2.3 Journey of a mixed meal",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s3"
+    },
+    {
+      "site_id": "site-m02-review",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-food-body-review",
+      "audience": "student",
+      "purpose": "Visible module review/checklist with three direct package links",
+      "module_id": "m02-food-body"
+    },
+    {
+      "site_id": "site-m03-presentation",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-presentation",
+      "audience": "both",
+      "purpose": "Primary 8-slide presentation for Module 3",
+      "module_id": "m03-food-evidence"
+    },
+    {
+      "site_id": "site-m03-s1-theory",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s1-theory",
+      "audience": "student",
+      "purpose": "Theory: Ingredients, servings and nutrition panels",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s1"
+    },
+    {
+      "site_id": "site-m03-s1-check",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s1-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s1"
+    },
+    {
+      "site_id": "site-m03-s1-response",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s1-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s1"
+    },
+    {
+      "site_id": "site-m03-s1-activity",
+      "route": "activities.html",
+      "anchor": "#act-m03-s1",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Three-pass label scan",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s1"
+    },
+    {
+      "site_id": "site-m03-s1-media",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s1-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s1"
+    },
+    {
+      "site_id": "site-m03-s1-folio",
+      "route": "folio.html",
+      "anchor": "#f03-label-comparison",
+      "audience": "student",
+      "purpose": "Folio handoff: M3.1 Label evidence pathway",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s1"
+    },
+    {
+      "site_id": "site-m03-s2-theory",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s2-theory",
+      "audience": "student",
+      "purpose": "Theory: Comparing foods fairly",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s2"
+    },
+    {
+      "site_id": "site-m03-s2-check",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s2-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s2"
+    },
+    {
+      "site_id": "site-m03-s2-response",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s2-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s2"
+    },
+    {
+      "site_id": "site-m03-s2-activity",
+      "route": "activities.html",
+      "anchor": "#act-m03-s2",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Comparison referee",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s2"
+    },
+    {
+      "site_id": "site-m03-s2-media",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s2-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s2"
+    },
+    {
+      "site_id": "site-m03-s2-folio",
+      "route": "folio.html",
+      "anchor": "#f03-label-comparison",
+      "audience": "student",
+      "purpose": "Folio handoff: M3.2 Fair food comparison",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s2"
+    },
+    {
+      "site_id": "site-m03-s3-theory",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s3-theory",
+      "audience": "student",
+      "purpose": "Theory: Marketing claims, ethics and health",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s3"
+    },
+    {
+      "site_id": "site-m03-s3-check",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s3-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s3"
+    },
+    {
+      "site_id": "site-m03-s3-response",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s3-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s3"
+    },
+    {
+      "site_id": "site-m03-s3-activity",
+      "route": "activities.html",
+      "anchor": "#act-m03-s3",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Thirty-second impression reset",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s3"
+    },
+    {
+      "site_id": "site-m03-s3-media",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s3-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s3"
+    },
+    {
+      "site_id": "site-m03-s3-folio",
+      "route": "folio.html",
+      "anchor": "#f03-label-comparison",
+      "audience": "student",
+      "purpose": "Folio handoff: M3.3 Claim-evidence-omission audit",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s3"
+    },
+    {
+      "site_id": "site-m03-review",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-food-evidence-review",
+      "audience": "student",
+      "purpose": "Visible module review/checklist with three direct package links",
+      "module_id": "m03-food-evidence"
+    },
+    {
+      "site_id": "site-m04-presentation",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-presentation",
+      "audience": "both",
+      "purpose": "Primary 8-slide presentation for Module 4",
+      "module_id": "m04-needs-influences"
+    },
+    {
+      "site_id": "site-m04-s1-theory",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s1-theory",
+      "audience": "student",
+      "purpose": "Theory: Active non-nutrients and food variety",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s1"
+    },
+    {
+      "site_id": "site-m04-s1-check",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s1-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s1"
+    },
+    {
+      "site_id": "site-m04-s1-response",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s1-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s1"
+    },
+    {
+      "site_id": "site-m04-s1-activity",
+      "route": "activities.html",
+      "anchor": "#act-m04-s1",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Variety evidence sort",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s1"
+    },
+    {
+      "site_id": "site-m04-s1-media",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s1-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s1"
+    },
+    {
+      "site_id": "site-m04-s1-folio",
+      "route": "folio.html",
+      "anchor": "#f04-influences-audit",
+      "audience": "student",
+      "purpose": "Folio handoff: Food-choice reasoning",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s1"
+    },
+    {
+      "site_id": "site-m04-s2-theory",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s2-theory",
+      "audience": "student",
+      "purpose": "Theory: Nutrition across the lifecycle",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s2"
+    },
+    {
+      "site_id": "site-m04-s2-check",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s2-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s2"
+    },
+    {
+      "site_id": "site-m04-s2-response",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s2-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s2"
+    },
+    {
+      "site_id": "site-m04-s2-activity",
+      "route": "activities.html",
+      "anchor": "#act-m04-s2",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Lifecycle meal adaptation studio",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s2"
+    },
+    {
+      "site_id": "site-m04-s2-media",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s2-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s2"
+    },
+    {
+      "site_id": "site-m04-s2-folio",
+      "route": "folio.html",
+      "anchor": "#f04-influences-audit",
+      "audience": "student",
+      "purpose": "Folio handoff: User needs and constraints",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s2"
+    },
+    {
+      "site_id": "site-m04-s3-theory",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s3-theory",
+      "audience": "student",
+      "purpose": "Theory: Personal, social, cultural and digital influences",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s3"
+    },
+    {
+      "site_id": "site-m04-s3-check",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s3-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s3"
+    },
+    {
+      "site_id": "site-m04-s3-response",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s3-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s3"
+    },
+    {
+      "site_id": "site-m04-s3-activity",
+      "route": "activities.html",
+      "anchor": "#act-m04-s3",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Influence detective",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s3"
+    },
+    {
+      "site_id": "site-m04-s3-media",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s3-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s3"
+    },
+    {
+      "site_id": "site-m04-s3-folio",
+      "route": "folio.html",
+      "anchor": "#f04-influences-audit",
+      "audience": "student",
+      "purpose": "Folio handoff: Influences on selection",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s3"
+    },
+    {
+      "site_id": "site-m04-review",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-needs-influences-review",
+      "audience": "student",
+      "purpose": "Visible module review/checklist with three direct package links",
+      "module_id": "m04-needs-influences"
+    },
+    {
+      "site_id": "site-m05-presentation",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-presentation",
+      "audience": "both",
+      "purpose": "Primary 8-slide presentation for Module 5",
+      "module_id": "m05-patterns-technology"
+    },
+    {
+      "site_id": "site-m05-s1-theory",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s1-theory",
+      "audience": "student",
+      "purpose": "Theory: Australian food-consumption patterns",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s1"
+    },
+    {
+      "site_id": "site-m05-s1-check",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s1-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s1"
+    },
+    {
+      "site_id": "site-m05-s1-response",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s1-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s1"
+    },
+    {
+      "site_id": "site-m05-s1-activity",
+      "route": "activities.html",
+      "anchor": "#act-m05-s1",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Pattern claim clinic",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s1"
+    },
+    {
+      "site_id": "site-m05-s1-media",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s1-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s1"
+    },
+    {
+      "site_id": "site-m05-s1-folio",
+      "route": "folio.html",
+      "anchor": "#f05-patterns-technology",
+      "audience": "student",
+      "purpose": "Folio handoff: Using population evidence",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s1"
+    },
+    {
+      "site_id": "site-m05-s2-theory",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s2-theory",
+      "audience": "student",
+      "purpose": "Theory: Convenience, delivery and food technology",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s2"
+    },
+    {
+      "site_id": "site-m05-s2-check",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s2-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s2"
+    },
+    {
+      "site_id": "site-m05-s2-response",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s2-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s2"
+    },
+    {
+      "site_id": "site-m05-s2-activity",
+      "route": "activities.html",
+      "anchor": "#act-m05-s2",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Convenience system map",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s2"
+    },
+    {
+      "site_id": "site-m05-s2-media",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s2-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s2"
+    },
+    {
+      "site_id": "site-m05-s2-folio",
+      "route": "folio.html",
+      "anchor": "#f05-patterns-technology",
+      "audience": "student",
+      "purpose": "Folio handoff: Technology and trade-offs",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s2"
+    },
+    {
+      "site_id": "site-m05-s3-theory",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s3-theory",
+      "audience": "student",
+      "purpose": "Theory: Designing responsible food solutions",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s3"
+    },
+    {
+      "site_id": "site-m05-s3-check",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s3-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s3"
+    },
+    {
+      "site_id": "site-m05-s3-response",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s3-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s3"
+    },
+    {
+      "site_id": "site-m05-s3-activity",
+      "route": "activities.html",
+      "anchor": "#act-m05-s3",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Design decision matrix sprint",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s3"
+    },
+    {
+      "site_id": "site-m05-s3-media",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s3-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s3"
+    },
+    {
+      "site_id": "site-m05-s3-folio",
+      "route": "folio.html",
+      "anchor": "#f05-patterns-technology",
+      "audience": "student",
+      "purpose": "Folio handoff: Responsible food design",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s3"
+    },
+    {
+      "site_id": "site-m05-review",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-patterns-technology-review",
+      "audience": "student",
+      "purpose": "Visible module review/checklist with three direct package links",
+      "module_id": "m05-patterns-technology"
+    },
+    {
+      "site_id": "site-m06-presentation",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-presentation",
+      "audience": "both",
+      "purpose": "Primary 8-slide presentation for Module 6",
+      "module_id": "m06-health-guidance"
+    },
+    {
+      "site_id": "site-m06-s1-theory",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s1-theory",
+      "audience": "student",
+      "purpose": "Theory: Under- and overnutrition",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s1"
+    },
+    {
+      "site_id": "site-m06-s1-check",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s1-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s1"
+    },
+    {
+      "site_id": "site-m06-s1-response",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s1-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s1"
+    },
+    {
+      "site_id": "site-m06-s1-activity",
+      "route": "activities.html",
+      "anchor": "#act-m06-s1",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Pattern-mechanism-support triads",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s1"
+    },
+    {
+      "site_id": "site-m06-s1-media",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s1-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s1"
+    },
+    {
+      "site_id": "site-m06-s1-folio",
+      "route": "folio.html",
+      "anchor": "#f06-health-guidance",
+      "audience": "student",
+      "purpose": "Folio handoff: Nutrition patterns and support",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s1"
+    },
+    {
+      "site_id": "site-m06-s2-theory",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s2-theory",
+      "audience": "student",
+      "purpose": "Theory: Nutrition-related conditions and prevention",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s2"
+    },
+    {
+      "site_id": "site-m06-s2-check",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s2-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s2"
+    },
+    {
+      "site_id": "site-m06-s2-response",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s2-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s2"
+    },
+    {
+      "site_id": "site-m06-s2-activity",
+      "route": "activities.html",
+      "anchor": "#act-m06-s2",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Mechanism and claim clinic",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s2"
+    },
+    {
+      "site_id": "site-m06-s2-media",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s2-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s2"
+    },
+    {
+      "site_id": "site-m06-s2-folio",
+      "route": "folio.html",
+      "anchor": "#f06-health-guidance",
+      "audience": "student",
+      "purpose": "Folio handoff: Nutrition-related conditions",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s2"
+    },
+    {
+      "site_id": "site-m06-s3-theory",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s3-theory",
+      "audience": "student",
+      "purpose": "Theory: Australian guidance and the HelloEats challenge",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s3"
+    },
+    {
+      "site_id": "site-m06-s3-check",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s3-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s3"
+    },
+    {
+      "site_id": "site-m06-s3-response",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s3-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s3"
+    },
+    {
+      "site_id": "site-m06-s3-activity",
+      "route": "activities.html",
+      "anchor": "#act-m06-s3",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Draft HelloEats evidence sprint",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s3"
+    },
+    {
+      "site_id": "site-m06-s3-media",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s3-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s3"
+    },
+    {
+      "site_id": "site-m06-s3-folio",
+      "route": "folio.html",
+      "anchor": "#f06-health-guidance",
+      "audience": "student",
+      "purpose": "Folio handoff: Draft HelloEats concept",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s3"
+    },
+    {
+      "site_id": "site-m06-review",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-health-guidance-review",
+      "audience": "student",
+      "purpose": "Visible module review/checklist with three direct package links",
+      "module_id": "m06-health-guidance"
+    },
+    {
+      "site_id": "site-puzzle-1",
+      "route": "puzzles.html",
+      "anchor": "#puzzle-1",
+      "audience": "student",
+      "purpose": "Safety scenario sort",
+      "module_id": "m01-ready-to-work"
+    },
+    {
+      "site_id": "site-puzzle-2",
+      "route": "puzzles.html",
+      "anchor": "#puzzle-2",
+      "audience": "student",
+      "purpose": "Nutrient-function match",
+      "module_id": "m02-food-body"
+    },
+    {
+      "site_id": "site-puzzle-3",
+      "route": "puzzles.html",
+      "anchor": "#puzzle-3",
+      "audience": "student",
+      "purpose": "Label detective",
+      "module_id": "m03-food-evidence"
+    },
+    {
+      "site_id": "site-puzzle-4",
+      "route": "puzzles.html",
+      "anchor": "#puzzle-4",
+      "audience": "student",
+      "purpose": "Influence matrix",
+      "module_id": "m04-needs-influences"
+    },
+    {
+      "site_id": "site-puzzle-5",
+      "route": "puzzles.html",
+      "anchor": "#puzzle-5",
+      "audience": "student",
+      "purpose": "Guidance and design evidence sort",
+      "module_id": "m06-health-guidance"
+    },
+    {
+      "site_id": "site-m06-assessment-orientation",
+      "route": "assessment.html",
+      "audience": "both",
+      "purpose": "Published schedule and HelloEats draft-authority boundary",
+      "module_id": "m06-health-guidance"
+    },
+    {
+      "site_id": "site-m06-final-folio",
+      "route": "folio.html",
+      "anchor": "#f08-evaluation",
+      "audience": "student",
+      "purpose": "Final course synthesis and evaluation evidence",
+      "module_id": "m06-health-guidance"
+    },
+    {
+      "site_id": "site-m06-teacher-resources",
+      "route": "teacher-resources.html",
+      "audience": "teacher",
+      "purpose": "Teacher program, presentations, source and confirmation boundaries",
+      "module_id": "m06-health-guidance"
+    },
+    {
+      "site_id": "site-m06-videos-register",
+      "route": "videos.html",
+      "audience": "both",
+      "purpose": "Section media and equivalent-pathway register",
+      "module_id": "m06-health-guidance"
+    }
+  ],
+  "delivery_register": {
+    "status": "Blank actual fields are correct before delivery",
+    "planning_basis": "Twenty adaptable planned periods; 60-minute duration and local timetable Teacher to confirm",
+    "entries": [
+      {
+        "period": 1,
+        "planned_focus": "M1.1 Personal hygiene and readiness",
+        "site_ids": [
+          "site-m01-s1-theory",
+          "site-m01-s1-check",
+          "site-m01-s1-response",
+          "site-m01-s1-activity",
+          "site-m01-s1-media",
+          "site-m01-s1-folio",
+          "site-m01-presentation"
+        ],
+        "planned_evidence": "10 MCQs + feedback; one scaffolded response; save 'M1.1 Readiness control plan'. FT5-SAF-01, FT5-COM-01, FT5-FPP-01, FT5-USE-01.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 2,
+        "planned_focus": "M1.2 Contamination, temperature and food safety",
+        "site_ids": [
+          "site-m01-s2-theory",
+          "site-m01-s2-check",
+          "site-m01-s2-response",
+          "site-m01-s2-activity",
+          "site-m01-s2-media",
+          "site-m01-s2-folio"
+        ],
+        "planned_evidence": "10 MCQs + feedback; one scaffolded response; save 'M1.2 Hazard-route plan'. FT5-SAF-01, FT5-COM-01, FT5-FPP-01, FT5-USE-01.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 3,
+        "planned_focus": "M1.3 Safe decisions and incident response",
+        "site_ids": [
+          "site-m01-s3-theory",
+          "site-m01-s3-check",
+          "site-m01-s3-response",
+          "site-m01-s3-activity",
+          "site-m01-s3-media",
+          "site-m01-s3-folio",
+          "site-m01-review",
+          "site-puzzle-1"
+        ],
+        "planned_evidence": "10 MCQs + feedback; one scaffolded response; save 'M1.3 Near-miss redesign'. FT5-SAF-01, FT5-COM-01, FT5-FPP-01, FT5-USE-01.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 4,
+        "planned_focus": "M2.1 Six nutrients and their roles",
+        "site_ids": [
+          "site-m02-s1-theory",
+          "site-m02-s1-check",
+          "site-m02-s1-response",
+          "site-m02-s1-activity",
+          "site-m02-s1-media",
+          "site-m02-s1-folio",
+          "site-m02-presentation"
+        ],
+        "planned_evidence": "10 MCQs + feedback; one scaffolded response; save 'M2.1 Nutrient-team lunch'. FT5-NSA-01, FT5-COM-01, FT5-IET-01.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 5,
+        "planned_focus": "M2.2 Energy, growth and repair",
+        "site_ids": [
+          "site-m02-s2-theory",
+          "site-m02-s2-check",
+          "site-m02-s2-response",
+          "site-m02-s2-activity",
+          "site-m02-s2-media",
+          "site-m02-s2-folio"
+        ],
+        "planned_evidence": "10 MCQs + feedback; one scaffolded response; save 'M2.2 Context-based meal decision'. FT5-NSA-01, FT5-COM-01, FT5-IET-01.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 6,
+        "planned_focus": "M2.3 Digestion and nutrient absorption",
+        "site_ids": [
+          "site-m02-s3-theory",
+          "site-m02-s3-check",
+          "site-m02-s3-response",
+          "site-m02-s3-activity",
+          "site-m02-s3-media",
+          "site-m02-s3-folio",
+          "site-m02-review",
+          "site-puzzle-2"
+        ],
+        "planned_evidence": "10 MCQs + feedback; one scaffolded response; save 'M2.3 Journey of a mixed meal'. FT5-NSA-01, FT5-COM-01, FT5-IET-01.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 7,
+        "planned_focus": "M3.1 Ingredients, servings and nutrition panels",
+        "site_ids": [
+          "site-m03-s1-theory",
+          "site-m03-s1-check",
+          "site-m03-s1-response",
+          "site-m03-s1-activity",
+          "site-m03-s1-media",
+          "site-m03-s1-folio",
+          "site-m03-presentation"
+        ],
+        "planned_evidence": "10 MCQs + feedback; one scaffolded response; save 'M3.1 Label evidence pathway'. FT5-NSA-01, FT5-COM-01, FT5-IET-01, FT5-ENV-01.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 8,
+        "planned_focus": "M3.2 Comparing foods fairly",
+        "site_ids": [
+          "site-m03-s2-theory",
+          "site-m03-s2-check",
+          "site-m03-s2-response",
+          "site-m03-s2-activity",
+          "site-m03-s2-media",
+          "site-m03-s2-folio"
+        ],
+        "planned_evidence": "10 MCQs + feedback; one scaffolded response; save 'M3.2 Fair food comparison'. FT5-NSA-01, FT5-COM-01, FT5-IET-01, FT5-ENV-01.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 9,
+        "planned_focus": "M3.3 Marketing claims, ethics and health",
+        "site_ids": [
+          "site-m03-s3-theory",
+          "site-m03-s3-check",
+          "site-m03-s3-response",
+          "site-m03-s3-activity",
+          "site-m03-s3-media",
+          "site-m03-s3-folio",
+          "site-m03-review",
+          "site-puzzle-3"
+        ],
+        "planned_evidence": "10 MCQs + feedback; one scaffolded response; save 'M3.3 Claim-evidence-omission audit'. FT5-NSA-01, FT5-COM-01, FT5-IET-01, FT5-ENV-01.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 10,
+        "planned_focus": "M4.1 Active non-nutrients and food variety",
+        "site_ids": [
+          "site-m04-s1-theory",
+          "site-m04-s1-check",
+          "site-m04-s1-response",
+          "site-m04-s1-activity",
+          "site-m04-s1-media",
+          "site-m04-s1-folio",
+          "site-m04-presentation"
+        ],
+        "planned_evidence": "10 MCQs + feedback; one scaffolded response; save 'Food-choice reasoning'. FT5-NSA-01, FT5-IET-01, FT5-COM-01, FT5-ENV-01.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 11,
+        "planned_focus": "M4.2 Nutrition across the lifecycle",
+        "site_ids": [
+          "site-m04-s2-theory",
+          "site-m04-s2-check",
+          "site-m04-s2-response",
+          "site-m04-s2-activity",
+          "site-m04-s2-media",
+          "site-m04-s2-folio"
+        ],
+        "planned_evidence": "10 MCQs + feedback; one scaffolded response; save 'User needs and constraints'. FT5-NSA-01, FT5-IET-01, FT5-COM-01, FT5-ENV-01.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 12,
+        "planned_focus": "M4.3 Personal, social, cultural and digital influences",
+        "site_ids": [
+          "site-m04-s3-theory",
+          "site-m04-s3-check",
+          "site-m04-s3-response",
+          "site-m04-s3-activity",
+          "site-m04-s3-media",
+          "site-m04-s3-folio",
+          "site-m04-review",
+          "site-puzzle-4"
+        ],
+        "planned_evidence": "10 MCQs + feedback; one scaffolded response; save 'Influences on selection'. FT5-NSA-01, FT5-IET-01, FT5-COM-01, FT5-ENV-01.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 13,
+        "planned_focus": "M5.1 Australian food-consumption patterns",
+        "site_ids": [
+          "site-m05-s1-theory",
+          "site-m05-s1-check",
+          "site-m05-s1-response",
+          "site-m05-s1-activity",
+          "site-m05-s1-media",
+          "site-m05-s1-folio",
+          "site-m05-presentation"
+        ],
+        "planned_evidence": "10 MCQs + feedback; one scaffolded response; save 'Using population evidence'. FT5-IET-01, FT5-NSA-01, FT5-ENV-01, FT5-FPP-01, FT5-COM-01.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 14,
+        "planned_focus": "M5.2 Convenience, delivery and food technology",
+        "site_ids": [
+          "site-m05-s2-theory",
+          "site-m05-s2-check",
+          "site-m05-s2-response",
+          "site-m05-s2-activity",
+          "site-m05-s2-media",
+          "site-m05-s2-folio"
+        ],
+        "planned_evidence": "10 MCQs + feedback; one scaffolded response; save 'Technology and trade-offs'. FT5-IET-01, FT5-NSA-01, FT5-ENV-01, FT5-FPP-01, FT5-COM-01.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 15,
+        "planned_focus": "M5.3 Designing responsible food solutions",
+        "site_ids": [
+          "site-m05-s3-theory",
+          "site-m05-s3-check",
+          "site-m05-s3-response",
+          "site-m05-s3-activity",
+          "site-m05-s3-media",
+          "site-m05-s3-folio",
+          "site-m05-review"
+        ],
+        "planned_evidence": "10 MCQs + feedback; one scaffolded response; save 'Responsible food design'. FT5-IET-01, FT5-NSA-01, FT5-ENV-01, FT5-FPP-01, FT5-COM-01.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 16,
+        "planned_focus": "M6.1 Under- and overnutrition",
+        "site_ids": [
+          "site-m06-s1-theory",
+          "site-m06-s1-check",
+          "site-m06-s1-response",
+          "site-m06-s1-activity",
+          "site-m06-s1-media",
+          "site-m06-s1-folio",
+          "site-m06-presentation"
+        ],
+        "planned_evidence": "10 MCQs + feedback; one scaffolded response; save 'Nutrition patterns and support'. FT5-NSA-01, FT5-COM-01, FT5-FPP-01, FT5-ENV-01, FT5-SAF-01.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 17,
+        "planned_focus": "M6.2 Nutrition-related conditions and prevention",
+        "site_ids": [
+          "site-m06-s2-theory",
+          "site-m06-s2-check",
+          "site-m06-s2-response",
+          "site-m06-s2-activity",
+          "site-m06-s2-media",
+          "site-m06-s2-folio"
+        ],
+        "planned_evidence": "10 MCQs + feedback; one scaffolded response; save 'Nutrition-related conditions'. FT5-NSA-01, FT5-COM-01, FT5-FPP-01, FT5-ENV-01, FT5-SAF-01.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 18,
+        "planned_focus": "M6.3 Australian guidance and the HelloEats challenge",
+        "site_ids": [
+          "site-m06-s3-theory",
+          "site-m06-s3-check",
+          "site-m06-s3-response",
+          "site-m06-s3-activity",
+          "site-m06-s3-media",
+          "site-m06-s3-folio",
+          "site-m06-review",
+          "site-puzzle-5"
+        ],
+        "planned_evidence": "10 MCQs + feedback; one scaffolded response; save 'Draft HelloEats concept'. FT5-NSA-01, FT5-COM-01, FT5-FPP-01, FT5-ENV-01, FT5-SAF-01.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 19,
+        "planned_focus": "Teacher-approved food-solution application",
+        "site_ids": [
+          "site-m05-s3-response",
+          "site-m05-s3-folio",
+          "site-m06-s3-activity",
+          "site-m06-assessment-orientation"
+        ],
+        "planned_evidence": "Teacher observation if approved; design criteria, production decisions and evaluation evidence. Formal assessment use remains Teacher to confirm.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 20,
+        "planned_focus": "Course synthesis, review and evidence export",
+        "site_ids": [
+          "site-m06-final-folio",
+          "site-m06-assessment-orientation",
+          "site-m06-teacher-resources"
+        ],
+        "planned_evidence": "Final synthesis/evaluation, local folio export and teacher review of named evidence. No website submission claim.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      }
+    ]
+  },
+  "course_specific_compliance": [
+    {
+      "compliance_id": "whole-course-practical-majority",
+      "requirement_type": "whole-course practical experiences",
+      "requirement": "Practical experiences form the majority of the complete Food Technology course; this one focus-area unit cannot prove whole-course compliance by itself.",
+      "source_ids": [
+        "src-nesa-ft-2025"
+      ],
+      "module_ids": [
+        "m01-ready-to-work",
+        "m02-food-body",
+        "m03-food-evidence",
+        "m04-needs-influences",
+        "m05-patterns-technology",
+        "m06-health-guidance"
+      ],
+      "section_ids": [],
+      "evidence_site_ids": [],
+      "status": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "ttc-whole-course",
+        "ttc-practicals"
+      ]
+    }
+  ],
+  "handoff": {
+    "state": "STAGE_14_LOCAL_PROGRAM_CANDIDATE",
+    "bound_integration_sha256": "e565bd2bc8f11006d63be763dd4de4d934e6f469ddb51e2fa8316c7c24e06a3d",
+    "program_file_count": 4,
+    "candidate_digest_sha256": "6db988c39458960056a7710fe46fd0ff30bec5779cdd29033d3587968cee63a5",
+    "next_gate": "Stage 15 content audit"
+  },
+  "files": [
+    {
+      "path": "teacher-program-v1.0.0.docx",
+      "role": "editable teacher program",
+      "sha256": "4ac2ca43c56fd5ec23b2abc1c94a611febfb40b90817de484803b40cfe31210d"
+    },
+    {
+      "path": "teacher-program-v1.0.0.pdf",
+      "role": "rendered teacher program",
+      "sha256": "ee3ca08705ed724c1510795b64388a826dcd81103a023ce694f78a86aa644369"
+    },
+    {
+      "path": "delivery-register-v1.0.0.docx",
+      "role": "editable delivery register",
+      "sha256": "a89ba84abcba262cf598bb8f8b257e42a757cf28dcf63ec4b5c241582f2d2e0f"
+    },
+    {
+      "path": "teacher-program-site-map-v1.0.0.json",
+      "role": "website alignment map",
+      "sha256": "f7b707f6f9a3946947586fb2d6cc480e779c1e14aa91df98e3657296a1d2ba13"
+    }
+  ]
+}

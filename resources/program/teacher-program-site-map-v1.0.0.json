@@ -1,0 +1,1170 @@
+{
+  "schema_version": "1.0",
+  "artifact_id": "year-9-food-selection-health-program-site-map",
+  "version": "1.0.0",
+  "generated_at": "2026-08-28T00:00:00Z",
+  "course_id": "year-9-food-selection-and-health",
+  "stage_13_binding": {
+    "source_contract": {
+      "artifact_id": "source-map-v1",
+      "version": "1.0",
+      "sha256": "aef051afa93bd9cc76c0b32ca2c3a6814f1d80b32d81941ca3522377bd00950f"
+    },
+    "integration_baseline": {
+      "artifact_id": "integration-manifest-v1",
+      "sha256": "e565bd2bc8f11006d63be763dd4de4d934e6f469ddb51e2fa8316c7c24e06a3d"
+    }
+  },
+  "coverage": {
+    "modules": 6,
+    "sections": 18,
+    "theory_destinations": 18,
+    "knowledge_checks": 18,
+    "mcq_items": 180,
+    "long_responses": 18,
+    "applied_learning_activities": 18,
+    "module_reviews": 6,
+    "primary_presentations": 6,
+    "purposeful_puzzles": 5,
+    "folio_stages": 8
+  },
+  "destinations": [
+    {
+      "site_id": "site-m01-presentation",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-presentation",
+      "audience": "both",
+      "purpose": "Primary 8-slide presentation for Module 1",
+      "module_id": "m01-ready-to-work"
+    },
+    {
+      "site_id": "site-m01-s1-theory",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s1-theory",
+      "audience": "student",
+      "purpose": "Theory: Personal hygiene and readiness",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s1"
+    },
+    {
+      "site_id": "site-m01-s1-check",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s1-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s1"
+    },
+    {
+      "site_id": "site-m01-s1-response",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s1-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s1"
+    },
+    {
+      "site_id": "site-m01-s1-activity",
+      "route": "activities.html",
+      "anchor": "#act-m01-s1",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Contamination-chain photo audit",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s1"
+    },
+    {
+      "site_id": "site-m01-s1-media",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s1-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s1"
+    },
+    {
+      "site_id": "site-m01-s1-folio",
+      "route": "folio.html",
+      "anchor": "#f01-safe-practice",
+      "audience": "student",
+      "purpose": "Folio handoff: M1.1 Readiness control plan",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s1"
+    },
+    {
+      "site_id": "site-m01-s2-theory",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s2-theory",
+      "audience": "student",
+      "purpose": "Theory: Contamination, temperature and food safety",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s2"
+    },
+    {
+      "site_id": "site-m01-s2-check",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s2-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s2"
+    },
+    {
+      "site_id": "site-m01-s2-response",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s2-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s2"
+    },
+    {
+      "site_id": "site-m01-s2-activity",
+      "route": "activities.html",
+      "anchor": "#act-m01-s2",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Bench-route control challenge",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s2"
+    },
+    {
+      "site_id": "site-m01-s2-media",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s2-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s2"
+    },
+    {
+      "site_id": "site-m01-s2-folio",
+      "route": "folio.html",
+      "anchor": "#f01-safe-practice",
+      "audience": "student",
+      "purpose": "Folio handoff: M1.2 Hazard-route plan",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s2"
+    },
+    {
+      "site_id": "site-m01-s3-theory",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s3-theory",
+      "audience": "student",
+      "purpose": "Theory: Safe decisions and incident response",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s3"
+    },
+    {
+      "site_id": "site-m01-s3-check",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s3-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s3"
+    },
+    {
+      "site_id": "site-m01-s3-response",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s3-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s3"
+    },
+    {
+      "site_id": "site-m01-s3-activity",
+      "route": "activities.html",
+      "anchor": "#act-m01-s3",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: First-action decision carousel",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s3"
+    },
+    {
+      "site_id": "site-m01-s3-media",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-s3-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s3"
+    },
+    {
+      "site_id": "site-m01-s3-folio",
+      "route": "folio.html",
+      "anchor": "#f01-safe-practice",
+      "audience": "student",
+      "purpose": "Folio handoff: M1.3 Near-miss redesign",
+      "module_id": "m01-ready-to-work",
+      "section_id": "m01-s3"
+    },
+    {
+      "site_id": "site-m01-review",
+      "route": "modules/module-01.html",
+      "anchor": "#m01-ready-to-work-review",
+      "audience": "student",
+      "purpose": "Visible module review/checklist with three direct package links",
+      "module_id": "m01-ready-to-work"
+    },
+    {
+      "site_id": "site-m02-presentation",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-presentation",
+      "audience": "both",
+      "purpose": "Primary 8-slide presentation for Module 2",
+      "module_id": "m02-food-body"
+    },
+    {
+      "site_id": "site-m02-s1-theory",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s1-theory",
+      "audience": "student",
+      "purpose": "Theory: Six nutrients and their roles",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s1"
+    },
+    {
+      "site_id": "site-m02-s1-check",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s1-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s1"
+    },
+    {
+      "site_id": "site-m02-s1-response",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s1-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s1"
+    },
+    {
+      "site_id": "site-m02-s1-activity",
+      "route": "activities.html",
+      "anchor": "#act-m02-s1",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: More than one nutrient",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s1"
+    },
+    {
+      "site_id": "site-m02-s1-media",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s1-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s1"
+    },
+    {
+      "site_id": "site-m02-s1-folio",
+      "route": "folio.html",
+      "anchor": "#f02-nutrients-body",
+      "audience": "student",
+      "purpose": "Folio handoff: M2.1 Nutrient-team lunch",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s1"
+    },
+    {
+      "site_id": "site-m02-s2-theory",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s2-theory",
+      "audience": "student",
+      "purpose": "Theory: Energy, growth and repair",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s2"
+    },
+    {
+      "site_id": "site-m02-s2-check",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s2-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s2"
+    },
+    {
+      "site_id": "site-m02-s2-response",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s2-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s2"
+    },
+    {
+      "site_id": "site-m02-s2-activity",
+      "route": "activities.html",
+      "anchor": "#act-m02-s2",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Same energy, different contribution",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s2"
+    },
+    {
+      "site_id": "site-m02-s2-media",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s2-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s2"
+    },
+    {
+      "site_id": "site-m02-s2-folio",
+      "route": "folio.html",
+      "anchor": "#f02-nutrients-body",
+      "audience": "student",
+      "purpose": "Folio handoff: M2.2 Context-based meal decision",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s2"
+    },
+    {
+      "site_id": "site-m02-s3-theory",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s3-theory",
+      "audience": "student",
+      "purpose": "Theory: Digestion and nutrient absorption",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s3"
+    },
+    {
+      "site_id": "site-m02-s3-check",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s3-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s3"
+    },
+    {
+      "site_id": "site-m02-s3-response",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s3-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s3"
+    },
+    {
+      "site_id": "site-m02-s3-activity",
+      "route": "activities.html",
+      "anchor": "#act-m02-s3",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Digestive journey relay",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s3"
+    },
+    {
+      "site_id": "site-m02-s3-media",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-s3-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s3"
+    },
+    {
+      "site_id": "site-m02-s3-folio",
+      "route": "folio.html",
+      "anchor": "#f02-nutrients-body",
+      "audience": "student",
+      "purpose": "Folio handoff: M2.3 Journey of a mixed meal",
+      "module_id": "m02-food-body",
+      "section_id": "m02-s3"
+    },
+    {
+      "site_id": "site-m02-review",
+      "route": "modules/module-02.html",
+      "anchor": "#m02-food-body-review",
+      "audience": "student",
+      "purpose": "Visible module review/checklist with three direct package links",
+      "module_id": "m02-food-body"
+    },
+    {
+      "site_id": "site-m03-presentation",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-presentation",
+      "audience": "both",
+      "purpose": "Primary 8-slide presentation for Module 3",
+      "module_id": "m03-food-evidence"
+    },
+    {
+      "site_id": "site-m03-s1-theory",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s1-theory",
+      "audience": "student",
+      "purpose": "Theory: Ingredients, servings and nutrition panels",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s1"
+    },
+    {
+      "site_id": "site-m03-s1-check",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s1-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s1"
+    },
+    {
+      "site_id": "site-m03-s1-response",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s1-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s1"
+    },
+    {
+      "site_id": "site-m03-s1-activity",
+      "route": "activities.html",
+      "anchor": "#act-m03-s1",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Three-pass label scan",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s1"
+    },
+    {
+      "site_id": "site-m03-s1-media",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s1-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s1"
+    },
+    {
+      "site_id": "site-m03-s1-folio",
+      "route": "folio.html",
+      "anchor": "#f03-label-comparison",
+      "audience": "student",
+      "purpose": "Folio handoff: M3.1 Label evidence pathway",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s1"
+    },
+    {
+      "site_id": "site-m03-s2-theory",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s2-theory",
+      "audience": "student",
+      "purpose": "Theory: Comparing foods fairly",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s2"
+    },
+    {
+      "site_id": "site-m03-s2-check",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s2-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s2"
+    },
+    {
+      "site_id": "site-m03-s2-response",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s2-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s2"
+    },
+    {
+      "site_id": "site-m03-s2-activity",
+      "route": "activities.html",
+      "anchor": "#act-m03-s2",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Comparison referee",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s2"
+    },
+    {
+      "site_id": "site-m03-s2-media",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s2-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s2"
+    },
+    {
+      "site_id": "site-m03-s2-folio",
+      "route": "folio.html",
+      "anchor": "#f03-label-comparison",
+      "audience": "student",
+      "purpose": "Folio handoff: M3.2 Fair food comparison",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s2"
+    },
+    {
+      "site_id": "site-m03-s3-theory",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s3-theory",
+      "audience": "student",
+      "purpose": "Theory: Marketing claims, ethics and health",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s3"
+    },
+    {
+      "site_id": "site-m03-s3-check",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s3-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s3"
+    },
+    {
+      "site_id": "site-m03-s3-response",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s3-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s3"
+    },
+    {
+      "site_id": "site-m03-s3-activity",
+      "route": "activities.html",
+      "anchor": "#act-m03-s3",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Thirty-second impression reset",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s3"
+    },
+    {
+      "site_id": "site-m03-s3-media",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-s3-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s3"
+    },
+    {
+      "site_id": "site-m03-s3-folio",
+      "route": "folio.html",
+      "anchor": "#f03-label-comparison",
+      "audience": "student",
+      "purpose": "Folio handoff: M3.3 Claim-evidence-omission audit",
+      "module_id": "m03-food-evidence",
+      "section_id": "m03-s3"
+    },
+    {
+      "site_id": "site-m03-review",
+      "route": "modules/module-03.html",
+      "anchor": "#m03-food-evidence-review",
+      "audience": "student",
+      "purpose": "Visible module review/checklist with three direct package links",
+      "module_id": "m03-food-evidence"
+    },
+    {
+      "site_id": "site-m04-presentation",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-presentation",
+      "audience": "both",
+      "purpose": "Primary 8-slide presentation for Module 4",
+      "module_id": "m04-needs-influences"
+    },
+    {
+      "site_id": "site-m04-s1-theory",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s1-theory",
+      "audience": "student",
+      "purpose": "Theory: Active non-nutrients and food variety",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s1"
+    },
+    {
+      "site_id": "site-m04-s1-check",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s1-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s1"
+    },
+    {
+      "site_id": "site-m04-s1-response",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s1-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s1"
+    },
+    {
+      "site_id": "site-m04-s1-activity",
+      "route": "activities.html",
+      "anchor": "#act-m04-s1",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Variety evidence sort",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s1"
+    },
+    {
+      "site_id": "site-m04-s1-media",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s1-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s1"
+    },
+    {
+      "site_id": "site-m04-s1-folio",
+      "route": "folio.html",
+      "anchor": "#f04-influences-audit",
+      "audience": "student",
+      "purpose": "Folio handoff: Food-choice reasoning",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s1"
+    },
+    {
+      "site_id": "site-m04-s2-theory",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s2-theory",
+      "audience": "student",
+      "purpose": "Theory: Nutrition across the lifecycle",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s2"
+    },
+    {
+      "site_id": "site-m04-s2-check",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s2-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s2"
+    },
+    {
+      "site_id": "site-m04-s2-response",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s2-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s2"
+    },
+    {
+      "site_id": "site-m04-s2-activity",
+      "route": "activities.html",
+      "anchor": "#act-m04-s2",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Lifecycle meal adaptation studio",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s2"
+    },
+    {
+      "site_id": "site-m04-s2-media",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s2-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s2"
+    },
+    {
+      "site_id": "site-m04-s2-folio",
+      "route": "folio.html",
+      "anchor": "#f04-influences-audit",
+      "audience": "student",
+      "purpose": "Folio handoff: User needs and constraints",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s2"
+    },
+    {
+      "site_id": "site-m04-s3-theory",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s3-theory",
+      "audience": "student",
+      "purpose": "Theory: Personal, social, cultural and digital influences",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s3"
+    },
+    {
+      "site_id": "site-m04-s3-check",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s3-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s3"
+    },
+    {
+      "site_id": "site-m04-s3-response",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s3-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s3"
+    },
+    {
+      "site_id": "site-m04-s3-activity",
+      "route": "activities.html",
+      "anchor": "#act-m04-s3",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Influence detective",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s3"
+    },
+    {
+      "site_id": "site-m04-s3-media",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-s3-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s3"
+    },
+    {
+      "site_id": "site-m04-s3-folio",
+      "route": "folio.html",
+      "anchor": "#f04-influences-audit",
+      "audience": "student",
+      "purpose": "Folio handoff: Influences on selection",
+      "module_id": "m04-needs-influences",
+      "section_id": "m04-s3"
+    },
+    {
+      "site_id": "site-m04-review",
+      "route": "modules/module-04.html",
+      "anchor": "#m04-needs-influences-review",
+      "audience": "student",
+      "purpose": "Visible module review/checklist with three direct package links",
+      "module_id": "m04-needs-influences"
+    },
+    {
+      "site_id": "site-m05-presentation",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-presentation",
+      "audience": "both",
+      "purpose": "Primary 8-slide presentation for Module 5",
+      "module_id": "m05-patterns-technology"
+    },
+    {
+      "site_id": "site-m05-s1-theory",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s1-theory",
+      "audience": "student",
+      "purpose": "Theory: Australian food-consumption patterns",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s1"
+    },
+    {
+      "site_id": "site-m05-s1-check",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s1-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s1"
+    },
+    {
+      "site_id": "site-m05-s1-response",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s1-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s1"
+    },
+    {
+      "site_id": "site-m05-s1-activity",
+      "route": "activities.html",
+      "anchor": "#act-m05-s1",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Pattern claim clinic",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s1"
+    },
+    {
+      "site_id": "site-m05-s1-media",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s1-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s1"
+    },
+    {
+      "site_id": "site-m05-s1-folio",
+      "route": "folio.html",
+      "anchor": "#f05-patterns-technology",
+      "audience": "student",
+      "purpose": "Folio handoff: Using population evidence",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s1"
+    },
+    {
+      "site_id": "site-m05-s2-theory",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s2-theory",
+      "audience": "student",
+      "purpose": "Theory: Convenience, delivery and food technology",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s2"
+    },
+    {
+      "site_id": "site-m05-s2-check",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s2-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s2"
+    },
+    {
+      "site_id": "site-m05-s2-response",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s2-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s2"
+    },
+    {
+      "site_id": "site-m05-s2-activity",
+      "route": "activities.html",
+      "anchor": "#act-m05-s2",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Convenience system map",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s2"
+    },
+    {
+      "site_id": "site-m05-s2-media",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s2-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s2"
+    },
+    {
+      "site_id": "site-m05-s2-folio",
+      "route": "folio.html",
+      "anchor": "#f05-patterns-technology",
+      "audience": "student",
+      "purpose": "Folio handoff: Technology and trade-offs",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s2"
+    },
+    {
+      "site_id": "site-m05-s3-theory",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s3-theory",
+      "audience": "student",
+      "purpose": "Theory: Designing responsible food solutions",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s3"
+    },
+    {
+      "site_id": "site-m05-s3-check",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s3-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s3"
+    },
+    {
+      "site_id": "site-m05-s3-response",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s3-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s3"
+    },
+    {
+      "site_id": "site-m05-s3-activity",
+      "route": "activities.html",
+      "anchor": "#act-m05-s3",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Design decision matrix sprint",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s3"
+    },
+    {
+      "site_id": "site-m05-s3-media",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-s3-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s3"
+    },
+    {
+      "site_id": "site-m05-s3-folio",
+      "route": "folio.html",
+      "anchor": "#f05-patterns-technology",
+      "audience": "student",
+      "purpose": "Folio handoff: Responsible food design",
+      "module_id": "m05-patterns-technology",
+      "section_id": "m05-s3"
+    },
+    {
+      "site_id": "site-m05-review",
+      "route": "modules/module-05.html",
+      "anchor": "#m05-patterns-technology-review",
+      "audience": "student",
+      "purpose": "Visible module review/checklist with three direct package links",
+      "module_id": "m05-patterns-technology"
+    },
+    {
+      "site_id": "site-m06-presentation",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-presentation",
+      "audience": "both",
+      "purpose": "Primary 8-slide presentation for Module 6",
+      "module_id": "m06-health-guidance"
+    },
+    {
+      "site_id": "site-m06-s1-theory",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s1-theory",
+      "audience": "student",
+      "purpose": "Theory: Under- and overnutrition",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s1"
+    },
+    {
+      "site_id": "site-m06-s1-check",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s1-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s1"
+    },
+    {
+      "site_id": "site-m06-s1-response",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s1-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s1"
+    },
+    {
+      "site_id": "site-m06-s1-activity",
+      "route": "activities.html",
+      "anchor": "#act-m06-s1",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Pattern-mechanism-support triads",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s1"
+    },
+    {
+      "site_id": "site-m06-s1-media",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s1-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s1"
+    },
+    {
+      "site_id": "site-m06-s1-folio",
+      "route": "folio.html",
+      "anchor": "#f06-health-guidance",
+      "audience": "student",
+      "purpose": "Folio handoff: Nutrition patterns and support",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s1"
+    },
+    {
+      "site_id": "site-m06-s2-theory",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s2-theory",
+      "audience": "student",
+      "purpose": "Theory: Nutrition-related conditions and prevention",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s2"
+    },
+    {
+      "site_id": "site-m06-s2-check",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s2-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s2"
+    },
+    {
+      "site_id": "site-m06-s2-response",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s2-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s2"
+    },
+    {
+      "site_id": "site-m06-s2-activity",
+      "route": "activities.html",
+      "anchor": "#act-m06-s2",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Mechanism and claim clinic",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s2"
+    },
+    {
+      "site_id": "site-m06-s2-media",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s2-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s2"
+    },
+    {
+      "site_id": "site-m06-s2-folio",
+      "route": "folio.html",
+      "anchor": "#f06-health-guidance",
+      "audience": "student",
+      "purpose": "Folio handoff: Nutrition-related conditions",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s2"
+    },
+    {
+      "site_id": "site-m06-s3-theory",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s3-theory",
+      "audience": "student",
+      "purpose": "Theory: Australian guidance and the HelloEats challenge",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s3"
+    },
+    {
+      "site_id": "site-m06-s3-check",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s3-package",
+      "audience": "student",
+      "purpose": "Ten feedback-rich MCQs",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s3"
+    },
+    {
+      "site_id": "site-m06-s3-response",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s3-response",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long response",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s3"
+    },
+    {
+      "site_id": "site-m06-s3-activity",
+      "route": "activities.html",
+      "anchor": "#act-m06-s3",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Draft HelloEats evidence sprint",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s3"
+    },
+    {
+      "site_id": "site-m06-s3-media",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-s3-media",
+      "audience": "student",
+      "purpose": "Verified video or equivalent non-video learning pathway",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s3"
+    },
+    {
+      "site_id": "site-m06-s3-folio",
+      "route": "folio.html",
+      "anchor": "#f06-health-guidance",
+      "audience": "student",
+      "purpose": "Folio handoff: Draft HelloEats concept",
+      "module_id": "m06-health-guidance",
+      "section_id": "m06-s3"
+    },
+    {
+      "site_id": "site-m06-review",
+      "route": "modules/module-06.html",
+      "anchor": "#m06-health-guidance-review",
+      "audience": "student",
+      "purpose": "Visible module review/checklist with three direct package links",
+      "module_id": "m06-health-guidance"
+    },
+    {
+      "site_id": "site-puzzle-1",
+      "route": "puzzles.html",
+      "anchor": "#puzzle-1",
+      "audience": "student",
+      "purpose": "Safety scenario sort",
+      "module_id": "m01-ready-to-work"
+    },
+    {
+      "site_id": "site-puzzle-2",
+      "route": "puzzles.html",
+      "anchor": "#puzzle-2",
+      "audience": "student",
+      "purpose": "Nutrient-function match",
+      "module_id": "m02-food-body"
+    },
+    {
+      "site_id": "site-puzzle-3",
+      "route": "puzzles.html",
+      "anchor": "#puzzle-3",
+      "audience": "student",
+      "purpose": "Label detective",
+      "module_id": "m03-food-evidence"
+    },
+    {
+      "site_id": "site-puzzle-4",
+      "route": "puzzles.html",
+      "anchor": "#puzzle-4",
+      "audience": "student",
+      "purpose": "Influence matrix",
+      "module_id": "m04-needs-influences"
+    },
+    {
+      "site_id": "site-puzzle-5",
+      "route": "puzzles.html",
+      "anchor": "#puzzle-5",
+      "audience": "student",
+      "purpose": "Guidance and design evidence sort",
+      "module_id": "m06-health-guidance"
+    },
+    {
+      "site_id": "site-m06-assessment-orientation",
+      "route": "assessment.html",
+      "audience": "both",
+      "purpose": "Published schedule and HelloEats draft-authority boundary",
+      "module_id": "m06-health-guidance"
+    },
+    {
+      "site_id": "site-m06-final-folio",
+      "route": "folio.html",
+      "anchor": "#f08-evaluation",
+      "audience": "student",
+      "purpose": "Final course synthesis and evaluation evidence",
+      "module_id": "m06-health-guidance"
+    },
+    {
+      "site_id": "site-m06-teacher-resources",
+      "route": "teacher-resources.html",
+      "audience": "teacher",
+      "purpose": "Teacher program, presentations, source and confirmation boundaries",
+      "module_id": "m06-health-guidance"
+    },
+    {
+      "site_id": "site-m06-videos-register",
+      "route": "videos.html",
+      "audience": "both",
+      "purpose": "Section media and equivalent-pathway register",
+      "module_id": "m06-health-guidance"
+    }
+  ]
+}
