@@ -287,7 +287,7 @@ h3 {
   min-height: 0;
   aspect-ratio: 4 / 3;
   border: 10px solid rgba(255, 255, 255, 0.72);
-  border-radius: 44% 56% 42% 58% / 52% 38% 62% 48%;
+  border-radius: 50%;
   background: #d8e8e1;
   box-shadow: var(--shadow);
   object-fit: cover;
