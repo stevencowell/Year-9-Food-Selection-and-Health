@@ -1,0 +1,1396 @@
+{
+  "schema_version": "1.1",
+  "record_id": "stage5-food-site-content-gaps",
+  "version": "v2.0",
+  "generated_date": "2026-08-29",
+  "official_source_sha256": "07349BEF7C1B6CCC0570924404B5C5867A8DF52D486617CBA7D8B3946826F90B",
+  "gap_count": 92,
+  "partial_count": 73,
+  "not_evidenced_count": 19,
+  "gaps": [
+    {
+      "gap_id": "FOOD-GAP-002",
+      "content_item_id": "ci4869c19f",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food design and production",
+      "exact_official_content": "Investigate and describe current trends in food design and production",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-003",
+      "content_item_id": "ciad6d2582",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food design and production",
+      "exact_official_content": "Explore how emerging technologies may improve sustainability through food design and production",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-004",
+      "content_item_id": "ci735bc513",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food design and production",
+      "exact_official_content": "Apply creative concepts and design thinking to generate and evaluate food design ideas and solutions for a specific context",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-005",
+      "content_item_id": "cia7f1e48e",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food design and production",
+      "exact_official_content": "Apply planning and management skills when developing food design ideas and solutions",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s2",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s02",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s1"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-007",
+      "content_item_id": "cibc251b80",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food design and production",
+      "exact_official_content": "Investigate and apply food presentation, photography and styling techniques used in food design and production",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s01"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-008",
+      "content_item_id": "ci718000c9",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food design and production",
+      "exact_official_content": "Describe how market research is used to influence consumer choice and food production",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s02"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-009",
+      "content_item_id": "ci9d6fc811",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food design and production",
+      "exact_official_content": "Discuss career pathways in food design and production",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s3-theory"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-010",
+      "content_item_id": "ci58b48ad8",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food design and production",
+      "exact_official_content": "Identify and apply safe and hygienic food preparation practices",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-011",
+      "content_item_id": "cid1ba0e22",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food design and production",
+      "exact_official_content": "Design and create packaging and promotional materials for food products developed for specific contexts",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s1",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s02"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-012",
+      "content_item_id": "cia456f155",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food design and production",
+      "exact_official_content": "Plan and safely prepare food inspired by current trends in food design and production",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#m01-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#m02-s03",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s1"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-013",
+      "content_item_id": "cif2365f9a",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food preparation practices",
+      "exact_official_content": "Identify and describe a range of food preparation techniques and practices",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#m02-s02",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s2"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-014",
+      "content_item_id": "cie0f5a16e",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food preparation practices",
+      "exact_official_content": "Investigate Aboriginal and Torres Strait Islander Peoples’ customary and contemporary food preparation Practices",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s01"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-015",
+      "content_item_id": "ci66fc18df",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food preparation practices",
+      "exact_official_content": "Assess risks when managing safe and hygienic handling of ingredients and equipment",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s2",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-016",
+      "content_item_id": "ciec039114",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food preparation practices",
+      "exact_official_content": "Apply planning and management skills when undertaking food preparation practices",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s2",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#m04-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#m03-s02"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-017",
+      "content_item_id": "ci8b27c433",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food preparation practices",
+      "exact_official_content": "Assess the functional properties of ingredients in food which has been planned and prepared for a specific context",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#m02-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-018",
+      "content_item_id": "ci1a7e6b29",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food preparation practices",
+      "exact_official_content": "Describe and apply food practices to minimise food waste, deterioration and spoilage",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#m04-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#m03-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-019",
+      "content_item_id": "cie8c7d370",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food preparation practices",
+      "exact_official_content": "Investigate changes that occur when preparing and cooking food, including physical and nutritional variations",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#m02-s03",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s2"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-020",
+      "content_item_id": "ci24a876ba",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food preparation practices",
+      "exact_official_content": "Evaluate the effect of various preparation techniques on the sensory characteristics of food including appearance, aroma, flavour and texture",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-021",
+      "content_item_id": "ci06af428b",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food preparation practices",
+      "exact_official_content": "Investigate how changes to ingredients and techniques in food preparation practices can improve the nutritional value of prepared foods",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s03",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s3"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-022",
+      "content_item_id": "cia40bfae5",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food preparation practices",
+      "exact_official_content": "Create written texts to explain food design, production and preparation practices",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-023",
+      "content_item_id": "ci6fa07ce6",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food preparation practices",
+      "exact_official_content": "Identify and apply safe and hygienic food preparation practices",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-024",
+      "content_item_id": "ci4dd7d866",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food preparation practices",
+      "exact_official_content": "Design and create meals that use the functional properties of ingredients to enhance flavour, texture and appearance",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s02"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-025",
+      "content_item_id": "ci35914536",
+      "focus_area": "Food design and preparation practices",
+      "content_group": "Food preparation practices",
+      "exact_official_content": "Plan and safely prepare nutritious food, applying a range of food preparation techniques and practices",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#m01-s03",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s2"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-029",
+      "content_item_id": "ci122178e1",
+      "focus_area": "Australian food practices and cuisine",
+      "content_group": "Customary, historical and contemporary food practices",
+      "exact_official_content": "Explain how changes in Australian society, including the nature and patterns of work, influence food selection, preparation and production",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-030",
+      "content_item_id": "ci8dbaaf82",
+      "focus_area": "Australian food practices and cuisine",
+      "content_group": "Customary, historical and contemporary food practices",
+      "exact_official_content": "Investigate technological advances that have influenced food preparation, production and preservation methods over time",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s02"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-031",
+      "content_item_id": "ci18870d21",
+      "focus_area": "Australian food practices and cuisine",
+      "content_group": "Customary, historical and contemporary food practices",
+      "exact_official_content": "Examine how emerging technologies and appliance trends support diverse food preparation and sustainable practices",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s02"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-034",
+      "content_item_id": "ci705463a6",
+      "focus_area": "Australian food practices and cuisine",
+      "content_group": "Customary, historical and contemporary food practices",
+      "exact_official_content": "Identify and apply safe and hygienic food preparation practices",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-035",
+      "content_item_id": "cia5f43881",
+      "focus_area": "Australian food practices and cuisine",
+      "content_group": "Customary, historical and contemporary food practices",
+      "exact_official_content": "Design and create meals with customary ingredients used by Aboriginal and Torres Strait Islander Peoples in contemporary food practices",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s01"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-036",
+      "content_item_id": "cia7c5e9d5",
+      "focus_area": "Australian food practices and cuisine",
+      "content_group": "Customary, historical and contemporary food practices",
+      "exact_official_content": "Plan and safely prepare nutritious food using customary, historical and contemporary practices",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#m04-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-037",
+      "content_item_id": "ci4e094ef5",
+      "focus_area": "Australian food practices and cuisine",
+      "content_group": "Cultural influences on Australian cuisine",
+      "exact_official_content": "Explore the significance of food in diverse cultures around the world",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#m02-s01"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-038",
+      "content_item_id": "cie6ed3247",
+      "focus_area": "Australian food practices and cuisine",
+      "content_group": "Cultural influences on Australian cuisine",
+      "exact_official_content": "Identify ingredients, tools and techniques used by diverse cultures for food preparation",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-042",
+      "content_item_id": "cid2a73b7d",
+      "focus_area": "Australian food practices and cuisine",
+      "content_group": "Cultural influences on Australian cuisine",
+      "exact_official_content": "Generate ideas for nutritious, contemporary food products inspired by local and global cultures",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s01"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-044",
+      "content_item_id": "ci980da804",
+      "focus_area": "Australian food practices and cuisine",
+      "content_group": "Cultural influences on Australian cuisine",
+      "exact_official_content": "Apply food presentation, photography and styling techniques to contemporary fusion foods",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s01"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-045",
+      "content_item_id": "ci6cd9d51f",
+      "focus_area": "Australian food practices and cuisine",
+      "content_group": "Cultural influences on Australian cuisine",
+      "exact_official_content": "Explain how consumer food choices may influence food production, availability and distribution",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-048",
+      "content_item_id": "cied3bc530",
+      "focus_area": "Australian food practices and cuisine",
+      "content_group": "Cultural influences on Australian cuisine",
+      "exact_official_content": "Identify and apply safe and hygienic food preparation practices",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-049",
+      "content_item_id": "ci5613bfd6",
+      "focus_area": "Australian food practices and cuisine",
+      "content_group": "Cultural influences on Australian cuisine",
+      "exact_official_content": "Design and create meals inspired by foods from local and global cultures, including fusion foods",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s02"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-050",
+      "content_item_id": "ci74f282db",
+      "focus_area": "Australian food practices and cuisine",
+      "content_group": "Cultural influences on Australian cuisine",
+      "exact_official_content": "Plan and safely prepare nutritious foods to reflect the evolving nature of Australian cuisine",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#m01-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s01"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-056",
+      "content_item_id": "cib076410a",
+      "focus_area": "Food selection for nutrition and health",
+      "content_group": "Nutritional value of foods",
+      "exact_official_content": "Investigate types and food sources of dietary fibre and its role in supporting health and wellbeing",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#m02-s02",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s2",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s02"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-059",
+      "content_item_id": "cicc01e759",
+      "focus_area": "Food selection for nutrition and health",
+      "content_group": "Nutritional value of foods",
+      "exact_official_content": "Generate ideas and solutions to promote the nutritional value of foods for individuals and groups of people",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#m04-s02",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s2",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s1"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-060",
+      "content_item_id": "ci951c35e7",
+      "focus_area": "Food selection for nutrition and health",
+      "content_group": "Nutritional value of foods",
+      "exact_official_content": "Identify and apply safe and hygienic food preparation practices",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s2",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s2",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s2"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-061",
+      "content_item_id": "cied22c69d",
+      "focus_area": "Food selection for nutrition and health",
+      "content_group": "Nutritional value of foods",
+      "exact_official_content": "Design and create meals to improve nutritional value by substituting ingredients, including proteins, fats and carbohydrates",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s2",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#m04-s02"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-062",
+      "content_item_id": "cieb71b951",
+      "focus_area": "Food selection for nutrition and health",
+      "content_group": "Nutritional value of foods",
+      "exact_official_content": "Plan and safely prepare nutritious foods to meet the needs of individuals and groups of people",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s2",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#m04-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#m01-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-063",
+      "content_item_id": "ci94b1bdc6",
+      "focus_area": "Food selection for nutrition and health",
+      "content_group": "Food selection for nutrition and dietary needs",
+      "exact_official_content": "Investigate and evaluate food guides that promote balanced and nutritious food choices",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s2",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s2",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s2-theory"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-065",
+      "content_item_id": "ci5493a3bb",
+      "focus_area": "Food selection for nutrition and health",
+      "content_group": "Food selection for nutrition and dietary needs",
+      "exact_official_content": "Compare food allergies and intolerances to determine suitable food selection for individuals",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s1",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s2"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-067",
+      "content_item_id": "ci2f17593c",
+      "focus_area": "Food selection for nutrition and health",
+      "content_group": "Food selection for nutrition and dietary needs",
+      "exact_official_content": "Evaluate how food is designed and promoted to influence individual and consumer choices",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s02",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s3",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s1"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-068",
+      "content_item_id": "cif6e0256d",
+      "focus_area": "Food selection for nutrition and health",
+      "content_group": "Food selection for nutrition and dietary needs",
+      "exact_official_content": "Investigate how media may influence food selection and impact the health of individuals and society",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s01",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s2",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s1"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-070",
+      "content_item_id": "cia284889c",
+      "focus_area": "Food selection for nutrition and health",
+      "content_group": "Food selection for nutrition and dietary needs",
+      "exact_official_content": "Discuss the influence of food safety, sustainability and ethical production on consumer food choices and practices",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s2",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s1",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s2-theory"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-071",
+      "content_item_id": "ci6ea92395",
+      "focus_area": "Food selection for nutrition and health",
+      "content_group": "Food selection for nutrition and dietary needs",
+      "exact_official_content": "Generate ideas to promote food safety, sustainability and ethical production to consumers",
+      "coverage_state": "gap-recorded",
+      "related_current_routes": [],
+      "required_site_capability": "Build a new source-grounded site learning package with named theory, ten feedback-rich checks, a higher-order response or equivalent evidence, and an authorised practical pathway where the point requires production.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-072",
+      "content_item_id": "cide2dc849",
+      "focus_area": "Food selection for nutrition and health",
+      "content_group": "Food selection for nutrition and dietary needs",
+      "exact_official_content": "Create written texts to explain how food selection supports nutrition and dietary needs",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s03",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s2",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s1"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-073",
+      "content_item_id": "ci3d3a33dd",
+      "focus_area": "Food selection for nutrition and health",
+      "content_group": "Food selection for nutrition and dietary needs",
+      "exact_official_content": "Identify and apply safe and hygienic food preparation practices",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s2",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s2",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s2"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-074",
+      "content_item_id": "ci5ef08618",
+      "focus_area": "Food selection for nutrition and health",
+      "content_group": "Food selection for nutrition and dietary needs",
+      "exact_official_content": "Design and create meals using alternative ingredients to meet specific dietary needs",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s2",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s3",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s1"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-075",
+      "content_item_id": "cie4a61ec3",
+      "focus_area": "Food selection for nutrition and health",
+      "content_group": "Food selection for nutrition and dietary needs",
+      "exact_official_content": "Plan and safely prepare nutritious foods to meet a range of dietary needs",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#m01-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-076",
+      "content_item_id": "ci10af9d33",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food processing systems",
+      "exact_official_content": "Identify food processing systems in Australia",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#m04-s02"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-077",
+      "content_item_id": "ci6b213568",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food processing systems",
+      "exact_official_content": "Outline the types and methods of primary and secondary food processing",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s01"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-079",
+      "content_item_id": "cif31935aa",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food processing systems",
+      "exact_official_content": "Examine the purpose and principles of food preservation",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s01"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-082",
+      "content_item_id": "cib7c601e8",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food processing systems",
+      "exact_official_content": "Evaluate the types and functions of food packaging available to store and distribute foods",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#m02-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#m02-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s02"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-083",
+      "content_item_id": "cib5e4b375",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food processing systems",
+      "exact_official_content": "Outline legislative food labelling requirements",
+      "coverage_state": "gap-recorded",
+      "related_current_routes": [],
+      "required_site_capability": "Build a new source-grounded site learning package with named theory, ten feedback-rich checks, a higher-order response or equivalent evidence, and an authorised practical pathway where the point requires production.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-084",
+      "content_item_id": "ci8a0e7f53",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food processing systems",
+      "exact_official_content": "Produce appropriate food labels and packaging for food preservation",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s02",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s2"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-085",
+      "content_item_id": "cid4ec50b2",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food processing systems",
+      "exact_official_content": "Identify and apply safe and hygienic food preparation practices",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-086",
+      "content_item_id": "ci46c38d4e",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food processing systems",
+      "exact_official_content": "Design and create meals using appropriate food preservation methods",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-087",
+      "content_item_id": "ci27abdcca",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food processing systems",
+      "exact_official_content": "Apply primary and secondary food processing methods to safely prepare nutritious foods",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s01"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-088",
+      "content_item_id": "ci248e5f1b",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food events and catering operations",
+      "exact_official_content": "Identify local and global examples of food events and catering trends",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#m03-s02"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-089",
+      "content_item_id": "ciaa68cafc",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food events and catering operations",
+      "exact_official_content": "Explore a variety of menus that reflect contemporary food events and catering operations",
+      "coverage_state": "gap-recorded",
+      "related_current_routes": [],
+      "required_site_capability": "Build a new source-grounded site learning package with named theory, ten feedback-rich checks, a higher-order response or equivalent evidence, and an authorised practical pathway where the point requires production.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-090",
+      "content_item_id": "ci1a1a6b96",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food events and catering operations",
+      "exact_official_content": "Outline the rights and responsibilities of employers and employees implementing food events and catering operations",
+      "coverage_state": "gap-recorded",
+      "related_current_routes": [],
+      "required_site_capability": "Build a new source-grounded site learning package with named theory, ten feedback-rich checks, a higher-order response or equivalent evidence, and an authorised practical pathway where the point requires production.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-091",
+      "content_item_id": "cide22dbd0",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food events and catering operations",
+      "exact_official_content": "Examine and apply food regulations, standards and codes of practice",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#m04-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#m03-s02"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-092",
+      "content_item_id": "ci692fd656",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food events and catering operations",
+      "exact_official_content": "Investigate emerging technologies used for food events and catering operations to order, prepare, serve and deliver food",
+      "coverage_state": "gap-recorded",
+      "related_current_routes": [],
+      "required_site_capability": "Build a new source-grounded site learning package with named theory, ten feedback-rich checks, a higher-order response or equivalent evidence, and an authorised practical pathway where the point requires production.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-093",
+      "content_item_id": "ci8f0780b8",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food events and catering operations",
+      "exact_official_content": "Identify and evaluate ways to improve sustainability in sourcing ingredients and planning menus for food events and catering operations",
+      "coverage_state": "gap-recorded",
+      "related_current_routes": [],
+      "required_site_capability": "Build a new source-grounded site learning package with named theory, ten feedback-rich checks, a higher-order response or equivalent evidence, and an authorised practical pathway where the point requires production.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-094",
+      "content_item_id": "ci8d01df55",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food events and catering operations",
+      "exact_official_content": "Describe how food event and catering menus accommodate diverse dietary needs",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#m03-s01"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-095",
+      "content_item_id": "ci0ec48433",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food events and catering operations",
+      "exact_official_content": "Investigate food presentation, photography and styling trends used for food events and catering operations",
+      "coverage_state": "gap-recorded",
+      "related_current_routes": [],
+      "required_site_capability": "Build a new source-grounded site learning package with named theory, ten feedback-rich checks, a higher-order response or equivalent evidence, and an authorised practical pathway where the point requires production.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-096",
+      "content_item_id": "ci9b403ca0",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food events and catering operations",
+      "exact_official_content": "Discuss career pathways in food events and catering operations",
+      "coverage_state": "gap-recorded",
+      "related_current_routes": [],
+      "required_site_capability": "Build a new source-grounded site learning package with named theory, ten feedback-rich checks, a higher-order response or equivalent evidence, and an authorised practical pathway where the point requires production.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-097",
+      "content_item_id": "cidbf1ca50",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food events and catering operations",
+      "exact_official_content": "Create written texts to explain how the contexts of food events and catering operations informs their features and practices",
+      "coverage_state": "gap-recorded",
+      "related_current_routes": [],
+      "required_site_capability": "Build a new source-grounded site learning package with named theory, ten feedback-rich checks, a higher-order response or equivalent evidence, and an authorised practical pathway where the point requires production.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-098",
+      "content_item_id": "ci64fc26c3",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food events and catering operations",
+      "exact_official_content": "Identify and apply safe and hygienic food preparation practices",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-099",
+      "content_item_id": "ci346828a4",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food events and catering operations",
+      "exact_official_content": "Design and create menus for a range of food events and catering operations",
+      "coverage_state": "gap-recorded",
+      "related_current_routes": [],
+      "required_site_capability": "Build a new source-grounded site learning package with named theory, ten feedback-rich checks, a higher-order response or equivalent evidence, and an authorised practical pathway where the point requires production.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-100",
+      "content_item_id": "ciab562965",
+      "focus_area": "Food industry processing and operations",
+      "content_group": "Food events and catering operations",
+      "exact_official_content": "Plan and safely prepare foods for catering small or large-scale food events and catering operations",
+      "coverage_state": "gap-recorded",
+      "related_current_routes": [],
+      "required_site_capability": "Build a new source-grounded site learning package with named theory, ten feedback-rich checks, a higher-order response or equivalent evidence, and an authorised practical pathway where the point requires production.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-104",
+      "content_item_id": "cic1dff2b1",
+      "focus_area": "Food security and sustainability",
+      "content_group": "Local and community food systems",
+      "exact_official_content": "Explain how local and community food systems can minimise food waste and improve sustainability",
+      "coverage_state": "gap-recorded",
+      "related_current_routes": [],
+      "required_site_capability": "Build a new source-grounded site learning package with named theory, ten feedback-rich checks, a higher-order response or equivalent evidence, and an authorised practical pathway where the point requires production.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-106",
+      "content_item_id": "ci3e5b3dcc",
+      "focus_area": "Food security and sustainability",
+      "content_group": "Local and community food systems",
+      "exact_official_content": "Discuss the role of food rescue organisations in providing food for individuals and communities",
+      "coverage_state": "gap-recorded",
+      "related_current_routes": [],
+      "required_site_capability": "Build a new source-grounded site learning package with named theory, ten feedback-rich checks, a higher-order response or equivalent evidence, and an authorised practical pathway where the point requires production.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-107",
+      "content_item_id": "cidd59e63a",
+      "focus_area": "Food security and sustainability",
+      "content_group": "Local and community food systems",
+      "exact_official_content": "Generate ideas and solutions for meals and food packaging for a food rescue organisation",
+      "coverage_state": "gap-recorded",
+      "related_current_routes": [],
+      "required_site_capability": "Build a new source-grounded site learning package with named theory, ten feedback-rich checks, a higher-order response or equivalent evidence, and an authorised practical pathway where the point requires production.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-108",
+      "content_item_id": "ciba96b561",
+      "focus_area": "Food security and sustainability",
+      "content_group": "Local and community food systems",
+      "exact_official_content": "Investigate ways local businesses and community groups generate food supply and distribution opportunities",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s03",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s3",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#m03-s01"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-109",
+      "content_item_id": "cia614f045",
+      "focus_area": "Food security and sustainability",
+      "content_group": "Local and community food systems",
+      "exact_official_content": "Analyse factors contributing to the occurrence of food deserts in Australia",
+      "coverage_state": "gap-recorded",
+      "related_current_routes": [],
+      "required_site_capability": "Build a new source-grounded site learning package with named theory, ten feedback-rich checks, a higher-order response or equivalent evidence, and an authorised practical pathway where the point requires production.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-110",
+      "content_item_id": "cib67fdc8e",
+      "focus_area": "Food security and sustainability",
+      "content_group": "Local and community food systems",
+      "exact_official_content": "Apply food presentation, photography and styling techniques to develop promotional materials for local and community food systems",
+      "coverage_state": "gap-recorded",
+      "related_current_routes": [],
+      "required_site_capability": "Build a new source-grounded site learning package with named theory, ten feedback-rich checks, a higher-order response or equivalent evidence, and an authorised practical pathway where the point requires production.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-111",
+      "content_item_id": "cid6c14b7a",
+      "focus_area": "Food security and sustainability",
+      "content_group": "Local and community food systems",
+      "exact_official_content": "Identify and apply safe and hygienic food preparation practices",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-112",
+      "content_item_id": "ci0112e697",
+      "focus_area": "Food security and sustainability",
+      "content_group": "Local and community food systems",
+      "exact_official_content": "Design and create meals that minimise food waste and improve environmental sustainability",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-113",
+      "content_item_id": "ci165a5edd",
+      "focus_area": "Food security and sustainability",
+      "content_group": "Local and community food systems",
+      "exact_official_content": "Plan and safely prepare foods using locally sourced and seasonal ingredients",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#m01-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#m02-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-114",
+      "content_item_id": "cieba0465a",
+      "focus_area": "Food security and sustainability",
+      "content_group": "Global food supply and distribution",
+      "exact_official_content": "Identify global food production and distribution systems",
+      "coverage_state": "gap-recorded",
+      "related_current_routes": [],
+      "required_site_capability": "Build a new source-grounded site learning package with named theory, ten feedback-rich checks, a higher-order response or equivalent evidence, and an authorised practical pathway where the point requires production.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-116",
+      "content_item_id": "cieeb7f1db",
+      "focus_area": "Food security and sustainability",
+      "content_group": "Global food supply and distribution",
+      "exact_official_content": "Discuss why individuals and groups may be at risk of food insecurity",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s1",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s1",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-117",
+      "content_item_id": "ci4248e33e",
+      "focus_area": "Food security and sustainability",
+      "content_group": "Global food supply and distribution",
+      "exact_official_content": "Identify and explain challenges affecting food production and distribution systems",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#m04-s01",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s2-theory"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-119",
+      "content_item_id": "ciead01349",
+      "focus_area": "Food security and sustainability",
+      "content_group": "Global food supply and distribution",
+      "exact_official_content": "Investigate global food relief agencies and their influence on food security",
+      "coverage_state": "gap-recorded",
+      "related_current_routes": [],
+      "required_site_capability": "Build a new source-grounded site learning package with named theory, ten feedback-rich checks, a higher-order response or equivalent evidence, and an authorised practical pathway where the point requires production.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-120",
+      "content_item_id": "cib7329259",
+      "focus_area": "Food security and sustainability",
+      "content_group": "Global food supply and distribution",
+      "exact_official_content": "Discuss societal, ethical and environmental considerations for global food supply and distribution",
+      "coverage_state": "gap-recorded",
+      "related_current_routes": [],
+      "required_site_capability": "Build a new source-grounded site learning package with named theory, ten feedback-rich checks, a higher-order response or equivalent evidence, and an authorised practical pathway where the point requires production.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-122",
+      "content_item_id": "cic50e39e3",
+      "focus_area": "Food security and sustainability",
+      "content_group": "Global food supply and distribution",
+      "exact_official_content": "Create written texts to explain how social, political and environmental factors shape food systems",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s2",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": false,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-123",
+      "content_item_id": "ci80ebcf68",
+      "focus_area": "Food security and sustainability",
+      "content_group": "Global food supply and distribution",
+      "exact_official_content": "Identify and apply safe and hygienic food preparation practices",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-124",
+      "content_item_id": "cica5da80e",
+      "focus_area": "Food security and sustainability",
+      "content_group": "Global food supply and distribution",
+      "exact_official_content": "Design and create meals to improve nutrition using readily available ingredients",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s03"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    },
+    {
+      "gap_id": "FOOD-GAP-125",
+      "content_item_id": "ci8830ed14",
+      "focus_area": "Food security and sustainability",
+      "content_group": "Global food supply and distribution",
+      "exact_official_content": "Plan and safely prepare foods using available ingredients within a set budget",
+      "coverage_state": "partial-current-site",
+      "related_current_routes": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#m02-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#m01-s03",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s3"
+      ],
+      "required_site_capability": "Add an explicit named theory/activity/evidence package that teaches the whole official point and records assessable evidence; preserve the current related route as reinforcement.",
+      "practical_authority_required": true,
+      "authority_boundary": "Do not invent recipes, methods, assessment conditions, timing, local community authority or school risk controls."
+    }
+  ]
+}

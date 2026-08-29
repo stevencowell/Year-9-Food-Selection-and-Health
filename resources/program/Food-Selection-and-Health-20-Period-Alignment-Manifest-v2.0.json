@@ -1,0 +1,2317 @@
+{
+  "schema_version": "1.1",
+  "program_id": "stage5-food-selection-health",
+  "version": "v2.0",
+  "teacher_facing_display": {
+    "course_identity": "Stage 5 Food Technology",
+    "specific_year_group_visible": false,
+    "official_outcomes_complete": true,
+    "official_content_wording_location": "syllabus content fields and this manifest",
+    "practical_authority_visible": true
+  },
+  "course": {
+    "title": "Stage 5 Food Technology",
+    "classification": "Food Technology 7-10 elective",
+    "stage_or_year": "Stage 5",
+    "delivery_year": 2027,
+    "project": "Food Selection and Health"
+  },
+  "site": {
+    "name": "Food Selection and Health",
+    "reference": "https://stevencowell.github.io/Food-Selection-and-Health/",
+    "inspection_date": "2026-08-29",
+    "state": "repository"
+  },
+  "syllabus": {
+    "title": "Food Technology 7-10 Syllabus",
+    "version": "2025",
+    "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview/course",
+    "verified_date": "2026-08-29",
+    "mandatory_from": "2028",
+    "early_implementation": "permitted",
+    "steve_decision": "use-new-early",
+    "implementation_status": "early-adoption-confirmed"
+  },
+  "timetable": {
+    "weeks": 10,
+    "period_minutes": 60,
+    "periods_per_fortnight": 4,
+    "total_periods": 20,
+    "planning_basis": "Schema planning conversion only: 20 one-hour periods across the site's ten-week/module sequence; the actual local timetable remains Teacher to confirm."
+  },
+  "outcomes": [
+    {
+      "code": "FT5-SAF-01",
+      "statement": "applies safe work and management practices through food design and production processes",
+      "stable_id": "oc8ed04fc1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "source_id": "S2"
+    },
+    {
+      "code": "FT5-COM-01",
+      "statement": "communicates ideas, concepts and solutions in food design and production contexts",
+      "stable_id": "oc2be4b053",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "source_id": "S2"
+    },
+    {
+      "code": "FT5-FPP-01",
+      "statement": "selects and justifies the use of food preparation and presentation practices",
+      "stable_id": "oc3137218f",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "source_id": "S2"
+    },
+    {
+      "code": "FT5-USE-01",
+      "statement": "selects and applies ingredients, techniques and equipment in food design and production contexts",
+      "stable_id": "oc54191072",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "source_id": "S2"
+    },
+    {
+      "code": "FT5-IET-01",
+      "statement": "explains industry practices and emerging technologies used in food design and production",
+      "stable_id": "ocb9bf1b4c",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "source_id": "S2"
+    },
+    {
+      "code": "FT5-NSA-01",
+      "statement": "assesses how nutrition, food selection and availability influence individuals and communities",
+      "stable_id": "oc98c78104",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "source_id": "S2"
+    },
+    {
+      "code": "FT5-ENV-01",
+      "statement": "analyses relationships between food production systems, sustainability and society",
+      "stable_id": "ocec219bce",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "source_id": "S2"
+    }
+  ],
+  "source_register": [
+    {
+      "id": "S1",
+      "title": "Food Technology 7-10 Syllabus (2025) - course requirements",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview/course",
+      "revision": "verified 2026-08-29",
+      "use": "Course identity, early-implementation setting and 200-hour requirements"
+    },
+    {
+      "id": "S2",
+      "title": "Food Technology 7-10 Syllabus (2025) - outcomes and Stage 5 content",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "revision": "07349BEF7C1B6CCC0570924404B5C5867A8DF52D486617CBA7D8B3946826F90B",
+      "use": "Exact outcomes, exact official content statements and stable IDs"
+    },
+    {
+      "id": "S3",
+      "title": "Existing Food Selection and Health teacher program",
+      "authority": "local-program",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\library-completion\\repositories\\food-selection-health\\resources\\program\\teacher-program-v1.0.0.docx",
+      "revision": "4AC2CA43C56FD5EC23B2ABC1C94A611FEBFB40B90817DE484803B40CFE31210D",
+      "use": "Existing adaptable 20-period teacher sequence retained."
+    },
+    {
+      "id": "S4",
+      "title": "Food Selection and Health course website repository",
+      "authority": "website",
+      "location": "https://stevencowell.github.io/Food-Selection-and-Health/",
+      "revision": "repository inspection 2026-08-29",
+      "use": "Named site theory, checks, activities, formative evidence and route destinations"
+    },
+    {
+      "id": "S5",
+      "title": "Footstool network program benchmark",
+      "authority": "quality-reference",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\year8-elective-alignment\\intro-timber\\resources\\teacher\\Footstool-50-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
+      "revision": "E214012B73C376A1B6931CD04F4FDDFDCCAE7735E96216EAC4A6A098D69AD81D",
+      "use": "Network page structure and table pattern only"
+    }
+  ],
+  "website_learning_inventory": [
+    {
+      "id": "WL-P001",
+      "route": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-01.html#m01-s1-theory",
+      "theory_section": "Personal hygiene and readiness",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'M1.1 Readiness control plan'. FT5-SAF-01, FT5-COM-01, FT5-FPP-01, FT5-USE-01.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        1
+      ],
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "WL-P002",
+      "route": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-01.html#m01-s2-theory",
+      "theory_section": "Contamination, temperature and food safety",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'M1.2 Hazard-route plan'. FT5-SAF-01, FT5-COM-01, FT5-FPP-01, FT5-USE-01.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        2
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-PRACTICAL"
+      ]
+    },
+    {
+      "id": "WL-P003",
+      "route": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-01.html#m01-s3-theory",
+      "theory_section": "Safe decisions and incident response",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'M1.3 Near-miss redesign'. FT5-SAF-01, FT5-COM-01, FT5-FPP-01, FT5-USE-01.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        3
+      ],
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "WL-P004",
+      "route": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s1-theory",
+      "theory_section": "Six nutrients and their roles",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'M2.1 Nutrient-team lunch'. FT5-NSA-01, FT5-COM-01, FT5-IET-01.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        4
+      ],
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "WL-P005",
+      "route": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s2-theory",
+      "theory_section": "Energy, growth and repair",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'M2.2 Context-based meal decision'. FT5-NSA-01, FT5-COM-01, FT5-IET-01.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        5
+      ],
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "WL-P006",
+      "route": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s3-theory",
+      "theory_section": "Digestion and nutrient absorption",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'M2.3 Journey of a mixed meal'. FT5-NSA-01, FT5-COM-01, FT5-IET-01.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        6
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-PRACTICAL"
+      ]
+    },
+    {
+      "id": "WL-P007",
+      "route": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s1-theory",
+      "theory_section": "Ingredients, servings and nutrition panels",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'M3.1 Label evidence pathway'. FT5-NSA-01, FT5-COM-01, FT5-IET-01, FT5-ENV-01.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        7
+      ],
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "WL-P008",
+      "route": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s2-theory",
+      "theory_section": "Comparing foods fairly",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'M3.2 Fair food comparison'. FT5-NSA-01, FT5-COM-01, FT5-IET-01, FT5-ENV-01.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        8
+      ],
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "WL-P009",
+      "route": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s3-theory",
+      "theory_section": "Marketing claims, ethics and health",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'M3.3 Claim-evidence-omission audit'. FT5-NSA-01, FT5-COM-01, FT5-IET-01, FT5-ENV-01.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        9
+      ],
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "WL-P010",
+      "route": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s1-theory",
+      "theory_section": "Active non-nutrients and food variety",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'Food-choice reasoning'. FT5-NSA-01, FT5-IET-01, FT5-COM-01, FT5-ENV-01.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        10
+      ],
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "WL-P011",
+      "route": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s2-theory",
+      "theory_section": "Nutrition across the lifecycle",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'User needs and constraints'. FT5-NSA-01, FT5-IET-01, FT5-COM-01, FT5-ENV-01.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        11
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-PRACTICAL"
+      ]
+    },
+    {
+      "id": "WL-P012",
+      "route": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s3-theory",
+      "theory_section": "Personal, social, cultural and digital influences",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'Influences on selection'. FT5-NSA-01, FT5-IET-01, FT5-COM-01, FT5-ENV-01.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        12
+      ],
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "WL-P013",
+      "route": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s1-theory",
+      "theory_section": "Australian food-consumption patterns",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'Using population evidence'. FT5-IET-01, FT5-NSA-01, FT5-ENV-01, FT5-FPP-01, FT5-COM-01.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        13
+      ],
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "WL-P014",
+      "route": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s2-theory",
+      "theory_section": "Convenience, delivery and food technology",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'Technology and trade-offs'. FT5-IET-01, FT5-NSA-01, FT5-ENV-01, FT5-FPP-01, FT5-COM-01.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        14
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-PRACTICAL"
+      ]
+    },
+    {
+      "id": "WL-P015",
+      "route": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s3-theory",
+      "theory_section": "Designing responsible food solutions",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'Responsible food design'. FT5-IET-01, FT5-NSA-01, FT5-ENV-01, FT5-FPP-01, FT5-COM-01.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        15
+      ],
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "WL-P016",
+      "route": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s1-theory",
+      "theory_section": "Under- and overnutrition",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'Nutrition patterns and support'. FT5-NSA-01, FT5-COM-01, FT5-FPP-01, FT5-ENV-01, FT5-SAF-01.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        16
+      ],
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "WL-P017",
+      "route": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s2-theory",
+      "theory_section": "Nutrition-related conditions and prevention",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'Nutrition-related conditions'. FT5-NSA-01, FT5-COM-01, FT5-FPP-01, FT5-ENV-01, FT5-SAF-01.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        17
+      ],
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "WL-P018",
+      "route": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-theory",
+      "theory_section": "Australian guidance and the HelloEats challenge",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'Draft HelloEats concept'. FT5-NSA-01, FT5-COM-01, FT5-FPP-01, FT5-ENV-01, FT5-SAF-01.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        18
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-ASSESSMENT"
+      ]
+    },
+    {
+      "id": "WL-P019",
+      "route": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s3-theory",
+      "theory_section": "Designing responsible food solutions; Australian guidance and the HelloEats challenge",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "Teacher observation if approved; design criteria, production decisions and evaluation evidence. Formal assessment use remains Teacher to confirm.",
+      "question_count": 20,
+      "scaffolded_response_count": 2,
+      "period_numbers": [
+        19
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-PRACTICAL",
+        "TTC-ASSESSMENT"
+      ]
+    },
+    {
+      "id": "WL-P020",
+      "route": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-theory",
+      "theory_section": "Australian guidance and the HelloEats challenge",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "Final synthesis/evaluation, local folio export and teacher review of named evidence. No website submission claim.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        20
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-ASSESSMENT"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "number": 1,
+      "type": "Site/theory",
+      "focus": "M1.1 Personal hygiene and readiness",
+      "section_ids": [
+        "m01-s1"
+      ],
+      "teaching_and_learning": "Use the section visual and media/equivalent. Complete 'Contamination-chain photo audit' and Package 1.1. Begin with the Module 1 deck.",
+      "syllabus_content_display": "Contributes to: Identify and apply safe and hygienic food preparation practices",
+      "syllabus_alignment": [
+        "ci951c35e7"
+      ],
+      "syllabus_alignment_states": {
+        "ci951c35e7": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'M1.1 Readiness control plan'. FT5-SAF-01, FT5-COM-01, FT5-FPP-01, FT5-USE-01.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-01.html#m01-s1-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-01.html#m01-s1-package",
+        "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m01-s1"
+      ],
+      "teacher_to_confirm_ids": [],
+      "student_work": "Use the section visual and media/equivalent. Complete 'Contamination-chain photo audit' and Package 1.1. Begin with the Module 1 deck.",
+      "syllabus_content": [
+        "Identify and apply safe and hygienic food preparation practices"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M01-S1 theory",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-01.html#m01-s1-theory",
+          "purpose": "Personal hygiene and readiness"
+        },
+        {
+          "label": "M01-S1 checks and response",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-01.html#m01-s1-package",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m01-s1",
+          "purpose": "Complete the Applied Learning Activity: Contamination-chain photo audit."
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P001"
+      ]
+    },
+    {
+      "number": 2,
+      "type": "Practical",
+      "focus": "M1.2 Contamination, temperature and food safety",
+      "section_ids": [
+        "m01-s2"
+      ],
+      "teaching_and_learning": "Use the section visual and media/equivalent. Complete 'Bench-route control challenge' and Package 1.2. Practical only with a teacher-approved activity/recipe and current controls (TTC-P).",
+      "syllabus_content_display": "Contributes to: Assess risks when managing safe and hygienic handling of ingredients and equipment",
+      "syllabus_alignment": [
+        "ci66fc18df"
+      ],
+      "syllabus_alignment_states": {
+        "ci66fc18df": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'M1.2 Hazard-route plan'. FT5-SAF-01, FT5-COM-01, FT5-FPP-01, FT5-USE-01.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-01.html#m01-s2-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-01.html#m01-s2-package",
+        "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m01-s2"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-PRACTICAL"
+      ],
+      "student_work": "Use the section visual and media/equivalent. Complete 'Bench-route control challenge' and Package 1.2. Practical only with a teacher-approved activity/recipe and current controls (TTC-P).",
+      "syllabus_content": [
+        "Assess risks when managing safe and hygienic handling of ingredients and equipment"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M01-S2 theory",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-01.html#m01-s2-theory",
+          "purpose": "Contamination, temperature and food safety"
+        },
+        {
+          "label": "M01-S2 checks and response",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-01.html#m01-s2-package",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m01-s2",
+          "purpose": "Complete the Applied Learning Activity: Bench-route control challenge."
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "website_learning_ids": [
+        "WL-P002"
+      ]
+    },
+    {
+      "number": 3,
+      "type": "Site/theory",
+      "focus": "M1.3 Safe decisions and incident response",
+      "section_ids": [
+        "m01-s3"
+      ],
+      "teaching_and_learning": "Use the section visual and media/equivalent. Complete 'First-action decision carousel' and Package 1.3. Finish with the three-link module review. Use the matching puzzle for retrieval/repair.",
+      "syllabus_content_display": "Contributes to: Identify and apply safe and hygienic food preparation practices",
+      "syllabus_alignment": [
+        "ci951c35e7"
+      ],
+      "syllabus_alignment_states": {
+        "ci951c35e7": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'M1.3 Near-miss redesign'. FT5-SAF-01, FT5-COM-01, FT5-FPP-01, FT5-USE-01.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-01.html#m01-s3-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-01.html#m01-s3-package",
+        "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m01-s3"
+      ],
+      "teacher_to_confirm_ids": [],
+      "student_work": "Use the section visual and media/equivalent. Complete 'First-action decision carousel' and Package 1.3. Finish with the three-link module review. Use the matching puzzle for retrieval/repair.",
+      "syllabus_content": [
+        "Identify and apply safe and hygienic food preparation practices"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M01-S3 theory",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-01.html#m01-s3-theory",
+          "purpose": "Safe decisions and incident response"
+        },
+        {
+          "label": "M01-S3 checks and response",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-01.html#m01-s3-package",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m01-s3",
+          "purpose": "Complete the Applied Learning Activity: First-action decision carousel."
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P003"
+      ]
+    },
+    {
+      "number": 4,
+      "type": "Site/theory",
+      "focus": "M2.1 Six nutrients and their roles",
+      "section_ids": [
+        "m02-s1"
+      ],
+      "teaching_and_learning": "Use the section visual and media/equivalent. Complete 'More than one nutrient' and Package 2.1. Begin with the Module 2 deck.",
+      "syllabus_content_display": "Supports: Explain how the body uses nutrients from food for growth, repair and daily function",
+      "syllabus_alignment": [
+        "cif760e8f1"
+      ],
+      "syllabus_alignment_states": {
+        "cif760e8f1": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-FPP-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'M2.1 Nutrient-team lunch'. FT5-NSA-01, FT5-COM-01, FT5-IET-01.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s1-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s1-package",
+        "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m02-s1"
+      ],
+      "teacher_to_confirm_ids": [],
+      "student_work": "Use the section visual and media/equivalent. Complete 'More than one nutrient' and Package 2.1. Begin with the Module 2 deck.",
+      "syllabus_content": [
+        "Explain how the body uses nutrients from food for growth, repair and daily function"
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M02-S1 theory",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s1-theory",
+          "purpose": "Six nutrients and their roles"
+        },
+        {
+          "label": "M02-S1 checks and response",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s1-package",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m02-s1",
+          "purpose": "Complete the Applied Learning Activity: More than one nutrient."
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P004"
+      ]
+    },
+    {
+      "number": 5,
+      "type": "Project/folio",
+      "focus": "M2.2 Energy, growth and repair",
+      "section_ids": [
+        "m02-s2"
+      ],
+      "teaching_and_learning": "Use the section visual and media/equivalent. Complete 'Same energy, different contribution' and Package 2.2.",
+      "syllabus_content_display": "Supports: Explain how the body uses nutrients from food for growth, repair and daily function",
+      "syllabus_alignment": [
+        "cif760e8f1"
+      ],
+      "syllabus_alignment_states": {
+        "cif760e8f1": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-FPP-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'M2.2 Context-based meal decision'. FT5-NSA-01, FT5-COM-01, FT5-IET-01.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s2-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s2-package",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s2-response",
+        "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m02-s2"
+      ],
+      "teacher_to_confirm_ids": [],
+      "student_work": "Use the section visual and media/equivalent. Complete 'Same energy, different contribution' and Package 2.2.",
+      "syllabus_content": [
+        "Explain how the body uses nutrients from food for growth, repair and daily function"
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M02-S2 theory",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s2-theory",
+          "purpose": "Energy, growth and repair"
+        },
+        {
+          "label": "M02-S2 checks and response",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s2-package",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open folio",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s2-response",
+          "purpose": "Save or export the named formative evidence"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m02-s2",
+          "purpose": "Complete the Applied Learning Activity: Same energy, different contribution."
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P005"
+      ]
+    },
+    {
+      "number": 6,
+      "type": "Practical",
+      "focus": "M2.3 Digestion and nutrient absorption",
+      "section_ids": [
+        "m02-s3"
+      ],
+      "teaching_and_learning": "Use the section visual and media/equivalent. Complete 'Digestive journey relay' and Package 2.3. Finish with the three-link module review. Practical only with a teacher-approved activity/recipe and current controls (TTC-P). Use the matching puzzle for retrieval/repair.",
+      "syllabus_content_display": "Supports: Describe the absorption and metabolism of nutrients in the body during the digestion process",
+      "syllabus_alignment": [
+        "ci623b2732"
+      ],
+      "syllabus_alignment_states": {
+        "ci623b2732": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-FPP-01",
+        "FT5-IET-01",
+        "FT5-NSA-01"
+      ],
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'M2.3 Journey of a mixed meal'. FT5-NSA-01, FT5-COM-01, FT5-IET-01.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s3-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s3-package",
+        "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m02-s3"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-PRACTICAL"
+      ],
+      "student_work": "Use the section visual and media/equivalent. Complete 'Digestive journey relay' and Package 2.3. Finish with the three-link module review. Practical only with a teacher-approved activity/recipe and current controls (TTC-P). Use the matching puzzle for retrieval/repair.",
+      "syllabus_content": [
+        "Describe the absorption and metabolism of nutrients in the body during the digestion process"
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-IET-01",
+        "FT5-NSA-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M02-S3 theory",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s3-theory",
+          "purpose": "Digestion and nutrient absorption"
+        },
+        {
+          "label": "M02-S3 checks and response",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s3-package",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m02-s3",
+          "purpose": "Complete the Applied Learning Activity: Digestive journey relay."
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "website_learning_ids": [
+        "WL-P006"
+      ]
+    },
+    {
+      "number": 7,
+      "type": "Site/theory",
+      "focus": "M3.1 Ingredients, servings and nutrition panels",
+      "section_ids": [
+        "m03-s1"
+      ],
+      "teaching_and_learning": "Use the section visual and media/equivalent. Complete 'Three-pass label scan' and Package 3.1. Begin with the Module 3 deck.",
+      "syllabus_content_display": "Contributes to: Outline legislative food labelling requirements",
+      "syllabus_alignment": [
+        "cib5e4b375"
+      ],
+      "syllabus_alignment_states": {
+        "cib5e4b375": "gap-recorded"
+      },
+      "outcomes": [
+        "FT5-FPP-01",
+        "FT5-USE-01",
+        "FT5-NSA-01"
+      ],
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'M3.1 Label evidence pathway'. FT5-NSA-01, FT5-COM-01, FT5-IET-01, FT5-ENV-01.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s1-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s1-package",
+        "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m03-s1"
+      ],
+      "teacher_to_confirm_ids": [],
+      "student_work": "Use the section visual and media/equivalent. Complete 'Three-pass label scan' and Package 3.1. Begin with the Module 3 deck.",
+      "syllabus_content": [
+        "Outline legislative food labelling requirements"
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-USE-01",
+        "FT5-NSA-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M03-S1 theory",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s1-theory",
+          "purpose": "Ingredients, servings and nutrition panels"
+        },
+        {
+          "label": "M03-S1 checks and response",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s1-package",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m03-s1",
+          "purpose": "Complete the Applied Learning Activity: Three-pass label scan."
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P007"
+      ]
+    },
+    {
+      "number": 8,
+      "type": "Project/folio",
+      "focus": "M3.2 Comparing foods fairly",
+      "section_ids": [
+        "m03-s2"
+      ],
+      "teaching_and_learning": "Use the section visual and media/equivalent. Complete 'Comparison referee' and Package 3.2.",
+      "syllabus_content_display": "Supports: Assess nutritional claims used to influence consumer choice",
+      "syllabus_alignment": [
+        "ci8b1c20f1"
+      ],
+      "syllabus_alignment_states": {
+        "ci8b1c20f1": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-FPP-01",
+        "FT5-USE-01",
+        "FT5-NSA-01"
+      ],
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'M3.2 Fair food comparison'. FT5-NSA-01, FT5-COM-01, FT5-IET-01, FT5-ENV-01.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s2-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s2-package",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s2-response",
+        "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m03-s2"
+      ],
+      "teacher_to_confirm_ids": [],
+      "student_work": "Use the section visual and media/equivalent. Complete 'Comparison referee' and Package 3.2.",
+      "syllabus_content": [
+        "Assess nutritional claims used to influence consumer choice"
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-USE-01",
+        "FT5-NSA-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M03-S2 theory",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s2-theory",
+          "purpose": "Comparing foods fairly"
+        },
+        {
+          "label": "M03-S2 checks and response",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s2-package",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open folio",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s2-response",
+          "purpose": "Save or export the named formative evidence"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m03-s2",
+          "purpose": "Complete the Applied Learning Activity: Comparison referee."
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P008"
+      ]
+    },
+    {
+      "number": 9,
+      "type": "Site/theory",
+      "focus": "M3.3 Marketing claims, ethics and health",
+      "section_ids": [
+        "m03-s3"
+      ],
+      "teaching_and_learning": "Use the section visual and media/equivalent. Complete 'Thirty-second impression reset' and Package 3.3. Finish with the three-link module review. Use the matching puzzle for retrieval/repair.",
+      "syllabus_content_display": "Contributes to: Investigate how media may influence food selection and impact the health of individuals and society",
+      "syllabus_alignment": [
+        "cif6e0256d"
+      ],
+      "syllabus_alignment_states": {
+        "cif6e0256d": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-FPP-01",
+        "FT5-NSA-01",
+        "FT5-ENV-01"
+      ],
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'M3.3 Claim-evidence-omission audit'. FT5-NSA-01, FT5-COM-01, FT5-IET-01, FT5-ENV-01.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s3-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s3-package",
+        "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m03-s3"
+      ],
+      "teacher_to_confirm_ids": [],
+      "student_work": "Use the section visual and media/equivalent. Complete 'Thirty-second impression reset' and Package 3.3. Finish with the three-link module review. Use the matching puzzle for retrieval/repair.",
+      "syllabus_content": [
+        "Investigate how media may influence food selection and impact the health of individuals and society"
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-NSA-01",
+        "FT5-ENV-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M03-S3 theory",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s3-theory",
+          "purpose": "Marketing claims, ethics and health"
+        },
+        {
+          "label": "M03-S3 checks and response",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s3-package",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m03-s3",
+          "purpose": "Complete the Applied Learning Activity: Thirty-second impression reset."
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P009"
+      ]
+    },
+    {
+      "number": 10,
+      "type": "Site/theory",
+      "focus": "M4.1 Active non-nutrients and food variety",
+      "section_ids": [
+        "m04-s1"
+      ],
+      "teaching_and_learning": "Use the section visual and media/equivalent. Complete 'Variety evidence sort' and Package 4.1. Begin with the Module 4 deck.",
+      "syllabus_content_display": "Contributes to: Investigate types and food sources of dietary fibre and its role in supporting health and wellbeing",
+      "syllabus_alignment": [
+        "cib076410a"
+      ],
+      "syllabus_alignment_states": {
+        "cib076410a": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-FPP-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'Food-choice reasoning'. FT5-NSA-01, FT5-IET-01, FT5-COM-01, FT5-ENV-01.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s1-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s1-package",
+        "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m04-s1"
+      ],
+      "teacher_to_confirm_ids": [],
+      "student_work": "Use the section visual and media/equivalent. Complete 'Variety evidence sort' and Package 4.1. Begin with the Module 4 deck.",
+      "syllabus_content": [
+        "Investigate types and food sources of dietary fibre and its role in supporting health and wellbeing"
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M04-S1 theory",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s1-theory",
+          "purpose": "Active non-nutrients and food variety"
+        },
+        {
+          "label": "M04-S1 checks and response",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s1-package",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m04-s1",
+          "purpose": "Complete the Applied Learning Activity: Variety evidence sort."
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P010"
+      ]
+    },
+    {
+      "number": 11,
+      "type": "Practical",
+      "focus": "M4.2 Nutrition across the lifecycle",
+      "section_ids": [
+        "m04-s2"
+      ],
+      "teaching_and_learning": "Use the section visual and media/equivalent. Complete 'Lifecycle meal adaptation studio' and Package 4.2. Practical only with a teacher-approved activity/recipe and current controls (TTC-P).",
+      "syllabus_content_display": "Supports: Outline the nutritional needs of individuals and groups of people at each stage of life",
+      "syllabus_alignment": [
+        "ciffdedf76"
+      ],
+      "syllabus_alignment_states": {
+        "ciffdedf76": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-FPP-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'User needs and constraints'. FT5-NSA-01, FT5-IET-01, FT5-COM-01, FT5-ENV-01.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s2-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s2-package",
+        "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m04-s2"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-PRACTICAL"
+      ],
+      "student_work": "Use the section visual and media/equivalent. Complete 'Lifecycle meal adaptation studio' and Package 4.2. Practical only with a teacher-approved activity/recipe and current controls (TTC-P).",
+      "syllabus_content": [
+        "Outline the nutritional needs of individuals and groups of people at each stage of life"
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M04-S2 theory",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s2-theory",
+          "purpose": "Nutrition across the lifecycle"
+        },
+        {
+          "label": "M04-S2 checks and response",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s2-package",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m04-s2",
+          "purpose": "Complete the Applied Learning Activity: Lifecycle meal adaptation studio."
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "website_learning_ids": [
+        "WL-P011"
+      ]
+    },
+    {
+      "number": 12,
+      "type": "Project/folio",
+      "focus": "M4.3 Personal, social, cultural and digital influences",
+      "section_ids": [
+        "m04-s3"
+      ],
+      "teaching_and_learning": "Use the section visual and media/equivalent. Complete 'Influence detective' and Package 4.3. Finish with the three-link module review. Use the matching puzzle for retrieval/repair.",
+      "syllabus_content_display": "Supports: Examine physiological, psychological, social and economic factors that influence food selection",
+      "syllabus_alignment": [
+        "cid30998cd"
+      ],
+      "syllabus_alignment_states": {
+        "cid30998cd": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-FPP-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'Influences on selection'. FT5-NSA-01, FT5-IET-01, FT5-COM-01, FT5-ENV-01.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s3-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s3-package",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s3-response",
+        "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m04-s3"
+      ],
+      "teacher_to_confirm_ids": [],
+      "student_work": "Use the section visual and media/equivalent. Complete 'Influence detective' and Package 4.3. Finish with the three-link module review. Use the matching puzzle for retrieval/repair.",
+      "syllabus_content": [
+        "Examine physiological, psychological, social and economic factors that influence food selection"
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M04-S3 theory",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s3-theory",
+          "purpose": "Personal, social, cultural and digital influences"
+        },
+        {
+          "label": "M04-S3 checks and response",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s3-package",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open folio",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s3-response",
+          "purpose": "Save or export the named formative evidence"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m04-s3",
+          "purpose": "Complete the Applied Learning Activity: Influence detective."
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P012"
+      ]
+    },
+    {
+      "number": 13,
+      "type": "Site/theory",
+      "focus": "M5.1 Australian food-consumption patterns",
+      "section_ids": [
+        "m05-s1"
+      ],
+      "teaching_and_learning": "Use the section visual and media/equivalent. Complete 'Pattern claim clinic' and Package 5.1. Begin with the Module 5 deck.",
+      "syllabus_content_display": "Supports: Use data to assess how and why Australian food consumption patterns have changed over time",
+      "syllabus_alignment": [
+        "ci8eaa9f1a"
+      ],
+      "syllabus_alignment_states": {
+        "ci8eaa9f1a": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-FPP-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'Using population evidence'. FT5-IET-01, FT5-NSA-01, FT5-ENV-01, FT5-FPP-01, FT5-COM-01.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s1-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s1-package",
+        "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m05-s1"
+      ],
+      "teacher_to_confirm_ids": [],
+      "student_work": "Use the section visual and media/equivalent. Complete 'Pattern claim clinic' and Package 5.1. Begin with the Module 5 deck.",
+      "syllabus_content": [
+        "Use data to assess how and why Australian food consumption patterns have changed over time"
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M05-S1 theory",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s1-theory",
+          "purpose": "Australian food-consumption patterns"
+        },
+        {
+          "label": "M05-S1 checks and response",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s1-package",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m05-s1",
+          "purpose": "Complete the Applied Learning Activity: Pattern claim clinic."
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P013"
+      ]
+    },
+    {
+      "number": 14,
+      "type": "Practical",
+      "focus": "M5.2 Convenience, delivery and food technology",
+      "section_ids": [
+        "m05-s2"
+      ],
+      "teaching_and_learning": "Use the section visual and media/equivalent. Complete 'Convenience system map' and Package 5.2. Practical only with a teacher-approved activity/recipe and current controls (TTC-P).",
+      "syllabus_content_display": "Supports: Investigate emerging technologies used in food production, processing and preservation",
+      "syllabus_alignment": [
+        "cia575d99b"
+      ],
+      "syllabus_alignment_states": {
+        "cia575d99b": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'Technology and trade-offs'. FT5-IET-01, FT5-NSA-01, FT5-ENV-01, FT5-FPP-01, FT5-COM-01.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s2-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s2-package",
+        "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m05-s2"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-PRACTICAL"
+      ],
+      "student_work": "Use the section visual and media/equivalent. Complete 'Convenience system map' and Package 5.2. Practical only with a teacher-approved activity/recipe and current controls (TTC-P).",
+      "syllabus_content": [
+        "Investigate emerging technologies used in food production, processing and preservation"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M05-S2 theory",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s2-theory",
+          "purpose": "Convenience, delivery and food technology"
+        },
+        {
+          "label": "M05-S2 checks and response",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s2-package",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m05-s2",
+          "purpose": "Complete the Applied Learning Activity: Convenience system map."
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "website_learning_ids": [
+        "WL-P014"
+      ]
+    },
+    {
+      "number": 15,
+      "type": "Project/folio",
+      "focus": "M5.3 Designing responsible food solutions",
+      "section_ids": [
+        "m05-s3"
+      ],
+      "teaching_and_learning": "Use the section visual and media/equivalent. Complete 'Design decision matrix sprint' and Package 5.3. Finish with the three-link module review.",
+      "syllabus_content_display": "Contributes to: Apply creative concepts and design thinking to generate and evaluate food design ideas and solutions for a specific context",
+      "syllabus_alignment": [
+        "ci735bc513"
+      ],
+      "syllabus_alignment_states": {
+        "ci735bc513": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-FPP-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'Responsible food design'. FT5-IET-01, FT5-NSA-01, FT5-ENV-01, FT5-FPP-01, FT5-COM-01.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s3-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s3-package",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s3-response",
+        "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m05-s3"
+      ],
+      "teacher_to_confirm_ids": [],
+      "student_work": "Use the section visual and media/equivalent. Complete 'Design decision matrix sprint' and Package 5.3. Finish with the three-link module review.",
+      "syllabus_content": [
+        "Apply creative concepts and design thinking to generate and evaluate food design ideas and solutions for a specific context"
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M05-S3 theory",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s3-theory",
+          "purpose": "Designing responsible food solutions"
+        },
+        {
+          "label": "M05-S3 checks and response",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s3-package",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open folio",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s3-response",
+          "purpose": "Save or export the named formative evidence"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m05-s3",
+          "purpose": "Complete the Applied Learning Activity: Design decision matrix sprint."
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P015"
+      ]
+    },
+    {
+      "number": 16,
+      "type": "Site/theory",
+      "focus": "M6.1 Under- and overnutrition",
+      "section_ids": [
+        "m06-s1"
+      ],
+      "teaching_and_learning": "Use the section visual and media/equivalent. Complete 'Pattern-mechanism-support triads' and Package 6.1. Begin with the Module 6 deck.",
+      "syllabus_content_display": "Supports: Explain how informed food choices can support the management of nutrition-related health conditions",
+      "syllabus_alignment": [
+        "cie80d3af6"
+      ],
+      "syllabus_alignment_states": {
+        "cie80d3af6": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-FPP-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'Nutrition patterns and support'. FT5-NSA-01, FT5-COM-01, FT5-FPP-01, FT5-ENV-01, FT5-SAF-01.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s1-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s1-package",
+        "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m06-s1"
+      ],
+      "teacher_to_confirm_ids": [],
+      "student_work": "Use the section visual and media/equivalent. Complete 'Pattern-mechanism-support triads' and Package 6.1. Begin with the Module 6 deck.",
+      "syllabus_content": [
+        "Explain how informed food choices can support the management of nutrition-related health conditions"
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M06-S1 theory",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s1-theory",
+          "purpose": "Under- and overnutrition"
+        },
+        {
+          "label": "M06-S1 checks and response",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s1-package",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m06-s1",
+          "purpose": "Complete the Applied Learning Activity: Pattern-mechanism-support triads."
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P016"
+      ]
+    },
+    {
+      "number": 17,
+      "type": "Site/theory",
+      "focus": "M6.2 Nutrition-related conditions and prevention",
+      "section_ids": [
+        "m06-s2"
+      ],
+      "teaching_and_learning": "Use the section visual and media/equivalent. Complete 'Mechanism and claim clinic' and Package 6.2.",
+      "syllabus_content_display": "Supports: Explain how informed food choices can support the management of nutrition-related health conditions",
+      "syllabus_alignment": [
+        "cie80d3af6"
+      ],
+      "syllabus_alignment_states": {
+        "cie80d3af6": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-NSA-01"
+      ],
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'Nutrition-related conditions'. FT5-NSA-01, FT5-COM-01, FT5-FPP-01, FT5-ENV-01, FT5-SAF-01.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s2-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s2-package",
+        "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m06-s2"
+      ],
+      "teacher_to_confirm_ids": [],
+      "student_work": "Use the section visual and media/equivalent. Complete 'Mechanism and claim clinic' and Package 6.2.",
+      "syllabus_content": [
+        "Explain how informed food choices can support the management of nutrition-related health conditions"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-NSA-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M06-S2 theory",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s2-theory",
+          "purpose": "Nutrition-related conditions and prevention"
+        },
+        {
+          "label": "M06-S2 checks and response",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s2-package",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m06-s2",
+          "purpose": "Complete the Applied Learning Activity: Mechanism and claim clinic."
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P017"
+      ]
+    },
+    {
+      "number": 18,
+      "type": "Project/folio",
+      "focus": "M6.3 Australian guidance and the HelloEats challenge",
+      "section_ids": [
+        "m06-s3"
+      ],
+      "teaching_and_learning": "Use the section visual and media/equivalent. Complete 'Draft HelloEats evidence sprint' and Package 6.3. Finish with the three-link module review. Use the matching puzzle for retrieval/repair.",
+      "syllabus_content_display": "Contributes to: Investigate and evaluate food guides that promote balanced and nutritious food choices",
+      "syllabus_alignment": [
+        "ci94b1bdc6"
+      ],
+      "syllabus_alignment_states": {
+        "ci94b1bdc6": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "10 MCQs + feedback; one scaffolded response; save 'Draft HelloEats concept'. FT5-NSA-01, FT5-COM-01, FT5-FPP-01, FT5-ENV-01, FT5-SAF-01.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-package",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-response",
+        "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m06-s3"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-ASSESSMENT"
+      ],
+      "student_work": "Use the section visual and media/equivalent. Complete 'Draft HelloEats evidence sprint' and Package 6.3. Finish with the three-link module review. Use the matching puzzle for retrieval/repair.",
+      "syllabus_content": [
+        "Investigate and evaluate food guides that promote balanced and nutritious food choices"
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M06-S3 theory",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-theory",
+          "purpose": "Australian guidance and the HelloEats challenge"
+        },
+        {
+          "label": "M06-S3 checks and response",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-package",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open folio",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-response",
+          "purpose": "Save or export the named formative evidence"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m06-s3",
+          "purpose": "Complete the Applied Learning Activity: Draft HelloEats evidence sprint."
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P018"
+      ]
+    },
+    {
+      "number": 19,
+      "type": "Practical",
+      "focus": "Teacher-approved food-solution application",
+      "section_ids": [
+        "m05-s3",
+        "m06-s3"
+      ],
+      "teaching_and_learning": "If locally approved, produce or test one food solution under current room directions. Use the Module 5 design evidence and Module 6 guidance. Recipe, ingredients, equipment, PPE, allergens, facilities, supervision and risk controls are Teacher to confirm.",
+      "syllabus_content_display": "Contributes to: Apply creative concepts and design thinking to generate and evaluate food design ideas and solutions for a specific context",
+      "syllabus_alignment": [
+        "ci735bc513",
+        "ci94b1bdc6"
+      ],
+      "syllabus_alignment_states": {
+        "ci735bc513": "partial-current-site",
+        "ci94b1bdc6": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "evidence": "Teacher observation if approved; design criteria, production decisions and evaluation evidence. Formal assessment use remains Teacher to confirm.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s3-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s3-package",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-package",
+        "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m06-s3"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-PRACTICAL",
+        "TTC-ASSESSMENT"
+      ],
+      "student_work": "If locally approved, produce or test one food solution under current room directions. Use the Module 5 design evidence and Module 6 guidance. Recipe, ingredients, equipment, PPE, allergens, facilities, supervision and risk controls are Teacher to confirm.",
+      "syllabus_content": [
+        "Apply creative concepts and design thinking to generate and evaluate food design ideas and solutions for a specific context",
+        "Investigate and evaluate food guides that promote balanced and nutritious food choices"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M05-S3 theory",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s3-theory",
+          "purpose": "Designing responsible food solutions"
+        },
+        {
+          "label": "M05-S3 checks and response",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s3-package",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "M06-S3 theory",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-theory",
+          "purpose": "Australian guidance and the HelloEats challenge"
+        },
+        {
+          "label": "M06-S3 checks and response",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-package",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m06-s3",
+          "purpose": "Complete the Applied Learning Activity: Draft HelloEats evidence sprint."
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "website_learning_ids": [
+        "WL-P019"
+      ]
+    },
+    {
+      "number": 20,
+      "type": "Project/folio",
+      "focus": "Course synthesis, review and evidence export",
+      "section_ids": [
+        "m06-s3"
+      ],
+      "teaching_and_learning": "Review completion across all six modules, 18 packages and eight folio stages. Students evaluate one changed decision, identify evidence limits, export their local folio and check the assessment-status boundary.",
+      "syllabus_content_display": "Contributes to: Investigate and evaluate food guides that promote balanced and nutritious food choices",
+      "syllabus_alignment": [
+        "ci94b1bdc6"
+      ],
+      "syllabus_alignment_states": {
+        "ci94b1bdc6": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "Final synthesis/evaluation, local folio export and teacher review of named evidence. No website submission claim.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-theory",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-package",
+        "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-response",
+        "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m06-s3"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-ASSESSMENT"
+      ],
+      "student_work": "Review completion across all six modules, 18 packages and eight folio stages. Students evaluate one changed decision, identify evidence limits, export their local folio and check the assessment-status boundary.",
+      "syllabus_content": [
+        "Investigate and evaluate food guides that promote balanced and nutritious food choices"
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M06-S3 theory",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-theory",
+          "purpose": "Australian guidance and the HelloEats challenge"
+        },
+        {
+          "label": "M06-S3 checks and response",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-package",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open folio",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-response",
+          "purpose": "Save or export the named formative evidence"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m06-s3",
+          "purpose": "Complete the Applied Learning Activity: Draft HelloEats evidence sprint."
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P020"
+      ]
+    }
+  ],
+  "site_route_map": [
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-01.html#m01-s1-theory",
+      "purpose": "Personal hygiene and readiness",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-01.html#m01-s1-package",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m01-s1",
+      "purpose": "Complete the Applied Learning Activity: Contamination-chain photo audit.",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-01.html#m01-s2-theory",
+      "purpose": "Contamination, temperature and food safety",
+      "audience": "student",
+      "period_numbers": [
+        2
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-01.html#m01-s2-package",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        2
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m01-s2",
+      "purpose": "Complete the Applied Learning Activity: Bench-route control challenge.",
+      "audience": "student",
+      "period_numbers": [
+        2
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-01.html#m01-s3-theory",
+      "purpose": "Safe decisions and incident response",
+      "audience": "student",
+      "period_numbers": [
+        3
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-01.html#m01-s3-package",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        3
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m01-s3",
+      "purpose": "Complete the Applied Learning Activity: First-action decision carousel.",
+      "audience": "student",
+      "period_numbers": [
+        3
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s1-theory",
+      "purpose": "Six nutrients and their roles",
+      "audience": "student",
+      "period_numbers": [
+        4
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s1-package",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        4
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m02-s1",
+      "purpose": "Complete the Applied Learning Activity: More than one nutrient.",
+      "audience": "student",
+      "period_numbers": [
+        4
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s2-theory",
+      "purpose": "Energy, growth and repair",
+      "audience": "student",
+      "period_numbers": [
+        5
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s2-package",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        5
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s2-response",
+      "purpose": "Save or export the named formative evidence",
+      "audience": "student",
+      "period_numbers": [
+        5
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m02-s2",
+      "purpose": "Complete the Applied Learning Activity: Same energy, different contribution.",
+      "audience": "student",
+      "period_numbers": [
+        5
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s3-theory",
+      "purpose": "Digestion and nutrient absorption",
+      "audience": "student",
+      "period_numbers": [
+        6
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-02.html#m02-s3-package",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        6
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m02-s3",
+      "purpose": "Complete the Applied Learning Activity: Digestive journey relay.",
+      "audience": "student",
+      "period_numbers": [
+        6
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s1-theory",
+      "purpose": "Ingredients, servings and nutrition panels",
+      "audience": "student",
+      "period_numbers": [
+        7
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s1-package",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        7
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m03-s1",
+      "purpose": "Complete the Applied Learning Activity: Three-pass label scan.",
+      "audience": "student",
+      "period_numbers": [
+        7
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s2-theory",
+      "purpose": "Comparing foods fairly",
+      "audience": "student",
+      "period_numbers": [
+        8
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s2-package",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        8
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s2-response",
+      "purpose": "Save or export the named formative evidence",
+      "audience": "student",
+      "period_numbers": [
+        8
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m03-s2",
+      "purpose": "Complete the Applied Learning Activity: Comparison referee.",
+      "audience": "student",
+      "period_numbers": [
+        8
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s3-theory",
+      "purpose": "Marketing claims, ethics and health",
+      "audience": "student",
+      "period_numbers": [
+        9
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-03.html#m03-s3-package",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        9
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m03-s3",
+      "purpose": "Complete the Applied Learning Activity: Thirty-second impression reset.",
+      "audience": "student",
+      "period_numbers": [
+        9
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s1-theory",
+      "purpose": "Active non-nutrients and food variety",
+      "audience": "student",
+      "period_numbers": [
+        10
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s1-package",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        10
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m04-s1",
+      "purpose": "Complete the Applied Learning Activity: Variety evidence sort.",
+      "audience": "student",
+      "period_numbers": [
+        10
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s2-theory",
+      "purpose": "Nutrition across the lifecycle",
+      "audience": "student",
+      "period_numbers": [
+        11
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s2-package",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        11
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m04-s2",
+      "purpose": "Complete the Applied Learning Activity: Lifecycle meal adaptation studio.",
+      "audience": "student",
+      "period_numbers": [
+        11
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s3-theory",
+      "purpose": "Personal, social, cultural and digital influences",
+      "audience": "student",
+      "period_numbers": [
+        12
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s3-package",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        12
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-04.html#m04-s3-response",
+      "purpose": "Save or export the named formative evidence",
+      "audience": "student",
+      "period_numbers": [
+        12
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m04-s3",
+      "purpose": "Complete the Applied Learning Activity: Influence detective.",
+      "audience": "student",
+      "period_numbers": [
+        12
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s1-theory",
+      "purpose": "Australian food-consumption patterns",
+      "audience": "student",
+      "period_numbers": [
+        13
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s1-package",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        13
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m05-s1",
+      "purpose": "Complete the Applied Learning Activity: Pattern claim clinic.",
+      "audience": "student",
+      "period_numbers": [
+        13
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s2-theory",
+      "purpose": "Convenience, delivery and food technology",
+      "audience": "student",
+      "period_numbers": [
+        14
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s2-package",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        14
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m05-s2",
+      "purpose": "Complete the Applied Learning Activity: Convenience system map.",
+      "audience": "student",
+      "period_numbers": [
+        14
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s3-theory",
+      "purpose": "Designing responsible food solutions",
+      "audience": "student",
+      "period_numbers": [
+        15,
+        19
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s3-package",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        15,
+        19
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-05.html#m05-s3-response",
+      "purpose": "Save or export the named formative evidence",
+      "audience": "student",
+      "period_numbers": [
+        15
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m05-s3",
+      "purpose": "Complete the Applied Learning Activity: Design decision matrix sprint.",
+      "audience": "student",
+      "period_numbers": [
+        15
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s1-theory",
+      "purpose": "Under- and overnutrition",
+      "audience": "student",
+      "period_numbers": [
+        16
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s1-package",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        16
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m06-s1",
+      "purpose": "Complete the Applied Learning Activity: Pattern-mechanism-support triads.",
+      "audience": "student",
+      "period_numbers": [
+        16
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s2-theory",
+      "purpose": "Nutrition-related conditions and prevention",
+      "audience": "student",
+      "period_numbers": [
+        17
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s2-package",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        17
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m06-s2",
+      "purpose": "Complete the Applied Learning Activity: Mechanism and claim clinic.",
+      "audience": "student",
+      "period_numbers": [
+        17
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-theory",
+      "purpose": "Australian guidance and the HelloEats challenge",
+      "audience": "student",
+      "period_numbers": [
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-package",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/modules/module-06.html#m06-s3-response",
+      "purpose": "Save or export the named formative evidence",
+      "audience": "student",
+      "period_numbers": [
+        18,
+        20
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-Selection-and-Health/activities.html#act-m06-s3",
+      "purpose": "Complete the Applied Learning Activity: Draft HelloEats evidence sprint.",
+      "audience": "student",
+      "period_numbers": [
+        18,
+        19,
+        20
+      ]
+    }
+  ],
+  "content_coverage": {
+    "official_content_total": 125,
+    "content_points_referenced_by_this_program": 15,
+    "referenced_point_states": {
+      "supported-current-site": 8,
+      "partial-current-site": 6,
+      "gap-recorded": 1
+    },
+    "claim_boundary": "A point is not complete merely because it is referenced. Only supported-current-site points have explicit site theory and formative evidence; partial and gap states remain open in the master gap register."
+  },
+  "teacher_to_confirm": [
+    {
+      "id": "TTC-PRACTICAL",
+      "item": "Confirm the current approved recipe or activity, equipment, ingredients, room controls, risk controls and supervision before practical work.",
+      "owner": "Teacher/course coordinator",
+      "due_before": "Before the first affected period is delivered",
+      "affected_periods": [
+        2,
+        6,
+        11,
+        14,
+        19
+      ],
+      "state": "Teacher to confirm before delivery"
+    },
+    {
+      "id": "TTC-ASSESSMENT",
+      "item": "Confirm the current formal assessment notification, due date, weighting, submission route and marking authority; site exports are not submission proof.",
+      "owner": "Teacher/course coordinator",
+      "due_before": "Before the first affected period is delivered",
+      "affected_periods": [
+        18,
+        19,
+        20
+      ],
+      "state": "Teacher to confirm before delivery"
+    }
+  ],
+  "files": [
+    {
+      "path": "Food-Selection-and-Health-20-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
+      "purpose": "editable-program",
+      "version": "v2.0",
+      "sha256": "7EFB0C023F3A34EF5FDD7037EB872F23923412614C27A1F8DA2858837A6A19A8"
+    },
+    {
+      "path": "Food-Selection-and-Health-20-Period-Teaching-Program-v2.0-Network-Benchmark.pdf",
+      "purpose": "rendered-program",
+      "version": "v2.0",
+      "sha256": "C1ECAFB1BE1EF628BE042D514853D278366802E534CF38F97FDA014794A2DBED"
+    },
+    {
+      "path": "Food-Selection-and-Health-20-Period-Alignment-Manifest-v2.0.json",
+      "purpose": "alignment-manifest",
+      "version": "v2.0"
+    }
+  ]
+}
