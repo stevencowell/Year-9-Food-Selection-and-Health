@@ -111,7 +111,7 @@
       "id": "S3",
       "title": "Existing Food Selection and Health teacher program",
       "authority": "local-program",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\library-completion\\repositories\\food-selection-health\\resources\\program\\teacher-program-v1.0.0.docx",
+      "location": "private-source:food-selection-and-health/teacher-program-v1.0.0.docx",
       "revision": "4AC2CA43C56FD5EC23B2ABC1C94A611FEBFB40B90817DE484803B40CFE31210D",
       "use": "Existing adaptable 20-period teacher sequence retained."
     },
@@ -127,7 +127,7 @@
       "id": "S5",
       "title": "Footstool network program benchmark",
       "authority": "quality-reference",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\year8-elective-alignment\\intro-timber\\resources\\teacher\\Footstool-50-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
+      "location": "subject-program-library/programs/Footstool-50-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
       "revision": "E214012B73C376A1B6931CD04F4FDDFDCCAE7735E96216EAC4A6A098D69AD81D",
       "use": "Network page structure and table pattern only"
     }
@@ -2300,13 +2300,13 @@
       "path": "Food-Selection-and-Health-20-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
       "purpose": "editable-program",
       "version": "v2.0",
-      "sha256": "7EFB0C023F3A34EF5FDD7037EB872F23923412614C27A1F8DA2858837A6A19A8"
+      "sha256": "679E8014BB011504BA6AE44302AB105FEC3DA269BA5763849B8618A4AF056951"
     },
     {
       "path": "Food-Selection-and-Health-20-Period-Teaching-Program-v2.0-Network-Benchmark.pdf",
       "purpose": "rendered-program",
       "version": "v2.0",
-      "sha256": "C1ECAFB1BE1EF628BE042D514853D278366802E534CF38F97FDA014794A2DBED"
+      "sha256": "AF17718949D539247D030BEAFA7EE294FEC5C9414CD0301AC4C43D7B4F1DFEFA"
     },
     {
       "path": "Food-Selection-and-Health-20-Period-Alignment-Manifest-v2.0.json",
